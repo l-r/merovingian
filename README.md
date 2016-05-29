@@ -11,10 +11,10 @@ as a leader of a powerful organized crime syndicate.
 
 ## Mapbox repositories
 
-[by name](by_name.md)
+[by name](name.md)
 
-[by language](by_language.md)
+[by language](language.md)
 
-[by updated](by_updated.md)
+[by updated](updated_at.md)
 
-[by description](by_description.md)
+[by description](description.md)
