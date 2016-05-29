@@ -2,32 +2,12 @@
 | ---- | ----------- | ---------- | -------- | --- |
 | 2013-oklahoma-tornado | n/a | 2014-01-29T20:48:09Z | n/a | https://api.github.com/repos/mapbox/2013-oklahoma-tornado |
 | A-binary-parser-generator | This project aims to create a tool that can turn a spec file into a parser skeleton for binary data files such as OpenType fonts, PNG images, etc. | 2015-05-06T17:58:44Z | JavaScript | https://api.github.com/repos/mapbox/A-binary-parser-generator |
-| AndroidGLMap | Android Studio GL NDK Gradle experiments | 2015-04-06T15:19:35Z | Java | https://api.github.com/repos/mapbox/AndroidGLMap |
-| Fingertips | Touch indicators on external displays for iOS applications. | 2016-05-28T21:59:21Z | Objective-C | https://api.github.com/repos/mapbox/Fingertips |
-| GeoIP | libgeoip binding for nodejs | 2014-05-15T04:07:10Z | JavaScript | https://api.github.com/repos/mapbox/GeoIP |
-| JOSM-configuration | A JOSM plugin which loads task components | 2015-12-09T09:08:09Z | Java | https://api.github.com/repos/mapbox/JOSM-configuration |
-| MBDesignView | MBDesignView | 2015-02-25T18:35:54Z | Objective-C | https://api.github.com/repos/mapbox/MBDesignView |
-| MBDrawingView.swift | Gesture-based drawing overlay view | 2016-04-10T19:15:45Z | Swift | https://api.github.com/repos/mapbox/MBDrawingView.swift |
-| MacMapKit | MapKit Framework for the Mac | 2015-10-13T21:05:32Z | Objective-C | https://api.github.com/repos/mapbox/MacMapKit |
-| MapBoxBench | DEPRECATED MapBox iOS SDK benchmarking tool | 2016-05-15T22:38:25Z | Objective-C | https://api.github.com/repos/mapbox/MapBoxBench |
-| MapDBImporter | A tool to import a folder of MapBox tiles into a single SQLite file. | 2015-11-01T14:45:22Z | Objective-C | https://api.github.com/repos/mapbox/MapDBImporter |
-| MapboxDirections.swift | Mapbox Directions for Swift | 2016-05-23T20:52:44Z | Swift | https://api.github.com/repos/mapbox/MapboxDirections.swift |
-| MapboxGeocoder.swift | Swift/Objective-C library for Mapbox’s Geocoding API | 2016-05-22T07:08:18Z | Swift | https://api.github.com/repos/mapbox/MapboxGeocoder.swift |
-| MapboxStatic.swift | Swift/Objective-C library for Mapbox’s classic Static API | 2016-05-22T04:38:17Z | Swift | https://api.github.com/repos/mapbox/MapboxStatic.swift |
-| MapboxTableViewDemo | Reference implementation of reuse of UITableViewCell objects containing Mapbox GL-based Mapbox iOS SDK maps. | 2015-12-15T11:37:28Z | Swift | https://api.github.com/repos/mapbox/MapboxTableViewDemo |
-| OfflineCalc | Small utility app to calculate the tile counts needed to go offline. | 2015-07-29T09:31:10Z | Objective-C | https://api.github.com/repos/mapbox/OfflineCalc |
-| OkGL | Proof Of Concept Build Out For Android GL FileSource Networking Tech Stack | 2015-02-19T15:38:29Z | Java | https://api.github.com/repos/mapbox/OkGL |
-| SCSafariPageController | A page view controller component that reproduces Mobile Safari's tab switching behavior | 2016-04-17T21:08:40Z | Objective-C | https://api.github.com/repos/mapbox/SCSafariPageController |
-| SMCalloutView | A lightweight callout view class for iOS mimicking UICalloutView. | 2016-02-17T07:25:27Z | Objective-C | https://api.github.com/repos/mapbox/SMCalloutView |
-| Simple-KML | Simple KML is a simple & lightweight parsing library for KML written in Objective-C for the iOS platform.  | 2016-05-01T01:12:59Z | Objective-C | https://api.github.com/repos/mapbox/Simple-KML |
-| Sparkle | A software update framework for the Mac | 2014-06-28T16:09:46Z | Objective-C | https://api.github.com/repos/mapbox/Sparkle |
-| Swiftbox | Mapbox's Objective-C iOS SDK in a Swift app | 2016-04-18T06:26:39Z | Objective-C | https://api.github.com/repos/mapbox/Swiftbox |
-| SwiftyJSON | The better way to deal with JSON data in Swift | 2015-06-13T22:53:38Z | Swift | https://api.github.com/repos/mapbox/SwiftyJSON |
 | abaculus | Library for creating static maps from tiles based on center or corner lng,lat coordinates. Uses node-blend. | 2016-05-23T18:41:37Z | JavaScript | https://api.github.com/repos/mapbox/abaculus |
 | advancecomp | Fork of the AdvanceCOMP re-compression utilities | 2013-05-15T22:56:55Z | C++ | https://api.github.com/repos/mapbox/advancecomp |
 | ambient-light | Ambient light map styling for Mapbox GL for iOS | 2016-02-07T05:46:36Z | Objective-C | https://api.github.com/repos/mapbox/ambient-light |
 | ami-bundle | Wrapper script to bundle an instance-backed Amazon Machine Image | 2015-07-07T16:03:16Z | Shell | https://api.github.com/repos/mapbox/ami-bundle |
 | analysis-demos | n/a | 2016-04-29T01:34:24Z | JavaScript | https://api.github.com/repos/mapbox/analysis-demos |
+| AndroidGLMap | Android Studio GL NDK Gradle experiments | 2015-04-06T15:19:35Z | Java | https://api.github.com/repos/mapbox/AndroidGLMap |
 | assert-http | Test helpers for testing a HTTP interface | 2016-01-13T17:39:47Z | JavaScript | https://api.github.com/repos/mapbox/assert-http |
 | atom-shell | Cross-platform desktop application shell | 2016-04-04T19:24:48Z | n/a | https://api.github.com/repos/mapbox/atom-shell |
 | auto-tools | n/a | 2016-05-25T04:48:16Z | Java | https://api.github.com/repos/mapbox/auto-tools |
@@ -117,6 +97,7 @@
 | execcommand-copy | Copy text to a user's clipboard using the modern execCommand interface | 2016-01-09T20:56:20Z | JavaScript | https://api.github.com/repos/mapbox/execcommand-copy |
 | extent | geographical extent | 2015-05-27T18:46:35Z | JavaScript | https://api.github.com/repos/mapbox/extent |
 | feature-filter | Creates filtering function for vector tile features | 2016-05-27T08:50:18Z | JavaScript | https://api.github.com/repos/mapbox/feature-filter |
+| Fingertips | Touch indicators on external displays for iOS applications. | 2016-05-28T21:59:21Z | Objective-C | https://api.github.com/repos/mapbox/Fingertips |
 | fischer-color | a javascript implementation of eric fischer's perceptually-friendly color system | 2015-10-12T00:43:47Z | JavaScript | https://api.github.com/repos/mapbox/fischer-color |
 | font-scope | Reformats node-fontnik's font-inspect output to be human-readable and summarized. | 2015-11-07T11:25:52Z | JavaScript | https://api.github.com/repos/mapbox/font-scope |
 | fontmachine | Make GL-ready pbfs and metadata for usage in fontstack API. | 2016-05-22T07:11:13Z | JavaScript | https://api.github.com/repos/mapbox/fontmachine |
@@ -138,6 +119,7 @@
 | geobuf | A compact binary encoding for geographic data. | 2016-05-27T01:27:13Z | JavaScript | https://api.github.com/repos/mapbox/geobuf |
 | geocode-many | given an array of objects and a transform into a geocodable string, geocode them if possible | 2016-04-06T14:05:04Z | JavaScript | https://api.github.com/repos/mapbox/geocode-many |
 | geocoding-example | Examples of how to use the Mapbox geocoder. | 2016-03-28T07:25:50Z | PHP | https://api.github.com/repos/mapbox/geocoding-example |
+| GeoIP | libgeoip binding for nodejs | 2014-05-15T04:07:10Z | JavaScript | https://api.github.com/repos/mapbox/GeoIP |
 | geojson-area | compute the area of a geojson polygon or multipolygon | 2016-04-20T16:20:42Z | JavaScript | https://api.github.com/repos/mapbox/geojson-area |
 | geojson-coordinate-properties | a draft extension to GeoJSON defining the encoding of arbitrary properties along LineString geometries | 2015-11-07T11:24:50Z | n/a | https://api.github.com/repos/mapbox/geojson-coordinate-properties |
 | geojson-coords | Extract coordinates from GeoJSON. | 2016-02-22T19:39:09Z | JavaScript | https://api.github.com/repos/mapbox/geojson-coords |
@@ -196,6 +178,7 @@
 | intro-to-mapbox | n/a | 2016-02-01T06:11:10Z | HTML | https://api.github.com/repos/mapbox/intro-to-mapbox |
 | jekyll | Jekyll is a blog-aware, static site generator in Ruby | 2014-02-04T02:02:12Z | Ruby | https://api.github.com/repos/mapbox/jekyll |
 | jni.hpp | A modern, type-safe, header-only, C++14 wrapper for JNI | 2016-05-08T09:01:06Z | C++ | https://api.github.com/repos/mapbox/jni.hpp |
+| JOSM-configuration | A JOSM plugin which loads task components | 2015-12-09T09:08:09Z | Java | https://api.github.com/repos/mapbox/JOSM-configuration |
 | js-number-to-string | Convert doubles and integers to strings using V8's code | 2016-05-17T22:55:04Z | C++ | https://api.github.com/repos/mapbox/js-number-to-string |
 | js-yaml | JavaScript YAML parser and dumper. Very fast. | 2014-01-29T20:57:08Z | JavaScript | https://api.github.com/repos/mapbox/js-yaml |
 | jsonlint-check | Check JSON for linted-ness. | 2015-02-23T01:32:55Z | JavaScript | https://api.github.com/repos/mapbox/jsonlint-check |
@@ -219,6 +202,7 @@
 | locator | A quick and easy way to build maps with markers | 2016-03-30T18:53:43Z | JavaScript | https://api.github.com/repos/mapbox/locator |
 | log-reader | simply read text-based log files in node and emit streams of data | 2014-06-10T01:12:01Z | JavaScript | https://api.github.com/repos/mapbox/log-reader |
 | luabind | Create Lua bindings for your C++ code easily - my improvements | 2015-04-16T23:02:49Z | C++ | https://api.github.com/repos/mapbox/luabind |
+| MacMapKit | MapKit Framework for the Mac | 2015-10-13T21:05:32Z | Objective-C | https://api.github.com/repos/mapbox/MacMapKit |
 | magic-tape | tape plus some goodies | 2016-02-19T16:25:58Z | JavaScript | https://api.github.com/repos/mapbox/magic-tape |
 | make-surface | Vector surfaces creation routines | 2016-05-22T16:46:39Z | Python | https://api.github.com/repos/mapbox/make-surface |
 | makestore | A Flux store helper | 2015-05-08T17:38:10Z | JavaScript | https://api.github.com/repos/mapbox/makestore |
@@ -302,6 +286,12 @@
 | mapbox.js | Mapbox JavaScript API, a Leaflet Plugin | 2016-05-25T21:34:57Z | HTML | https://api.github.com/repos/mapbox/mapbox.js |
 | mapbox.js-bower | bower releases of mapbox.js | 2016-01-12T21:23:09Z | JavaScript | https://api.github.com/repos/mapbox/mapbox.js-bower |
 | mapbox.js-plugins | Hosted plugins for Leaflet & Mapbox.js | 2016-01-22T19:29:18Z | JavaScript | https://api.github.com/repos/mapbox/mapbox.js-plugins |
+| MapBoxBench | DEPRECATED MapBox iOS SDK benchmarking tool | 2016-05-15T22:38:25Z | Objective-C | https://api.github.com/repos/mapbox/MapBoxBench |
+| MapboxDirections.swift | Mapbox Directions for Swift | 2016-05-23T20:52:44Z | Swift | https://api.github.com/repos/mapbox/MapboxDirections.swift |
+| MapboxGeocoder.swift | Swift/Objective-C library for Mapbox’s Geocoding API | 2016-05-22T07:08:18Z | Swift | https://api.github.com/repos/mapbox/MapboxGeocoder.swift |
+| MapboxStatic.swift | Swift/Objective-C library for Mapbox’s classic Static API | 2016-05-22T04:38:17Z | Swift | https://api.github.com/repos/mapbox/MapboxStatic.swift |
+| MapboxTableViewDemo | Reference implementation of reuse of UITableViewCell objects containing Mapbox GL-based Mapbox iOS SDK maps. | 2015-12-15T11:37:28Z | Swift | https://api.github.com/repos/mapbox/MapboxTableViewDemo |
+| MapDBImporter | A tool to import a folder of MapBox tiles into a single SQLite file. | 2015-11-01T14:45:22Z | Objective-C | https://api.github.com/repos/mapbox/MapDBImporter |
 | mapnik-omnivore | Node module that returns metadata about spatial files. | 2016-05-13T09:03:56Z | JavaScript | https://api.github.com/repos/mapbox/mapnik-omnivore |
 | mapnik-pool | manage a pool of mapnik map instances | 2016-05-19T00:21:56Z | JavaScript | https://api.github.com/repos/mapbox/mapnik-pool |
 | mapnik-swoop | Run tests of node-mapnik dependents against upcoming release | 2016-04-26T09:46:38Z | JavaScript | https://api.github.com/repos/mapbox/mapnik-swoop |
@@ -309,6 +299,8 @@
 | mapnik-vector-tile | Mapnik implemention of Mapbox Vector Tile specification | 2016-05-25T21:33:06Z | C++ | https://api.github.com/repos/mapbox/mapnik-vector-tile |
 | mapping | OpenStreetMap contribution work | 2016-05-27T06:00:19Z | JavaScript | https://api.github.com/repos/mapbox/mapping |
 | mason | Cross platform package manager for C/C++ apps | 2016-05-27T08:40:16Z | Shell | https://api.github.com/repos/mapbox/mason |
+| MBDesignView | MBDesignView | 2015-02-25T18:35:54Z | Objective-C | https://api.github.com/repos/mapbox/MBDesignView |
+| MBDrawingView.swift | Gesture-based drawing overlay view | 2016-04-10T19:15:45Z | Swift | https://api.github.com/repos/mapbox/MBDrawingView.swift |
 | mbtiler | C++ MBTile example | 2016-01-09T18:05:35Z | C++ | https://api.github.com/repos/mapbox/mbtiler |
 | mbtiles-extracts | Extract parts of MBTiles into separate files using a GeoJSON with polygons. | 2016-05-12T07:16:02Z | JavaScript | https://api.github.com/repos/mapbox/mbtiles-extracts |
 | mbtiles-spec | specification documents for the MBTiles tileset format | 2016-05-16T20:25:22Z | n/a | https://api.github.com/repos/mapbox/mbtiles-spec |
@@ -361,6 +353,8 @@
 | nyc-evacuations | tilemill project and associated files  | 2013-07-15T19:27:28Z | n/a | https://api.github.com/repos/mapbox/nyc-evacuations |
 | nyc-sandy | Mirror for http://gis.nyc.gov/oem/he/map.htm | 2015-05-18T07:57:14Z | JavaScript | https://api.github.com/repos/mapbox/nyc-sandy |
 | octokit.swift | A Swift API Client for GitHub and GitHub Enterprise | 2016-02-29T05:51:35Z | Swift | https://api.github.com/repos/mapbox/octokit.swift |
+| OfflineCalc | Small utility app to calculate the tile counts needed to go offline. | 2015-07-29T09:31:10Z | Objective-C | https://api.github.com/repos/mapbox/OfflineCalc |
+| OkGL | Proof Of Concept Build Out For Android GL FileSource Networking Tech Stack | 2015-02-19T15:38:29Z | Java | https://api.github.com/repos/mapbox/OkGL |
 | open-streets-style | A TileMill/Carto project for OpenStreetMap PostGIS databases | 2016-04-16T17:31:16Z | Python | https://api.github.com/repos/mapbox/open-streets-style |
 | opentype.js | A JavaScript parser for TrueType and OpenType fonts. | 2014-07-22T16:01:03Z | n/a | https://api.github.com/repos/mapbox/opentype.js |
 | osb14 | Exercises for Open Source Bridge '14 OpenStreetMap workshop | 2014-11-07T02:04:32Z | n/a | https://api.github.com/repos/mapbox/osb14 |
@@ -452,6 +446,7 @@
 | sanitize-caja | sanitize html | 2016-04-13T17:27:35Z | JavaScript | https://api.github.com/repos/mapbox/sanitize-caja |
 | satellite-change-detect | n/a | 2015-10-22T02:50:12Z | Python | https://api.github.com/repos/mapbox/satellite-change-detect |
 | satqa | n/a | 2015-06-30T02:17:25Z | n/a | https://api.github.com/repos/mapbox/satqa |
+| SCSafariPageController | A page view controller component that reproduces Mobile Safari's tab switching behavior | 2016-04-17T21:08:40Z | Objective-C | https://api.github.com/repos/mapbox/SCSafariPageController |
 | segmentio-insert | insert segment.io tracking code on a page | 2015-08-03T17:13:28Z | JavaScript | https://api.github.com/repos/mapbox/segmentio-insert |
 | serial-zilla | eat geojson get serialtiles. pairs nicely with https://github.com/mapbox/trizilla | 2015-02-11T19:00:44Z | n/a | https://api.github.com/repos/mapbox/serial-zilla |
 | serialtiles-spec | streaming tile transfer protocol | 2016-05-12T09:19:07Z | JavaScript | https://api.github.com/repos/mapbox/serialtiles-spec |
@@ -462,11 +457,14 @@
 | shelf-pack-cpp | C++ port of https://github.com/mapbox/shelf-pack | 2016-04-01T03:08:29Z | C++ | https://api.github.com/repos/mapbox/shelf-pack-cpp |
 | show-me-the-way | See OSM edits happen in real time. | 2015-01-09T21:39:06Z | JavaScript | https://api.github.com/repos/mapbox/show-me-the-way |
 | shp-write | create and write to shapefiles in pure javascript | 2016-05-25T14:08:54Z | JavaScript | https://api.github.com/repos/mapbox/shp-write |
+| Simple-KML | Simple KML is a simple & lightweight parsing library for KML written in Objective-C for the iOS platform.  | 2016-05-01T01:12:59Z | Objective-C | https://api.github.com/repos/mapbox/Simple-KML |
 | simple-linear-scale | Bare-bones equivalent for the functionality of d3.scale.linear | 2015-11-07T11:23:10Z | JavaScript | https://api.github.com/repos/mapbox/simple-linear-scale |
 | simplespec-to-gl-style | Converts GeoJSON styled with simplestyle-spec to a GL Style | 2016-05-12T15:59:08Z | JavaScript | https://api.github.com/repos/mapbox/simplespec-to-gl-style |
 | simplestyle-spec | A simple styling convention for GeoJSON data | 2016-05-12T09:35:27Z | n/a | https://api.github.com/repos/mapbox/simplestyle-spec |
 | slippy-colors | A D3 color picker component. It's a color picker...and a slippy map. | 2015-10-23T02:29:09Z | JavaScript | https://api.github.com/repos/mapbox/slippy-colors |
+| SMCalloutView | A lightweight callout view class for iOS mimicking UICalloutView. | 2016-02-17T07:25:27Z | Objective-C | https://api.github.com/repos/mapbox/SMCalloutView |
 | snuggs | Snuggs are s-expressions for Numpy | 2016-03-23T12:56:25Z | Python | https://api.github.com/repos/mapbox/snuggs |
+| Sparkle | A software update framework for the Mac | 2014-06-28T16:09:46Z | Objective-C | https://api.github.com/repos/mapbox/Sparkle |
 | spherical | Spherical world utilities | 2016-04-19T08:10:28Z | JavaScript | https://api.github.com/repos/mapbox/spherical |
 | spritezero | small opinionated sprites | 2016-05-22T07:11:23Z | JavaScript | https://api.github.com/repos/mapbox/spritezero |
 | spritezero-cli | A command-line interface to spritezero. | 2016-05-18T08:54:44Z | JavaScript | https://api.github.com/repos/mapbox/spritezero-cli |
@@ -481,6 +479,8 @@
 | supercluster.hpp | A fast geospatial static point clustering library for C++14 | 2016-05-06T14:52:05Z | C++ | https://api.github.com/repos/mapbox/supercluster.hpp |
 | superenv | pull configuration variables from JSON and ini configuration files and environment variables | 2016-02-09T20:50:52Z | JavaScript | https://api.github.com/repos/mapbox/superenv |
 | supermercado | Supercharger for mercantile. H/T @sgillies for the name | 2016-05-12T16:00:26Z | Python | https://api.github.com/repos/mapbox/supermercado |
+| Swiftbox | Mapbox's Objective-C iOS SDK in a Swift app | 2016-04-18T06:26:39Z | Objective-C | https://api.github.com/repos/mapbox/Swiftbox |
+| SwiftyJSON | The better way to deal with JSON data in Swift | 2015-06-13T22:53:38Z | Swift | https://api.github.com/repos/mapbox/SwiftyJSON |
 | swot-simple | identify education email addresses worldwide: a simple, fast implementation of Swot in JavaScript | 2015-11-07T11:27:51Z | JavaScript | https://api.github.com/repos/mapbox/swot-simple |
 | takeout | A simple geojson.io upload app | 2013-12-12T04:49:37Z | Objective-C | https://api.github.com/repos/mapbox/takeout |
 | tcx | Convert TCX files to GeoJSON in JavaScript. | 2016-05-17T17:33:46Z | JavaScript | https://api.github.com/repos/mapbox/tcx |

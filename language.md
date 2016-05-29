@@ -1,46 +1,5 @@
 | Name | Description | Updated at | Language | url |
 | ---- | ----------- | ---------- | -------- | --- |
-| mbtiles-spec | specification documents for the MBTiles tileset format | 2016-05-16T20:25:22Z | n/a | https://api.github.com/repos/mapbox/mbtiles-spec |
-| tilejson-spec | JSON format for describing map tilesets. | 2016-05-19T18:38:54Z | n/a | https://api.github.com/repos/mapbox/tilejson-spec |
-| colorbrewer-carto | Colorbrewer colors for TileMill | 2016-04-24T12:19:47Z | n/a | https://api.github.com/repos/mapbox/colorbrewer-carto |
-| utfgrid-spec | Specification for UTFGrid, a format for rasterized interaction data | 2016-05-27T02:47:02Z | n/a | https://api.github.com/repos/mapbox/utfgrid-spec |
-| simplestyle-spec | A simple styling convention for GeoJSON data | 2016-05-12T09:35:27Z | n/a | https://api.github.com/repos/mapbox/simplestyle-spec |
-| tilemill-browser-preview | A tiny plugin that adds a button to open the map in your default browser. | 2016-01-09T18:06:00Z | n/a | https://api.github.com/repos/mapbox/tilemill-browser-preview |
-| nyc-evacuations | tilemill project and associated files  | 2013-07-15T19:27:28Z | n/a | https://api.github.com/repos/mapbox/nyc-evacuations |
-| ibooks-author-example | Files for iBooks Author sample widget for MapBox integration | 2016-03-10T19:12:08Z | n/a | https://api.github.com/repos/mapbox/ibooks-author-example |
-| frameup | n/a | 2014-10-09T05:08:55Z | n/a | https://api.github.com/repos/mapbox/frameup |
-| mapbox-studio-default-fonts | n/a | 2016-04-19T08:16:19Z | n/a | https://api.github.com/repos/mapbox/mapbox-studio-default-fonts |
-| 2013-oklahoma-tornado | n/a | 2014-01-29T20:48:09Z | n/a | https://api.github.com/repos/mapbox/2013-oklahoma-tornado |
-| mapbox-press-assets | n/a | 2016-03-15T05:47:49Z | n/a | https://api.github.com/repos/mapbox/mapbox-press-assets |
-| graphite-statsd-cf | n/a | 2015-07-16T05:30:15Z | n/a | https://api.github.com/repos/mapbox/graphite-statsd-cf |
-| osb14 | Exercises for Open Source Bridge '14 OpenStreetMap workshop | 2014-11-07T02:04:32Z | n/a | https://api.github.com/repos/mapbox/osb14 |
-| drone-feedback | User feedback from https://www.mapbox.com/drone/no-fly/ | 2016-03-23T22:15:02Z | n/a | https://api.github.com/repos/mapbox/drone-feedback |
-| opentype.js | A JavaScript parser for TrueType and OpenType fonts. | 2014-07-22T16:01:03Z | n/a | https://api.github.com/repos/mapbox/opentype.js |
-| mapbox-studio-default-source | Default source used by new source projects in Mapbox Studio. | 2014-08-04T03:05:15Z | n/a | https://api.github.com/repos/mapbox/mapbox-studio-default-source |
-| atom-shell | Cross-platform desktop application shell | 2016-04-04T19:24:48Z | n/a | https://api.github.com/repos/mapbox/atom-shell |
-| bbox-intersect | n/a | 2014-08-11T19:46:06Z | n/a | https://api.github.com/repos/mapbox/bbox-intersect |
-| miniutf | A C++ library for basic Unicode manipulation. | 2014-08-21T05:06:57Z | n/a | https://api.github.com/repos/mapbox/miniutf |
-| mapbox-studio-14th-street.tm2 | Custom Mapbox Studio map  | 2014-09-17T16:45:28Z | n/a | https://api.github.com/repos/mapbox/mapbox-studio-14th-street.tm2 |
-| mapbox-studio-winter-wonderland.tm2 | n/a | 2016-04-27T21:08:35Z | n/a | https://api.github.com/repos/mapbox/mapbox-studio-winter-wonderland.tm2 |
-| protocol-buffers | Protocol Buffers for Node.js | 2014-09-18T21:44:10Z | n/a | https://api.github.com/repos/mapbox/protocol-buffers |
-| cfn-ci | CF template for an EC2 that reports back to GitHub statuses API | 2014-10-28T15:15:02Z | n/a | https://api.github.com/repos/mapbox/cfn-ci |
-| node | evented I/O for v8 javascript | 2014-11-03T18:43:02Z | n/a | https://api.github.com/repos/mapbox/node |
-| libuv | Cross-platform asynchronous I/O | 2014-11-03T17:58:40Z | n/a | https://api.github.com/repos/mapbox/libuv |
-| node-gyp | Node.js native addon build tool | 2014-11-11T14:32:47Z | n/a | https://api.github.com/repos/mapbox/node-gyp |
-| mapbox-studio-space-station.tm2 | Space Station style for Mapbox Studio | 2015-01-05T20:20:03Z | n/a | https://api.github.com/repos/mapbox/mapbox-studio-space-station.tm2 |
-| tilelive-noop | no-op tilelive source | 2015-01-30T22:20:35Z | n/a | https://api.github.com/repos/mapbox/tilelive-noop |
-| serial-zilla | eat geojson get serialtiles. pairs nicely with https://github.com/mapbox/trizilla | 2015-02-11T19:00:44Z | n/a | https://api.github.com/repos/mapbox/serial-zilla |
-| versioning-node-cpp | Convention for publishing node/C++ modules and their dependents | 2016-04-08T14:14:51Z | n/a | https://api.github.com/repos/mapbox/versioning-node-cpp |
-| geojson-coordinate-properties | a draft extension to GeoJSON defining the encoding of arbitrary properties along LineString geometries | 2015-11-07T11:24:50Z | n/a | https://api.github.com/repos/mapbox/geojson-coordinate-properties |
-| satqa | n/a | 2015-06-30T02:17:25Z | n/a | https://api.github.com/repos/mapbox/satqa |
-| mapbox-gl | Issue-only repository for discussion of Mapbox GL | 2016-04-21T13:40:28Z | n/a | https://api.github.com/repos/mapbox/mapbox-gl |
-| download-osm-data | GUI for downloading OSM data | 2015-08-26T00:06:06Z | n/a | https://api.github.com/repos/mapbox/download-osm-data |
-| awesome-vector-tiles | awesome implementations of the Mapbox Vector Tile specification | 2016-05-26T12:13:41Z | n/a | https://api.github.com/repos/mapbox/awesome-vector-tiles |
-| rio-random | generate random rasters | 2015-10-30T20:10:02Z | n/a | https://api.github.com/repos/mapbox/rio-random |
-| mapbox-gl-vintage-style | Vintage map style for Mapbox Studio (GL) | 2016-05-18T20:37:07Z | n/a | https://api.github.com/repos/mapbox/mapbox-gl-vintage-style |
-| mapbox-gl-whaam-style | Roy Lichtenstein inspired map style for Mapbox Studio (GL) | 2016-04-16T03:41:19Z | n/a | https://api.github.com/repos/mapbox/mapbox-gl-whaam-style |
-| poi-by-radius-demo | [MOVED] https://github.com/mapbox/analysis-demos/tree/mb-pages/nyc-attractions/ | 2016-04-25T23:45:02Z | n/a | https://api.github.com/repos/mapbox/poi-by-radius-demo |
-| mapbox-gl-swiss-ski-style | Swiss ski map style (GL) for Mapbox Studio | 2016-04-28T06:43:10Z | n/a | https://api.github.com/repos/mapbox/mapbox-gl-swiss-ski-style |
 | windows-builds | build scripts for mapnik dependencies, mapnik, node-mapnik, node, libosmiom, osmium-tool | 2016-05-24T07:23:04Z | Batchfile | https://api.github.com/repos/mapbox/windows-builds |
 | meta-mapbox | Mapbox Yocto Layer | 2016-05-27T21:40:39Z | BitBake | https://api.github.com/repos/mapbox/meta-mapbox |
 | earcut.hpp | Fast, header-only polygon triangulation | 2016-05-24T10:07:31Z | C | https://api.github.com/repos/mapbox/earcut.hpp |
@@ -77,16 +36,6 @@
 | wagyu | A general purpose geometry clipping library | 2016-05-17T15:09:07Z | C++ | https://api.github.com/repos/mapbox/wagyu |
 | js-number-to-string | Convert doubles and integers to strings using V8's code | 2016-05-17T22:55:04Z | C++ | https://api.github.com/repos/mapbox/js-number-to-string |
 | the-alchemist | A 24k  csv-to-pbf converter | 2016-05-24T21:15:14Z | C++ | https://api.github.com/repos/mapbox/the-alchemist |
-| cpp-bootstrap | Bare-bones C++14 & CMake 3 template | 2016-01-19T13:43:53Z | CMake | https://api.github.com/repos/mapbox/cpp-bootstrap |
-| vector-tile | A C++  header only library for decoding and encoding Mapbox Vector Tiles | 2016-04-22T20:11:18Z | CMake | https://api.github.com/repos/mapbox/vector-tile |
-| docshot | Chrome extension for creating simple screenshots for docs. | 2016-03-17T19:37:52Z | CSS | https://api.github.com/repos/mapbox/docshot |
-| weekend-picks-template | A template for browsing layers of TileMill maps. Part of the Map Sites templates from MapBox. | 2014-07-07T21:05:57Z | CSS | https://api.github.com/repos/mapbox/weekend-picks-template |
-| foursquare-checkins | n/a | 2014-08-15T19:38:42Z | CSS | https://api.github.com/repos/mapbox/foursquare-checkins |
-| d3-metatable | a table view for heterogeneous objects | 2016-03-29T17:17:27Z | CSS | https://api.github.com/repos/mapbox/d3-metatable |
-| d3-bucket-ui | a drag and drop bucket ui for d3 | 2016-03-29T17:02:14Z | CSS | https://api.github.com/repos/mapbox/d3-bucket-ui |
-| notes | A simple reader for text gists | 2014-01-29T21:00:25Z | CSS | https://api.github.com/repos/mapbox/notes |
-| mapbox-gl-plugins | Hosted plugins for mapbox-gl-js | 2016-01-15T05:16:20Z | CSS | https://api.github.com/repos/mapbox/mapbox-gl-plugins |
-| docbox | REST API documentation generator | 2016-05-28T08:40:19Z | CSS | https://api.github.com/repos/mapbox/docbox |
 | osm-bright | A Carto template for OpenStreetMap data | 2016-05-24T17:00:21Z | CartoCSS | https://api.github.com/repos/mapbox/osm-bright |
 | mapbox-studio-default-style | Default style used by new style projects in Mapbox Studio. | 2015-02-25T23:01:01Z | CartoCSS | https://api.github.com/repos/mapbox/mapbox-studio-default-style |
 | mapbox-studio-osm-bright.tm2 | A full-featured template / example project for Mapbox Studio using Mapbox Streets vector tiles | 2016-04-18T03:07:48Z | CartoCSS | https://api.github.com/repos/mapbox/mapbox-studio-osm-bright.tm2 |
@@ -109,6 +58,16 @@
 | mapbox-studio-mars-satellite.tm2 | Mars Satellite + labels | 2015-10-09T19:41:13Z | CartoCSS | https://api.github.com/repos/mapbox/mapbox-studio-mars-satellite.tm2 |
 | mapbox-studio-mars-terrain.tm2 | Vector terrain style or Mars | 2015-10-14T21:47:59Z | CartoCSS | https://api.github.com/repos/mapbox/mapbox-studio-mars-terrain.tm2 |
 | mapbox-studio-woodcut.tm2 | A woodcut inspired map for city streets. | 2016-05-19T00:31:18Z | CartoCSS | https://api.github.com/repos/mapbox/mapbox-studio-woodcut.tm2 |
+| cpp-bootstrap | Bare-bones C++14 & CMake 3 template | 2016-01-19T13:43:53Z | CMake | https://api.github.com/repos/mapbox/cpp-bootstrap |
+| vector-tile | A C++  header only library for decoding and encoding Mapbox Vector Tiles | 2016-04-22T20:11:18Z | CMake | https://api.github.com/repos/mapbox/vector-tile |
+| docshot | Chrome extension for creating simple screenshots for docs. | 2016-03-17T19:37:52Z | CSS | https://api.github.com/repos/mapbox/docshot |
+| weekend-picks-template | A template for browsing layers of TileMill maps. Part of the Map Sites templates from MapBox. | 2014-07-07T21:05:57Z | CSS | https://api.github.com/repos/mapbox/weekend-picks-template |
+| foursquare-checkins | n/a | 2014-08-15T19:38:42Z | CSS | https://api.github.com/repos/mapbox/foursquare-checkins |
+| d3-metatable | a table view for heterogeneous objects | 2016-03-29T17:17:27Z | CSS | https://api.github.com/repos/mapbox/d3-metatable |
+| d3-bucket-ui | a drag and drop bucket ui for d3 | 2016-03-29T17:02:14Z | CSS | https://api.github.com/repos/mapbox/d3-bucket-ui |
+| notes | A simple reader for text gists | 2014-01-29T21:00:25Z | CSS | https://api.github.com/repos/mapbox/notes |
+| mapbox-gl-plugins | Hosted plugins for mapbox-gl-js | 2016-01-15T05:16:20Z | CSS | https://api.github.com/repos/mapbox/mapbox-gl-plugins |
+| docbox | REST API documentation generator | 2016-05-28T08:40:19Z | CSS | https://api.github.com/repos/mapbox/docbox |
 | mapbox-gl-shaders | GLSL shaders shared between mapbox-gl-js and mapbox-gl-native | 2016-05-24T23:44:52Z | GLSL | https://api.github.com/repos/mapbox/mapbox-gl-shaders |
 | retire.js | scanner detecting the use of JavaScript libraries with known vulnerabilities | 2015-04-08T18:04:50Z | Groff | https://api.github.com/repos/mapbox/retire.js |
 | mapbox.js | Mapbox JavaScript API, a Leaflet Plugin | 2016-05-25T21:34:57Z | HTML | https://api.github.com/repos/mapbox/mapbox.js |
@@ -462,6 +421,47 @@
 | ecs-watchbot | Make robots do your work for you | 2016-05-24T00:48:03Z | JavaScript | https://api.github.com/repos/mapbox/ecs-watchbot |
 | mapbox-data-team | npm module that can be required to easily obtain a list of OSM usernames, IDs and mappings between usernames and IDs for the Mapbox Data Team | 2016-05-23T12:39:14Z | JavaScript | https://api.github.com/repos/mapbox/mapbox-data-team |
 | whoots-js | Request tiles from WMS servers that support EPSG:3857  | 2016-05-25T04:20:41Z | JavaScript | https://api.github.com/repos/mapbox/whoots-js |
+| mbtiles-spec | specification documents for the MBTiles tileset format | 2016-05-16T20:25:22Z | n/a | https://api.github.com/repos/mapbox/mbtiles-spec |
+| tilejson-spec | JSON format for describing map tilesets. | 2016-05-19T18:38:54Z | n/a | https://api.github.com/repos/mapbox/tilejson-spec |
+| colorbrewer-carto | Colorbrewer colors for TileMill | 2016-04-24T12:19:47Z | n/a | https://api.github.com/repos/mapbox/colorbrewer-carto |
+| utfgrid-spec | Specification for UTFGrid, a format for rasterized interaction data | 2016-05-27T02:47:02Z | n/a | https://api.github.com/repos/mapbox/utfgrid-spec |
+| simplestyle-spec | A simple styling convention for GeoJSON data | 2016-05-12T09:35:27Z | n/a | https://api.github.com/repos/mapbox/simplestyle-spec |
+| tilemill-browser-preview | A tiny plugin that adds a button to open the map in your default browser. | 2016-01-09T18:06:00Z | n/a | https://api.github.com/repos/mapbox/tilemill-browser-preview |
+| nyc-evacuations | tilemill project and associated files  | 2013-07-15T19:27:28Z | n/a | https://api.github.com/repos/mapbox/nyc-evacuations |
+| ibooks-author-example | Files for iBooks Author sample widget for MapBox integration | 2016-03-10T19:12:08Z | n/a | https://api.github.com/repos/mapbox/ibooks-author-example |
+| frameup | n/a | 2014-10-09T05:08:55Z | n/a | https://api.github.com/repos/mapbox/frameup |
+| mapbox-studio-default-fonts | n/a | 2016-04-19T08:16:19Z | n/a | https://api.github.com/repos/mapbox/mapbox-studio-default-fonts |
+| 2013-oklahoma-tornado | n/a | 2014-01-29T20:48:09Z | n/a | https://api.github.com/repos/mapbox/2013-oklahoma-tornado |
+| mapbox-press-assets | n/a | 2016-03-15T05:47:49Z | n/a | https://api.github.com/repos/mapbox/mapbox-press-assets |
+| graphite-statsd-cf | n/a | 2015-07-16T05:30:15Z | n/a | https://api.github.com/repos/mapbox/graphite-statsd-cf |
+| osb14 | Exercises for Open Source Bridge '14 OpenStreetMap workshop | 2014-11-07T02:04:32Z | n/a | https://api.github.com/repos/mapbox/osb14 |
+| drone-feedback | User feedback from https://www.mapbox.com/drone/no-fly/ | 2016-03-23T22:15:02Z | n/a | https://api.github.com/repos/mapbox/drone-feedback |
+| opentype.js | A JavaScript parser for TrueType and OpenType fonts. | 2014-07-22T16:01:03Z | n/a | https://api.github.com/repos/mapbox/opentype.js |
+| mapbox-studio-default-source | Default source used by new source projects in Mapbox Studio. | 2014-08-04T03:05:15Z | n/a | https://api.github.com/repos/mapbox/mapbox-studio-default-source |
+| atom-shell | Cross-platform desktop application shell | 2016-04-04T19:24:48Z | n/a | https://api.github.com/repos/mapbox/atom-shell |
+| bbox-intersect | n/a | 2014-08-11T19:46:06Z | n/a | https://api.github.com/repos/mapbox/bbox-intersect |
+| miniutf | A C++ library for basic Unicode manipulation. | 2014-08-21T05:06:57Z | n/a | https://api.github.com/repos/mapbox/miniutf |
+| mapbox-studio-14th-street.tm2 | Custom Mapbox Studio map  | 2014-09-17T16:45:28Z | n/a | https://api.github.com/repos/mapbox/mapbox-studio-14th-street.tm2 |
+| mapbox-studio-winter-wonderland.tm2 | n/a | 2016-04-27T21:08:35Z | n/a | https://api.github.com/repos/mapbox/mapbox-studio-winter-wonderland.tm2 |
+| protocol-buffers | Protocol Buffers for Node.js | 2014-09-18T21:44:10Z | n/a | https://api.github.com/repos/mapbox/protocol-buffers |
+| cfn-ci | CF template for an EC2 that reports back to GitHub statuses API | 2014-10-28T15:15:02Z | n/a | https://api.github.com/repos/mapbox/cfn-ci |
+| node | evented I/O for v8 javascript | 2014-11-03T18:43:02Z | n/a | https://api.github.com/repos/mapbox/node |
+| libuv | Cross-platform asynchronous I/O | 2014-11-03T17:58:40Z | n/a | https://api.github.com/repos/mapbox/libuv |
+| node-gyp | Node.js native addon build tool | 2014-11-11T14:32:47Z | n/a | https://api.github.com/repos/mapbox/node-gyp |
+| mapbox-studio-space-station.tm2 | Space Station style for Mapbox Studio | 2015-01-05T20:20:03Z | n/a | https://api.github.com/repos/mapbox/mapbox-studio-space-station.tm2 |
+| tilelive-noop | no-op tilelive source | 2015-01-30T22:20:35Z | n/a | https://api.github.com/repos/mapbox/tilelive-noop |
+| serial-zilla | eat geojson get serialtiles. pairs nicely with https://github.com/mapbox/trizilla | 2015-02-11T19:00:44Z | n/a | https://api.github.com/repos/mapbox/serial-zilla |
+| versioning-node-cpp | Convention for publishing node/C++ modules and their dependents | 2016-04-08T14:14:51Z | n/a | https://api.github.com/repos/mapbox/versioning-node-cpp |
+| geojson-coordinate-properties | a draft extension to GeoJSON defining the encoding of arbitrary properties along LineString geometries | 2015-11-07T11:24:50Z | n/a | https://api.github.com/repos/mapbox/geojson-coordinate-properties |
+| satqa | n/a | 2015-06-30T02:17:25Z | n/a | https://api.github.com/repos/mapbox/satqa |
+| mapbox-gl | Issue-only repository for discussion of Mapbox GL | 2016-04-21T13:40:28Z | n/a | https://api.github.com/repos/mapbox/mapbox-gl |
+| download-osm-data | GUI for downloading OSM data | 2015-08-26T00:06:06Z | n/a | https://api.github.com/repos/mapbox/download-osm-data |
+| awesome-vector-tiles | awesome implementations of the Mapbox Vector Tile specification | 2016-05-26T12:13:41Z | n/a | https://api.github.com/repos/mapbox/awesome-vector-tiles |
+| rio-random | generate random rasters | 2015-10-30T20:10:02Z | n/a | https://api.github.com/repos/mapbox/rio-random |
+| mapbox-gl-vintage-style | Vintage map style for Mapbox Studio (GL) | 2016-05-18T20:37:07Z | n/a | https://api.github.com/repos/mapbox/mapbox-gl-vintage-style |
+| mapbox-gl-whaam-style | Roy Lichtenstein inspired map style for Mapbox Studio (GL) | 2016-04-16T03:41:19Z | n/a | https://api.github.com/repos/mapbox/mapbox-gl-whaam-style |
+| poi-by-radius-demo | [MOVED] https://github.com/mapbox/analysis-demos/tree/mb-pages/nyc-attractions/ | 2016-04-25T23:45:02Z | n/a | https://api.github.com/repos/mapbox/poi-by-radius-demo |
+| mapbox-gl-swiss-ski-style | Swiss ski map style (GL) for Mapbox Studio | 2016-04-28T06:43:10Z | n/a | https://api.github.com/repos/mapbox/mapbox-gl-swiss-ski-style |
 | Simple-KML | Simple KML is a simple & lightweight parsing library for KML written in Objective-C for the iOS platform.  | 2016-05-01T01:12:59Z | Objective-C | https://api.github.com/repos/mapbox/Simple-KML |
 | MapDBImporter | A tool to import a folder of MapBox tiles into a single SQLite file. | 2015-11-01T14:45:22Z | Objective-C | https://api.github.com/repos/mapbox/MapDBImporter |
 | Fingertips | Touch indicators on external displays for iOS applications. | 2016-05-28T21:59:21Z | Objective-C | https://api.github.com/repos/mapbox/Fingertips |
