@@ -1,567 +1,567 @@
-| Name | Description | Updated at | Language | url |
-| ---- | ----------- | ---------- | -------- | --- |
-| advancecomp | Fork of the AdvanceCOMP re-compression utilities | 2013-05-15T22:56:55Z | C++ | [url](https://github.com/mapbox/advancecomp) |
-| nyc-evacuations | tilemill project and associated files  | 2013-07-15T19:27:28Z | n/a | [url](https://github.com/mapbox/nyc-evacuations) |
-| qs-hash | encode and decode querystrings | 2013-10-03T21:19:01Z | JavaScript | [url](https://github.com/mapbox/qs-hash) |
-| tilemill-autopilot | dev autopilot plugin for tilemill pluggable | 2013-10-04T04:48:01Z | JavaScript | [url](https://github.com/mapbox/tilemill-autopilot) |
-| ec2mux | Light wrapper around swarm to allow connecting to multiple EC2s in tmux. | 2013-10-17T18:36:55Z | Shell | [url](https://github.com/mapbox/ec2mux) |
-| osm-jalisco | Public geo data for Jalisco, ready for contribution to OSM, instructions in README. | 2013-11-18T13:39:18Z | Python | [url](https://github.com/mapbox/osm-jalisco) |
-| hiera-s3 | S3 back end for Hiera | 2013-11-22T20:54:02Z | Ruby | [url](https://github.com/mapbox/hiera-s3) |
-| takeout | A simple geojson.io upload app | 2013-12-12T04:49:37Z | Objective-C | [url](https://github.com/mapbox/takeout) |
-| carmen-qs-adm1 | quattroshapes admin1 data for use with carmen | 2013-12-20T22:28:18Z | Shell | [url](https://github.com/mapbox/carmen-qs-adm1) |
-| tilestream-pkg | TileStream packages for Ubuntu/Debian | 2014-01-05T07:04:51Z | Shell | [url](https://github.com/mapbox/tilestream-pkg) |
-| 2013-oklahoma-tornado | n/a | 2014-01-29T20:48:09Z | n/a | [url](https://github.com/mapbox/2013-oklahoma-tornado) |
-| foss4g-benchmark-style | TileMill style for imposm imported OSM data for FOSS4G 2011 benchmark | 2014-01-29T20:55:46Z | Python | [url](https://github.com/mapbox/foss4g-benchmark-style) |
-| geojsonio-extension | chrome extension for editing github files in geojson.io | 2014-01-29T20:56:23Z | JavaScript | [url](https://github.com/mapbox/geojsonio-extension) |
-| js-yaml | JavaScript YAML parser and dumper. Very fast. | 2014-01-29T20:57:08Z | JavaScript | [url](https://github.com/mapbox/js-yaml) |
-| notes | A simple reader for text gists | 2014-01-29T21:00:25Z | CSS | [url](https://github.com/mapbox/notes) |
-| static-map-preview | a simple static + canvas map preview | 2014-01-29T21:01:37Z | JavaScript | [url](https://github.com/mapbox/static-map-preview) |
-| demo | lightweight demos | 2014-01-29T23:19:37Z | JavaScript | [url](https://github.com/mapbox/demo) |
-| tigeralignment | OSM vs TIGER 12 comparison. Goal: show where OSM data needs better geographic alignment. | 2014-01-29T23:44:01Z | JavaScript | [url](https://github.com/mapbox/tigeralignment) |
-| jekyll | Jekyll is a blog-aware, static site generator in Ruby | 2014-02-04T02:02:12Z | Ruby | [url](https://github.com/mapbox/jekyll) |
-| carmen-qs-adm0 | quattroshapes countries for carmen | 2014-02-07T22:47:55Z | Shell | [url](https://github.com/mapbox/carmen-qs-adm0) |
-| changewithin | first you must change within | 2014-02-20T19:27:40Z | Python | [url](https://github.com/mapbox/changewithin) |
-| node-client-sessions | secure sessions stored in cookies | 2014-03-19T01:01:40Z | JavaScript | [url](https://github.com/mapbox/node-client-sessions) |
-| tilemill-win-launcher | Windows C++ exe designed to launch a TileMill node process | 2014-04-03T19:44:04Z | Python | [url](https://github.com/mapbox/tilemill-win-launcher) |
-| node-morton | Calculates morton numbers for spatial indexing | 2014-05-01T20:04:17Z | JavaScript | [url](https://github.com/mapbox/node-morton) |
-| cfn-stack-alarm-stream | Stream of CloudWatch alarms that are associated with a CloudFormation stack | 2014-05-05T02:49:46Z | JavaScript | [url](https://github.com/mapbox/cfn-stack-alarm-stream) |
-| connect-s3store | n/a | 2014-05-12T02:56:28Z | JavaScript | [url](https://github.com/mapbox/connect-s3store) |
-| GeoIP | libgeoip binding for nodejs | 2014-05-15T04:07:10Z | JavaScript | [url](https://github.com/mapbox/GeoIP) |
-| pre-gyp-versioning | Versioning logic for node-pre-gyp packaged Node.js native modules | 2014-05-16T02:29:05Z | JavaScript | [url](https://github.com/mapbox/pre-gyp-versioning) |
-| codemirror-palettehints | Create color palette hints to your stylesheets in CodeMirror. | 2014-05-27T15:10:51Z | JavaScript | [url](https://github.com/mapbox/codemirror-palettehints) |
-| log-reader | simply read text-based log files in node and emit streams of data | 2014-06-10T01:12:01Z | JavaScript | [url](https://github.com/mapbox/log-reader) |
-| Sparkle | A software update framework for the Mac | 2014-06-28T16:09:46Z | Objective-C | [url](https://github.com/mapbox/Sparkle) |
-| geojson2dsv | shuttle GeoJSON points into DSV encoding. | 2014-07-03T17:23:19Z | JavaScript | [url](https://github.com/mapbox/geojson2dsv) |
-| weekend-picks-template | A template for browsing layers of TileMill maps. Part of the Map Sites templates from MapBox. | 2014-07-07T21:05:57Z | CSS | [url](https://github.com/mapbox/weekend-picks-template) |
-| distiller | normalize and simplify geospatial formats | 2014-07-10T20:22:35Z | JavaScript | [url](https://github.com/mapbox/distiller) |
-| opentype.js | A JavaScript parser for TrueType and OpenType fonts. | 2014-07-22T16:01:03Z | n/a | [url](https://github.com/mapbox/opentype.js) |
-| mapbox-studio-default-source | Default source used by new source projects in Mapbox Studio. | 2014-08-04T03:05:15Z | n/a | [url](https://github.com/mapbox/mapbox-studio-default-source) |
-| bbox-intersect | n/a | 2014-08-11T19:46:06Z | n/a | [url](https://github.com/mapbox/bbox-intersect) |
-| foursquare-checkins | n/a | 2014-08-15T19:38:42Z | CSS | [url](https://github.com/mapbox/foursquare-checkins) |
-| miniutf | A C++ library for basic Unicode manipulation. | 2014-08-21T05:06:57Z | n/a | [url](https://github.com/mapbox/miniutf) |
-| geokit | Official Geokit Gem. Geokit gem provides geocoding and distance/heading calculations. Pair with the geokit-rails plugin for full-fledged location-based app functionality. | 2014-08-21T06:04:47Z | Ruby | [url](https://github.com/mapbox/geokit) |
-| lab-interp | n/a | 2014-08-28T14:30:59Z | JavaScript | [url](https://github.com/mapbox/lab-interp) |
-| static-map-string-format | parse and generate geojson from static map urls | 2014-09-08T23:32:50Z | JavaScript | [url](https://github.com/mapbox/static-map-string-format) |
-| mapbox-studio-14th-street.tm2 | Custom Mapbox Studio map  | 2014-09-17T16:45:28Z | n/a | [url](https://github.com/mapbox/mapbox-studio-14th-street.tm2) |
-| leaflet-stats | Post-load stats tracking for Leaflet and MapBox.js maps. | 2014-09-18T19:05:54Z | JavaScript | [url](https://github.com/mapbox/leaflet-stats) |
-| protocol-buffers | Protocol Buffers for Node.js | 2014-09-18T21:44:10Z | n/a | [url](https://github.com/mapbox/protocol-buffers) |
-| cover-bench | benchmarks for geo covers | 2014-09-26T17:20:06Z | JavaScript | [url](https://github.com/mapbox/cover-bench) |
-| setup-statsd | bootstrap and run statsd as part of a cloudformation stack | 2014-09-26T18:04:50Z | Shell | [url](https://github.com/mapbox/setup-statsd) |
-| frameup | n/a | 2014-10-09T05:08:55Z | n/a | [url](https://github.com/mapbox/frameup) |
-| homebrew-custom | Custom Homebrew recipes | 2014-10-10T16:22:11Z | Ruby | [url](https://github.com/mapbox/homebrew-custom) |
-| node-webworker-threads | Lightweight Web Worker API implementation with native threads | 2014-10-17T19:36:58Z | C++ | [url](https://github.com/mapbox/node-webworker-threads) |
-| couchdb2s3 | Export CouchDB databases to line oriented json files on s3 | 2014-10-20T10:19:26Z | JavaScript | [url](https://github.com/mapbox/couchdb2s3) |
-| travis-coredump | Sample repo showing how to enable and view C/C++ crash backtraces on travis | 2014-10-23T13:04:41Z | Shell | [url](https://github.com/mapbox/travis-coredump) |
-| cfn-ci | CF template for an EC2 that reports back to GitHub statuses API | 2014-10-28T15:15:02Z | n/a | [url](https://github.com/mapbox/cfn-ci) |
-| libuv | Cross-platform asynchronous I/O | 2014-11-03T17:58:40Z | n/a | [url](https://github.com/mapbox/libuv) |
-| node | evented I/O for v8 javascript | 2014-11-03T18:43:02Z | n/a | [url](https://github.com/mapbox/node) |
-| mapbox-gl-filter-simplify | Simplifies and complexifies filters in Mapbox GL Styles to make them easier to work with in code. | 2014-11-05T02:12:30Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-filter-simplify) |
-| pagerduty-incidents | Readable stream of PagerDuty incidents | 2014-11-07T01:50:05Z | JavaScript | [url](https://github.com/mapbox/pagerduty-incidents) |
-| osb14 | Exercises for Open Source Bridge '14 OpenStreetMap workshop | 2014-11-07T02:04:32Z | n/a | [url](https://github.com/mapbox/osb14) |
-| windowsign | Sign a windows binary on linux | 2014-11-10T19:33:25Z | Shell | [url](https://github.com/mapbox/windowsign) |
-| node-gyp | Node.js native addon build tool | 2014-11-11T14:32:47Z | n/a | [url](https://github.com/mapbox/node-gyp) |
-| nano | Nano is a minimalistic client for CouchDB | 2014-11-20T16:58:54Z | JavaScript | [url](https://github.com/mapbox/nano) |
-| s3head | HEAD an S3 object to stdout | 2014-11-21T18:31:55Z | JavaScript | [url](https://github.com/mapbox/s3head) |
-| gist-map-browser | another humble part of geojson.io | 2014-12-17T23:01:14Z | JavaScript | [url](https://github.com/mapbox/gist-map-browser) |
-| mapbox-studio-space-station.tm2 | Space Station style for Mapbox Studio | 2015-01-05T20:20:03Z | n/a | [url](https://github.com/mapbox/mapbox-studio-space-station.tm2) |
-| show-me-the-way | See OSM edits happen in real time. | 2015-01-09T21:39:06Z | JavaScript | [url](https://github.com/mapbox/show-me-the-way) |
-| millstone | middleware for map styles and datasources | 2015-01-14T01:23:50Z | JavaScript | [url](https://github.com/mapbox/millstone) |
-| bundle-node-app | Bundle up a node app for npm-free install | 2015-01-15T01:49:21Z | Shell | [url](https://github.com/mapbox/bundle-node-app) |
-| vtfx | sketch of vt processors (vtfx) | 2015-01-22T01:49:46Z | JavaScript | [url](https://github.com/mapbox/vtfx) |
-| safer-stringify | A stringify template helper for outputting JSON with escaped forward slashes and line terminators. | 2015-01-22T15:09:46Z | JavaScript | [url](https://github.com/mapbox/safer-stringify) |
-| geojson-segment | n/a | 2015-01-24T10:07:40Z | JavaScript | [url](https://github.com/mapbox/geojson-segment) |
-| tilelive-noop | no-op tilelive source | 2015-01-30T22:20:35Z | n/a | [url](https://github.com/mapbox/tilelive-noop) |
-| serial-zilla | eat geojson get serialtiles. pairs nicely with https://github.com/mapbox/trizilla | 2015-02-11T19:00:44Z | n/a | [url](https://github.com/mapbox/serial-zilla) |
-| nodejs-kinesis-client-library | Node.js implementation of Amazon's Kinesis Client Library. | 2015-02-18T21:29:54Z | JavaScript | [url](https://github.com/mapbox/nodejs-kinesis-client-library) |
-| OkGL | Proof Of Concept Build Out For Android GL FileSource Networking Tech Stack | 2015-02-19T15:38:29Z | Java | [url](https://github.com/mapbox/OkGL) |
-| jsonlint-check | Check JSON for linted-ness. | 2015-02-23T01:32:55Z | JavaScript | [url](https://github.com/mapbox/jsonlint-check) |
-| s3urls | From bucket/key to URL and the other way around | 2015-02-24T14:26:31Z | JavaScript | [url](https://github.com/mapbox/s3urls) |
-| mapbox-studio-satellite-afternoon.tm2 | n/a | 2015-02-24T20:11:03Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-satellite-afternoon.tm2) |
-| MBDesignView | MBDesignView | 2015-02-25T18:35:54Z | Objective-C | [url](https://github.com/mapbox/MBDesignView) |
-| mapbox-studio-default-style | Default style used by new style projects in Mapbox Studio. | 2015-02-25T23:01:01Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-default-style) |
-| gridmonger | Convert UTF8 grids to geojson | 2015-02-26T23:56:36Z | JavaScript | [url](https://github.com/mapbox/gridmonger) |
-| mapbox-surface.js | mapbox.js plugin for the Mapbox Surface API | 2015-02-27T22:09:57Z | JavaScript | [url](https://github.com/mapbox/mapbox-surface.js) |
-| webhook-demux | Routes a single webhook endpoint to multiple webhook endpoints depending on content of the JSON request body. | 2015-03-01T01:32:47Z | JavaScript | [url](https://github.com/mapbox/webhook-demux) |
-| mapbox-events | Send events from the browser to the Mapbox events API. | 2015-03-03T19:07:14Z | JavaScript | [url](https://github.com/mapbox/mapbox-events) |
-| bboxify-labels | Represent labels on a polyline with bounding boxes | 2015-03-05T17:09:37Z | JavaScript | [url](https://github.com/mapbox/bboxify-labels) |
-| tornado-analysis | tornado analysis template | 2015-03-05T21:50:07Z | JavaScript | [url](https://github.com/mapbox/tornado-analysis) |
-| henry | Agent for updating temporary credentials using AWS Security Token Service. | 2015-03-09T03:53:04Z | JavaScript | [url](https://github.com/mapbox/henry) |
-| mapbox-studio-light.tm2 | Mapbox Studio style designed to work with data overlays | 2015-03-09T16:06:31Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-light.tm2) |
-| cloudwatch-agent | A simple daemon which submits AWS CloudWatch metrics | 2015-03-13T20:07:51Z | JavaScript | [url](https://github.com/mapbox/cloudwatch-agent) |
-| trizilla | Consumes data values from a latticegrid, then aggregates and inflates triangular geometries. | 2015-03-14T00:40:57Z | JavaScript | [url](https://github.com/mapbox/trizilla) |
-| commonsec | Batten down hatches on default Ubuntu SSH and firewall configuration | 2015-03-17T14:14:38Z | Shell | [url](https://github.com/mapbox/commonsec) |
-| mapbox-events-ios | Send events from iOS / OS X  to the Mapbox events API. | 2015-03-20T20:26:48Z | Objective-C | [url](https://github.com/mapbox/mapbox-events-ios) |
-| AndroidGLMap | Android Studio GL NDK Gradle experiments | 2015-04-06T15:19:35Z | Java | [url](https://github.com/mapbox/AndroidGLMap) |
-| retire.js | scanner detecting the use of JavaScript libraries with known vulnerabilities | 2015-04-08T18:04:50Z | Groff | [url](https://github.com/mapbox/retire.js) |
-| mapbox-studio-streets-basic.tm2 | n/a | 2015-04-13T22:52:04Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-streets-basic.tm2) |
-| s3print | Print the content of a file on S3 to stdout | 2015-04-14T02:12:15Z | JavaScript | [url](https://github.com/mapbox/s3print) |
-| canvas-colorchart | n/a | 2015-04-15T20:45:27Z | JavaScript | [url](https://github.com/mapbox/canvas-colorchart) |
-| canvas-linearlinechart | n/a | 2015-04-15T20:47:14Z | JavaScript | [url](https://github.com/mapbox/canvas-linearlinechart) |
-| luabind | Create Lua bindings for your C++ code easily - my improvements | 2015-04-16T23:02:49Z | C++ | [url](https://github.com/mapbox/luabind) |
-| update-amis | Find updated image ids for ubuntu AMIs | 2015-04-20T19:01:34Z | JavaScript | [url](https://github.com/mapbox/update-amis) |
-| A-binary-parser-generator | This project aims to create a tool that can turn a spec file into a parser skeleton for binary data files such as OpenType fonts, PNG images, etc. | 2015-05-06T17:58:44Z | JavaScript | [url](https://github.com/mapbox/A-binary-parser-generator) |
-| makestore | A Flux store helper | 2015-05-08T17:38:10Z | JavaScript | [url](https://github.com/mapbox/makestore) |
-| nyc-sandy | Mirror for http://gis.nyc.gov/oem/he/map.htm | 2015-05-18T07:57:14Z | JavaScript | [url](https://github.com/mapbox/nyc-sandy) |
-| extent | geographical extent | 2015-05-27T18:46:35Z | JavaScript | [url](https://github.com/mapbox/extent) |
-| travis-ios-test | n/a | 2015-05-29T23:09:02Z | Objective-C | [url](https://github.com/mapbox/travis-ios-test) |
-| SwiftyJSON | The better way to deal with JSON data in Swift | 2015-06-13T22:53:38Z | Swift | [url](https://github.com/mapbox/SwiftyJSON) |
-| cloudwatch-librato | Fetch AWS CloudWatch metrics and submit to Librato Metrics | 2015-06-18T23:35:34Z | JavaScript | [url](https://github.com/mapbox/cloudwatch-librato) |
-| headless-gl | Creates WebGL contexts without making windows | 2015-06-24T09:14:00Z | HTML | [url](https://github.com/mapbox/headless-gl) |
-| homebrew | :beer: The missing package manager for OS X. | 2015-06-28T23:37:21Z | Ruby | [url](https://github.com/mapbox/homebrew) |
-| satqa | n/a | 2015-06-30T02:17:25Z | n/a | [url](https://github.com/mapbox/satqa) |
-| fuzzy | Filters a list based on a fuzzy string search | 2015-07-05T07:25:35Z | HTML | [url](https://github.com/mapbox/fuzzy) |
-| ami-bundle | Wrapper script to bundle an instance-backed Amazon Machine Image | 2015-07-07T16:03:16Z | Shell | [url](https://github.com/mapbox/ami-bundle) |
-| tile-stat-backfill | n/a | 2015-07-16T02:33:20Z | JavaScript | [url](https://github.com/mapbox/tile-stat-backfill) |
-| graphite-statsd-cf | n/a | 2015-07-16T05:30:15Z | n/a | [url](https://github.com/mapbox/graphite-statsd-cf) |
-| mock-aws-s3 | Library to mock the AWS SDK for Node.js | 2015-07-20T14:55:19Z | JavaScript | [url](https://github.com/mapbox/mock-aws-s3) |
-| gazetteer | Place bookmarks for styling maps | 2015-07-21T12:18:18Z | JavaScript | [url](https://github.com/mapbox/gazetteer) |
-| super-mario-world.tm2 | an mario-inspired Mapbox Studio map | 2015-07-25T15:01:26Z | CartoCSS | [url](https://github.com/mapbox/super-mario-world.tm2) |
-| OfflineCalc | Small utility app to calculate the tile counts needed to go offline. | 2015-07-29T09:31:10Z | Objective-C | [url](https://github.com/mapbox/OfflineCalc) |
-| rio-interpolate | Interpolate raster values from GeoJSON geometry | 2015-07-30T15:36:10Z | Python | [url](https://github.com/mapbox/rio-interpolate) |
-| dynamodb-down | an abstract-leveldown backend in dynamodb | 2015-07-30T22:24:58Z | JavaScript | [url](https://github.com/mapbox/dynamodb-down) |
-| react-tangle-compat | A compatibility layer for tangletext on numeric inputs | 2015-07-31T20:02:38Z | JavaScript | [url](https://github.com/mapbox/react-tangle-compat) |
-| unitbezier | Unit bezier interpolation | 2015-07-31T20:21:56Z | JavaScript | [url](https://github.com/mapbox/unitbezier) |
-| segmentio-insert | insert segment.io tracking code on a page | 2015-08-03T17:13:28Z | JavaScript | [url](https://github.com/mapbox/segmentio-insert) |
-| osm-place-ranks | n/a | 2015-08-11T19:17:43Z | Python | [url](https://github.com/mapbox/osm-place-ranks) |
-| google-client-wrapper | High level wrapper around Google Client API | 2015-08-11T20:31:03Z | JavaScript | [url](https://github.com/mapbox/google-client-wrapper) |
-| sqscmd | Helper for using SQS simply in bash scripting. | 2015-08-19T18:26:11Z | JavaScript | [url](https://github.com/mapbox/sqscmd) |
-| download-osm-data | GUI for downloading OSM data | 2015-08-26T00:06:06Z | n/a | [url](https://github.com/mapbox/download-osm-data) |
-| tile-blobber | Transform a list of tile coordinates into covering polygons | 2015-08-27T18:20:08Z | JavaScript | [url](https://github.com/mapbox/tile-blobber) |
-| mapbox-studio-pirates.tm2 | Mapbox Studio default style. | 2015-09-02T19:12:44Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-pirates.tm2) |
-| ec2ppuku | Upstart service to self-destruct EC2s when disks fill up | 2015-09-03T07:43:30Z | Shell | [url](https://github.com/mapbox/ec2ppuku) |
-| dynamodb-throughput | Set and reset provisioned DynamoDB throughput | 2015-09-03T19:09:13Z | JavaScript | [url](https://github.com/mapbox/dynamodb-throughput) |
-| osm-query | Planets, stars, nodes and ways | 2015-09-09T17:07:33Z | JavaScript | [url](https://github.com/mapbox/osm-query) |
-| mapbox-studio-looseleaf.tm2 | Looseleaf style for Mapbox Studio | 2015-09-16T18:37:20Z | JavaScript | [url](https://github.com/mapbox/mapbox-studio-looseleaf.tm2) |
-| get-control-points | Barebones method for deriving control points given start, end, and base. | 2015-09-23T18:15:12Z | JavaScript | [url](https://github.com/mapbox/get-control-points) |
-| s3mpu-cleanup | Cleanup stale multipart uploads from an S3 bucket | 2015-09-24T05:10:45Z | JavaScript | [url](https://github.com/mapbox/s3mpu-cleanup) |
-| detect-json-indent | detect json indent levels | 2015-10-02T13:56:53Z | JavaScript | [url](https://github.com/mapbox/detect-json-indent) |
-| mapbox-studio-mars-satellite.tm2 | Mars Satellite + labels | 2015-10-09T19:41:13Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-mars-satellite.tm2) |
-| fischer-color | a javascript implementation of eric fischer's perceptually-friendly color system | 2015-10-12T00:43:47Z | JavaScript | [url](https://github.com/mapbox/fischer-color) |
-| MacMapKit | MapKit Framework for the Mac | 2015-10-13T21:05:32Z | Objective-C | [url](https://github.com/mapbox/MacMapKit) |
-| mapbox-studio-mars-terrain.tm2 | Vector terrain style or Mars | 2015-10-14T21:47:59Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-mars-terrain.tm2) |
-| github-file-browser | browse through github geojson files in repositories and gist | 2015-10-16T07:16:16Z | JavaScript | [url](https://github.com/mapbox/github-file-browser) |
-| osrm-frontend-v2 | Modular rewrite of the OSRM frontend using LRM | 2015-10-16T11:27:57Z | JavaScript | [url](https://github.com/mapbox/osrm-frontend-v2) |
-| elasticache-auto-discovery | Elasticache Auto Discovery Client | 2015-10-17T11:23:45Z | JavaScript | [url](https://github.com/mapbox/elasticache-auto-discovery) |
-| satellite-change-detect | n/a | 2015-10-22T02:50:12Z | Python | [url](https://github.com/mapbox/satellite-change-detect) |
-| slippy-colors | A D3 color picker component. It's a color picker...and a slippy map. | 2015-10-23T02:29:09Z | JavaScript | [url](https://github.com/mapbox/slippy-colors) |
-| travel-to-calendar | A Chrome extension that adds travel tickets to Google Calendar from GitHub. | 2015-10-26T19:10:11Z | JavaScript | [url](https://github.com/mapbox/travel-to-calendar) |
-| mapbox-studio-high-contrast.tm2 | High Contrast map style for Mapbox Studio Classic | 2015-10-26T19:18:23Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-high-contrast.tm2) |
-| compare | Compare OSM to Google maps | 2015-10-28T23:52:32Z | JavaScript | [url](https://github.com/mapbox/compare) |
-| fs-sharded-cache | Generic fs-aware sharded cache | 2015-10-29T03:43:23Z | JavaScript | [url](https://github.com/mapbox/fs-sharded-cache) |
-| rio-random | generate random rasters | 2015-10-30T20:10:02Z | n/a | [url](https://github.com/mapbox/rio-random) |
-| station-finder-ios | DC Metro station finder iOS SDK example | 2015-11-01T14:33:27Z | Objective-C | [url](https://github.com/mapbox/station-finder-ios) |
-| MapDBImporter | A tool to import a folder of MapBox tiles into a single SQLite file. | 2015-11-01T14:45:22Z | Objective-C | [url](https://github.com/mapbox/MapDBImporter) |
-| tilemill-reference-layer | TileMill Plugin that allows adding a tiled layer from tiles.mapbox.com | 2015-11-06T02:47:56Z | JavaScript | [url](https://github.com/mapbox/tilemill-reference-layer) |
-| mapbox-studio-comic.tm2 | n/a | 2015-11-06T15:05:29Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-comic.tm2) |
-| simple-linear-scale | Bare-bones equivalent for the functionality of d3.scale.linear | 2015-11-07T11:23:10Z | JavaScript | [url](https://github.com/mapbox/simple-linear-scale) |
-| geojson-coordinate-properties | a draft extension to GeoJSON defining the encoding of arbitrary properties along LineString geometries | 2015-11-07T11:24:50Z | n/a | [url](https://github.com/mapbox/geojson-coordinate-properties) |
-| mapbox-data-cli | CLI utilties for Mapbox Data API | 2015-11-07T11:25:18Z | JavaScript | [url](https://github.com/mapbox/mapbox-data-cli) |
-| font-scope | Reformats node-fontnik's font-inspect output to be human-readable and summarized. | 2015-11-07T11:25:52Z | JavaScript | [url](https://github.com/mapbox/font-scope) |
-| color-ops | Color operations. Extracted from less.js, via CartoCSS. | 2015-11-07T11:26:42Z | JavaScript | [url](https://github.com/mapbox/color-ops) |
-| swot-simple | identify education email addresses worldwide: a simple, fast implementation of Swot in JavaScript | 2015-11-07T11:27:51Z | JavaScript | [url](https://github.com/mapbox/swot-simple) |
-| basic-queue | a basic queue with concurrency | 2015-11-11T17:33:44Z | JavaScript | [url](https://github.com/mapbox/basic-queue) |
-| s3hatchet | Split + summarize big s3 ls logs | 2015-11-16T03:54:29Z | Python | [url](https://github.com/mapbox/s3hatchet) |
-| mapbox-studio-wheatpaste.tm2 | Wheatpaste style for Mapbox Studio | 2015-11-23T16:45:16Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-wheatpaste.tm2) |
-| mdast-cross-reference | cross-referencing system in markdown | 2015-11-29T01:02:00Z | JavaScript | [url](https://github.com/mapbox/mdast-cross-reference) |
-| detect-geocsv | Detect if a buffer has geocsv headers | 2015-12-04T18:25:54Z | JavaScript | [url](https://github.com/mapbox/detect-geocsv) |
-| JOSM-configuration | A JOSM plugin which loads task components | 2015-12-09T09:08:09Z | Java | [url](https://github.com/mapbox/JOSM-configuration) |
-| tilelive-cardboard | Renders vector tiles from a cardboard dataset | 2015-12-13T23:12:12Z | JavaScript | [url](https://github.com/mapbox/tilelive-cardboard) |
-| MapboxTableViewDemo | Reference implementation of reuse of UITableViewCell objects containing Mapbox GL-based Mapbox iOS SDK maps. | 2015-12-15T11:37:28Z | Swift | [url](https://github.com/mapbox/MapboxTableViewDemo) |
-| rio-block-features | geojson features from raster's internal tile blocks | 2015-12-15T13:08:13Z | Python | [url](https://github.com/mapbox/rio-block-features) |
-| node-eio | Control libeio from JavaScript | 2015-12-20T13:15:39Z | C++ | [url](https://github.com/mapbox/node-eio) |
-| elastisnap | Amazon Elastic Block Store (EBS) rotating snapshots in node.js | 2015-12-23T01:48:28Z | JavaScript | [url](https://github.com/mapbox/elastisnap) |
-| tile-reduce-vandalism | n/a | 2015-12-26T15:24:48Z | JavaScript | [url](https://github.com/mapbox/tile-reduce-vandalism) |
-| tile-generator | Generate a stream of tiles in a bbox | 2015-12-26T20:45:32Z | JavaScript | [url](https://github.com/mapbox/tile-generator) |
-| diversify | Script for quickly creating varying sizes of app icons for iOS project asset catalogs. | 2015-12-29T18:51:37Z | Shell | [url](https://github.com/mapbox/diversify) |
-| pre-gyp-find | Helper module for loading a node-pre-gyp packaged Node.js native module | 2016-01-03T10:18:00Z | JavaScript | [url](https://github.com/mapbox/pre-gyp-find) |
-| osm-mend | Mend referential integrity in OpenStreetMap data files | 2016-01-04T23:13:15Z | JavaScript | [url](https://github.com/mapbox/osm-mend) |
-| mbtiler | C++ MBTile example | 2016-01-09T18:05:35Z | C++ | [url](https://github.com/mapbox/mbtiler) |
-| owlviewer | A changeset browser for https://github.com/ppawel/openstreetmap-watch-list | 2016-01-09T18:05:57Z | JavaScript | [url](https://github.com/mapbox/owlviewer) |
-| tilemill-browser-preview | A tiny plugin that adds a button to open the map in your default browser. | 2016-01-09T18:06:00Z | n/a | [url](https://github.com/mapbox/tilemill-browser-preview) |
-| tilemill-lots | Dev lots plugin for use with pluggable tilemill branch | 2016-01-09T18:06:08Z | JavaScript | [url](https://github.com/mapbox/tilemill-lots) |
-| tilemill-builder-osx | Build script for portable, complete Mac version of TileMill | 2016-01-09T18:06:09Z | Shell | [url](https://github.com/mapbox/tilemill-builder-osx) |
-| directions-instructions | translate and transform driving directions between languages | 2016-01-09T20:56:19Z | JavaScript | [url](https://github.com/mapbox/directions-instructions) |
-| execcommand-copy | Copy text to a user's clipboard using the modern execCommand interface | 2016-01-09T20:56:20Z | JavaScript | [url](https://github.com/mapbox/execcommand-copy) |
-| point-geometry | A standalone point geometry primitive. | 2016-01-11T07:13:27Z | JavaScript | [url](https://github.com/mapbox/point-geometry) |
-| osm-comments-parser | Parsers to read Notes and Changeset XML files and save them in a Postgres DB | 2016-01-11T12:15:17Z | JavaScript | [url](https://github.com/mapbox/osm-comments-parser) |
-| aws-sdk-js | AWS SDK for JavaScript in the browser and Node.js | 2016-01-11T15:24:28Z | JavaScript | [url](https://github.com/mapbox/aws-sdk-js) |
-| mapbox.js-bower | bower releases of mapbox.js | 2016-01-12T21:23:09Z | JavaScript | [url](https://github.com/mapbox/mapbox.js-bower) |
-| assert-http | Test helpers for testing a HTTP interface | 2016-01-13T17:39:47Z | JavaScript | [url](https://github.com/mapbox/assert-http) |
-| osm-meta-util | Utility for downloading and processing OSM metadata | 2016-01-13T21:28:18Z | JavaScript | [url](https://github.com/mapbox/osm-meta-util) |
-| node-happytiff | Util to detect/verify happytiffs | 2016-01-13T22:55:10Z | JavaScript | [url](https://github.com/mapbox/node-happytiff) |
-| mapbox-gl-test-suite | Rendering tests for Mapbox GL | 2016-01-14T00:08:14Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-test-suite) |
-| mapbox-upload-validate | Validate that files can be uploaded to mapbox.com | 2016-01-14T00:20:36Z | JavaScript | [url](https://github.com/mapbox/mapbox-upload-validate) |
-| carmen-cache | C++ protobuf cache used by carmen | 2016-01-14T00:40:09Z | C++ | [url](https://github.com/mapbox/carmen-cache) |
-| mapbox-gl-plugins | Hosted plugins for mapbox-gl-js | 2016-01-15T05:16:20Z | CSS | [url](https://github.com/mapbox/mapbox-gl-plugins) |
-| dynamodb-touch | Mock change events from a DynamoDB table | 2016-01-15T21:01:20Z | JavaScript | [url](https://github.com/mapbox/dynamodb-touch) |
-| shapefile-fairy | I put a zipfile under my pillow and the fairy brought me shapefiles | 2016-01-15T22:35:17Z | JavaScript | [url](https://github.com/mapbox/shapefile-fairy) |
-| foursquare-store-locator | DEPRECATED: A template for building a store locator with the foursquare API. Part of the Map Sites templates from MapBox. See https://www.mapbox.com/guides/building-a-store-locator/ | 2016-01-16T03:56:40Z | JavaScript | [url](https://github.com/mapbox/foursquare-store-locator) |
-| gyp | Daily synced github mirror of gyp svn repository at http://gyp.googlecode.com/svn/trunk/. | 2016-01-18T08:05:13Z | Python | [url](https://github.com/mapbox/gyp) |
-| geojson-cover | generates an s2 cover from geojson | 2016-01-18T12:31:45Z | JavaScript | [url](https://github.com/mapbox/geojson-cover) |
-| polyclip | Martinez polygon boolean operations (a work in progress) | 2016-01-18T15:07:01Z | HTML | [url](https://github.com/mapbox/polyclip) |
-| mapbox-studio-outdoors.tm2 | Mapbox Studio style designed for outdoor adventures | 2016-01-19T10:50:45Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-outdoors.tm2) |
-| cpp-bootstrap | Bare-bones C++14 & CMake 3 template | 2016-01-19T13:43:53Z | CMake | [url](https://github.com/mapbox/cpp-bootstrap) |
-| osm-comments | Frontend application to query osm-comments-api | 2016-01-20T08:06:19Z | JavaScript | [url](https://github.com/mapbox/osm-comments) |
-| gender-map | Open repository to try and retrieve gender from street names. | 2016-01-21T12:24:01Z | JavaScript | [url](https://github.com/mapbox/gender-map) |
-| s3scan | S3 can! | 2016-01-21T19:40:23Z | JavaScript | [url](https://github.com/mapbox/s3scan) |
-| raster-tile-query | raster-tile-query allows you to query raster tiles and return pixel values at specific lng, lats | 2016-01-21T20:15:54Z | JavaScript | [url](https://github.com/mapbox/raster-tile-query) |
-| mapbox.js-plugins | Hosted plugins for Leaflet & Mapbox.js | 2016-01-22T19:29:18Z | JavaScript | [url](https://github.com/mapbox/mapbox.js-plugins) |
-| node-wmtiff | Utilililility to reproject tiff images to web mercator | 2016-01-23T00:57:47Z | JavaScript | [url](https://github.com/mapbox/node-wmtiff) |
-| node-bytetiff | Utilility to scale 16 bit tiffs to 8 bits | 2016-01-23T01:05:08Z | JavaScript | [url](https://github.com/mapbox/node-bytetiff) |
-| thumbnail-stream | generate thumbnails from a stream of png buffers | 2016-01-23T16:27:18Z | JavaScript | [url](https://github.com/mapbox/thumbnail-stream) |
-| dynamodb-migrator | For migration and cleanup operations on your DynamoDB table | 2016-01-23T16:42:15Z | JavaScript | [url](https://github.com/mapbox/dynamodb-migrator) |
-| sample-apps-ios-swift | Bitrise iOS Sample App | 2016-01-23T19:53:26Z | Swift | [url](https://github.com/mapbox/sample-apps-ios-swift) |
-| canvas-dial | a canvas dial | 2016-01-24T20:08:02Z | JavaScript | [url](https://github.com/mapbox/canvas-dial) |
-| mapbox-upload-limits | Constant values of the limits of Mapbox upload services. | 2016-01-25T17:03:24Z | JavaScript | [url](https://github.com/mapbox/mapbox-upload-limits) |
-| react-submittable | Stop using preventDefault to get form behavior in React. | 2016-01-25T23:29:15Z | JavaScript | [url](https://github.com/mapbox/react-submittable) |
-| osm-comments-api | Expose a RESTful API for OSM Notes and Changeset Comments | 2016-01-26T06:35:41Z | JavaScript | [url](https://github.com/mapbox/osm-comments-api) |
-| gdal-polygonize-test | test case for speeding up gdal_polygonize.py | 2016-01-26T13:52:51Z | Shell | [url](https://github.com/mapbox/gdal-polygonize-test) |
-| mapnik-test-data | Data available for testing Mapnik sources | 2016-01-28T00:08:33Z | HTML | [url](https://github.com/mapbox/mapnik-test-data) |
-| geojson-stream | Stream features into and out of GeoJSON objects and Feature Collections. | 2016-01-28T20:25:46Z | JavaScript | [url](https://github.com/mapbox/geojson-stream) |
-| node-get | DEPRECATED: use request instead | 2016-01-29T22:17:59Z | JavaScript | [url](https://github.com/mapbox/node-get) |
-| preprocessorcerer | Perform preprocessorcery and pick parts on particularly persnickity uploads | 2016-01-30T16:40:30Z | JavaScript | [url](https://github.com/mapbox/preprocessorcerer) |
-| intro-to-mapbox | n/a | 2016-02-01T06:11:10Z | HTML | [url](https://github.com/mapbox/intro-to-mapbox) |
-| install-node | Bash script to install a version/platform of Node.js | 2016-02-02T17:07:59Z | Shell | [url](https://github.com/mapbox/install-node) |
-| ec2mnt | Combine + mount EC2 instance store volumes | 2016-02-03T09:54:24Z | Shell | [url](https://github.com/mapbox/ec2mnt) |
-| node-mapnik-bench | Testcases for exploring multithreaded tile rendering performance across mapnik versions | 2016-02-04T15:59:29Z | JavaScript | [url](https://github.com/mapbox/node-mapnik-bench) |
-| tmpfs-mmap-zero-copy | testing tmpfs+mmap with various flags and hints for zero copy access | 2016-02-04T17:47:46Z | C++ | [url](https://github.com/mapbox/tmpfs-mmap-zero-copy) |
-| ambient-light | Ambient light map styling for Mapbox GL for iOS | 2016-02-07T05:46:36Z | Objective-C | [url](https://github.com/mapbox/ambient-light) |
-| tilelive-multicache | n/a | 2016-02-08T16:22:16Z | JavaScript | [url](https://github.com/mapbox/tilelive-multicache) |
-| geojson-quirks | Tweak your data to interoperate with quirky GeoJSON readers | 2016-02-08T23:39:14Z | Python | [url](https://github.com/mapbox/geojson-quirks) |
-| aws-cfn-signalresource | wraps `aws cloudformation signal-resource` to handle errors & retries | 2016-02-09T04:18:33Z | Shell | [url](https://github.com/mapbox/aws-cfn-signalresource) |
-| node-locking | Read I/O locking using LRU cache | 2016-02-09T20:46:43Z | JavaScript | [url](https://github.com/mapbox/node-locking) |
-| superenv | pull configuration variables from JSON and ini configuration files and environment variables | 2016-02-09T20:50:52Z | JavaScript | [url](https://github.com/mapbox/superenv) |
-| geojson-normalize | Normalize any GeoJSON object into a GeoJSON FeatureCollection. | 2016-02-09T20:57:40Z | JavaScript | [url](https://github.com/mapbox/geojson-normalize) |
-| mapbox-error | generic error routes for mapbox express apps | 2016-02-09T21:27:47Z | JavaScript | [url](https://github.com/mapbox/mapbox-error) |
-| vector-tile-py | Parses vector tiles with Python | 2016-02-14T16:21:36Z | Python | [url](https://github.com/mapbox/vector-tile-py) |
-| model-un | A library that provides IETF language tags with English names, and official/common languages/language codes for countries and sovereign states. | 2016-02-15T08:56:20Z | JavaScript | [url](https://github.com/mapbox/model-un) |
-| osmcha | Python package to detect suspicious OSM changesets | 2016-02-16T07:31:16Z | Python | [url](https://github.com/mapbox/osmcha) |
-| SMCalloutView | A lightweight callout view class for iOS mimicking UICalloutView. | 2016-02-17T07:25:27Z | Objective-C | [url](https://github.com/mapbox/SMCalloutView) |
-| magic-tape | tape plus some goodies | 2016-02-19T16:25:58Z | JavaScript | [url](https://github.com/mapbox/magic-tape) |
-| mapbox-grid-copy | Copy UTFGrids from mbtiles files to S3 | 2016-02-19T21:01:22Z | JavaScript | [url](https://github.com/mapbox/mapbox-grid-copy) |
-| colonel-mercator | Generate raster pixel resolutions that are snapped to mercator tile resolutions | 2016-02-21T01:08:34Z | JavaScript | [url](https://github.com/mapbox/colonel-mercator) |
-| tilelive-s3 | Extends TileJSON for S3-specific tasks | 2016-02-22T07:57:01Z | JavaScript | [url](https://github.com/mapbox/tilelive-s3) |
-| geojson-coords | Extract coordinates from GeoJSON. | 2016-02-22T19:39:09Z | JavaScript | [url](https://github.com/mapbox/geojson-coords) |
-| kine | n/a | 2016-02-23T13:48:40Z | JavaScript | [url](https://github.com/mapbox/kine) |
-| homebrew-cli | Homebrew tap for Mapbox command line tools | 2016-02-23T13:48:54Z | Ruby | [url](https://github.com/mapbox/homebrew-cli) |
-| corslite | an ajax library for everyone and domains | 2016-02-24T09:18:35Z | JavaScript | [url](https://github.com/mapbox/corslite) |
-| iconoblast | App icon dev info burning for iOS and Android.  | 2016-02-24T23:50:41Z | Shell | [url](https://github.com/mapbox/iconoblast) |
-| cloudfront-log-reader | Read CloudFront logs files stored in AWS S3 | 2016-02-26T09:23:39Z | JavaScript | [url](https://github.com/mapbox/cloudfront-log-reader) |
-| uv_zip | libzip bindings for libuv | 2016-02-26T10:57:17Z | C++ | [url](https://github.com/mapbox/uv_zip) |
-| makizushi | Professional Maki chef: creates custom markers with Maki icons. | 2016-02-27T02:29:36Z | JavaScript | [url](https://github.com/mapbox/makizushi) |
-| fontnik | Generates Signed Distance Field glyphsets from OpenType fonts | 2016-02-27T11:03:00Z | JavaScript | [url](https://github.com/mapbox/fontnik) |
-| octokit.swift | A Swift API Client for GitHub and GitHub Enterprise | 2016-02-29T05:51:35Z | Swift | [url](https://github.com/mapbox/octokit.swift) |
-| s3prefixed | S3 reading operations in prefixed buckets | 2016-02-29T18:39:08Z | JavaScript | [url](https://github.com/mapbox/s3prefixed) |
-| dbf | dbf writer | 2016-03-02T14:15:38Z | JavaScript | [url](https://github.com/mapbox/dbf) |
-| ec2bt | `upstart` service for EC2 instances that logs backtraces from coredumps | 2016-03-03T15:07:23Z | Shell | [url](https://github.com/mapbox/ec2bt) |
-| github-status-everywhere | Chrome extension to display commit status of github SHAs | 2016-03-04T17:07:42Z | JavaScript | [url](https://github.com/mapbox/github-status-everywhere) |
-| ten-years-openstreetmap | n/a | 2016-03-05T17:19:06Z | JavaScript | [url](https://github.com/mapbox/ten-years-openstreetmap) |
-| github-org-browser | List public repos of a GitHub organization, with sorting and search | 2016-03-06T02:56:18Z | JavaScript | [url](https://github.com/mapbox/github-org-browser) |
-| dyno | simple dynamodb client | 2016-03-08T11:55:37Z | JavaScript | [url](https://github.com/mapbox/dyno) |
-| rio-merge-rgba | rio merge alternative optimized for large RGBA rasters | 2016-03-08T13:29:20Z | Python | [url](https://github.com/mapbox/rio-merge-rgba) |
-| geojson-flatten | flatten multipart geometries and geometrycollections in geojson | 2016-03-08T20:35:50Z | JavaScript | [url](https://github.com/mapbox/geojson-flatten) |
-| geojson-extent | Compute an extent given a GeoJSON object. | 2016-03-10T03:51:56Z | JavaScript | [url](https://github.com/mapbox/geojson-extent) |
-| node-lru-pool | A keyed pool that recycles the least-recently-used objects. | 2016-03-10T12:55:42Z | JavaScript | [url](https://github.com/mapbox/node-lru-pool) |
-| ibooks-author-example | Files for iBooks Author sample widget for MapBox integration | 2016-03-10T19:12:08Z | n/a | [url](https://github.com/mapbox/ibooks-author-example) |
-| node-unidecode-cxx | Experimental port of node-unidecode to C++ | 2016-03-11T04:27:24Z | C++ | [url](https://github.com/mapbox/node-unidecode-cxx) |
-| osm-fetch | Fetch XML for a specific version of an OpenStreetMap feature | 2016-03-11T19:36:20Z | JavaScript | [url](https://github.com/mapbox/osm-fetch) |
-| osm-edit-report | Report editing activity on OpenStreetMap | 2016-03-12T06:00:59Z | JavaScript | [url](https://github.com/mapbox/osm-edit-report) |
-| geojson-summary | Generate a plain-english summary of what is in a GeoJSON file. | 2016-03-12T15:28:11Z | JavaScript | [url](https://github.com/mapbox/geojson-summary) |
-| dynalite | A mock implementation of Amazon's DynamoDB built on LevelDB | 2016-03-14T22:48:13Z | JavaScript | [url](https://github.com/mapbox/dynalite) |
-| mapbox-press-assets | n/a | 2016-03-15T05:47:49Z | n/a | [url](https://github.com/mapbox/mapbox-press-assets) |
-| lineclip | A very fast JavaScript polyline and polygon clipping library | 2016-03-15T09:24:48Z | JavaScript | [url](https://github.com/mapbox/lineclip) |
-| cwput | Send custom metrics to AWS CloudWatch | 2016-03-15T15:36:07Z | Shell | [url](https://github.com/mapbox/cwput) |
-| earcut-reduce | A tile-reduce script to check polygons in vector tiles against Earcut | 2016-03-16T17:02:28Z | JavaScript | [url](https://github.com/mapbox/earcut-reduce) |
-| cooltip | a react tooltip component | 2016-03-17T19:17:14Z | JavaScript | [url](https://github.com/mapbox/cooltip) |
-| docshot | Chrome extension for creating simple screenshots for docs. | 2016-03-17T19:37:52Z | CSS | [url](https://github.com/mapbox/docshot) |
-| tiletype | detect common map tile formats from a buffer | 2016-03-18T05:10:58Z | JavaScript | [url](https://github.com/mapbox/tiletype) |
-| leaflet-terminator | Displays a solar terminator on a Leaflet map. | 2016-03-18T12:58:39Z | JavaScript | [url](https://github.com/mapbox/leaflet-terminator) |
-| geojson-random | Generate random GeoJSON features. | 2016-03-19T08:10:06Z | JavaScript | [url](https://github.com/mapbox/geojson-random) |
-| s3life | Helper for managing S3 lifecycle policies. | 2016-03-19T19:14:28Z | JavaScript | [url](https://github.com/mapbox/s3life) |
-| probematch | A small module for matching probes to road networks | 2016-03-20T22:22:10Z | JavaScript | [url](https://github.com/mapbox/probematch) |
-| pointcloud | Point cloud visualization | 2016-03-21T10:31:38Z | JavaScript | [url](https://github.com/mapbox/pointcloud) |
-| dynamosm-importer | import a file of line-delimited geojsons to a postgres database | 2016-03-22T14:59:10Z | JavaScript | [url](https://github.com/mapbox/dynamosm-importer) |
-| glyph-pbf-composite | Composite glyph PBFs on the fly. | 2016-03-22T19:39:34Z | JavaScript | [url](https://github.com/mapbox/glyph-pbf-composite) |
-| vector-tile-query | vector-tile-query allows you to query vector tiles and return data values from these tiles. | 2016-03-22T19:53:43Z | JavaScript | [url](https://github.com/mapbox/vector-tile-query) |
-| tilelive-redis | Redis wrapping source for tilelive | 2016-03-23T01:27:14Z | JavaScript | [url](https://github.com/mapbox/tilelive-redis) |
-| tilelive-memcached | memcached wrapping source for tilelive | 2016-03-23T01:28:30Z | JavaScript | [url](https://github.com/mapbox/tilelive-memcached) |
-| snuggs | Snuggs are s-expressions for Numpy | 2016-03-23T12:56:25Z | Python | [url](https://github.com/mapbox/snuggs) |
-| eslint-add | add eslint to codebases really fast | 2016-03-23T17:38:05Z | JavaScript | [url](https://github.com/mapbox/eslint-add) |
-| eslint-config-unstyled | an eslint configuration with no style rules | 2016-03-23T18:41:30Z | JavaScript | [url](https://github.com/mapbox/eslint-config-unstyled) |
-| drone-feedback | User feedback from https://www.mapbox.com/drone/no-fly/ | 2016-03-23T22:15:02Z | n/a | [url](https://github.com/mapbox/drone-feedback) |
-| s3pay | s3 cp and ls commands for requester-pays buckets | 2016-03-24T03:13:50Z | JavaScript | [url](https://github.com/mapbox/s3pay) |
-| tokml | Convert GeoJSON to KML. | 2016-03-25T14:52:20Z | JavaScript | [url](https://github.com/mapbox/tokml) |
-| grid-index | A 2D spatial index for axis-aligned boxes | 2016-03-25T20:27:12Z | JavaScript | [url](https://github.com/mapbox/grid-index) |
-| mapbox-studio-satellite-outdoors.tm2 | Vector contours + street labels for Mapbox Satellite | 2016-03-25T23:56:57Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-satellite-outdoors.tm2) |
-| landsat8-qa | Landsat 8 QA band CLI tool and python lib | 2016-03-26T17:16:14Z | Python | [url](https://github.com/mapbox/landsat8-qa) |
-| geocoding-example | Examples of how to use the Mapbox geocoder. | 2016-03-28T07:25:50Z | PHP | [url](https://github.com/mapbox/geocoding-example) |
-| turf-server-example | an example of using turf on a server with node.js | 2016-03-28T22:41:37Z | JavaScript | [url](https://github.com/mapbox/turf-server-example) |
-| d3-bucket-ui | a drag and drop bucket ui for d3 | 2016-03-29T17:02:14Z | CSS | [url](https://github.com/mapbox/d3-bucket-ui) |
-| d3-metatable | a table view for heterogeneous objects | 2016-03-29T17:17:27Z | CSS | [url](https://github.com/mapbox/d3-metatable) |
-| node-cpp11 | cpp11-enabled node builds (windows vs2014) | 2016-03-29T21:23:08Z | Shell | [url](https://github.com/mapbox/node-cpp11) |
-| locator | A quick and easy way to build maps with markers | 2016-03-30T18:53:43Z | JavaScript | [url](https://github.com/mapbox/locator) |
-| shelf-pack-cpp | C++ port of https://github.com/mapbox/shelf-pack | 2016-04-01T03:08:29Z | C++ | [url](https://github.com/mapbox/shelf-pack-cpp) |
-| decode-webp | JavaScript WebM & WebP decoder (in progress) | 2016-04-03T01:38:17Z | JavaScript | [url](https://github.com/mapbox/decode-webp) |
-| atom-shell | Cross-platform desktop application shell | 2016-04-04T19:24:48Z | n/a | [url](https://github.com/mapbox/atom-shell) |
-| bundle-fairy | check if zip file is a bundle, e.g. bunch of several GeoJSONs | 2016-04-04T20:53:49Z | JavaScript | [url](https://github.com/mapbox/bundle-fairy) |
-| node-require-once | Change require behavior to ensure a single instance of a given module | 2016-04-06T01:45:23Z | JavaScript | [url](https://github.com/mapbox/node-require-once) |
-| s3signed | Generate a signed URL for a private S3 object | 2016-04-06T06:36:21Z | JavaScript | [url](https://github.com/mapbox/s3signed) |
-| geocode-many | given an array of objects and a transform into a geocodable string, geocode them if possible | 2016-04-06T14:05:04Z | JavaScript | [url](https://github.com/mapbox/geocode-many) |
-| running-map-example | An example of how to make a running map with open source components. | 2016-04-06T14:16:00Z | JavaScript | [url](https://github.com/mapbox/running-map-example) |
-| fuzzer | a mutating fuzzer for testing | 2016-04-06T16:35:20Z | JavaScript | [url](https://github.com/mapbox/fuzzer) |
-| versioning-node-cpp | Convention for publishing node/C++ modules and their dependents | 2016-04-08T14:14:51Z | n/a | [url](https://github.com/mapbox/versioning-node-cpp) |
-| patrol-rules-github | GitHub Patrol rules | 2016-04-08T18:46:26Z | JavaScript | [url](https://github.com/mapbox/patrol-rules-github) |
-| homebrew-ios-sim-3 | Homebrew tap for ios-sim 3.x | 2016-04-10T18:03:49Z | Ruby | [url](https://github.com/mapbox/homebrew-ios-sim-3) |
-| MBDrawingView.swift | Gesture-based drawing overlay view | 2016-04-10T19:15:45Z | Swift | [url](https://github.com/mapbox/MBDrawingView.swift) |
-| node-blend | High speed image encoding, stiching, and compositing | 2016-04-12T05:03:04Z | JavaScript | [url](https://github.com/mapbox/node-blend) |
-| generate-geo-testing-data | use a geonames extract to generate testing geocodes, tiles, and bounding boxes | 2016-04-12T07:40:01Z | JavaScript | [url](https://github.com/mapbox/generate-geo-testing-data) |
-| mapbox-gl-function | Evaluate a Mapbox GL style function | 2016-04-12T21:23:39Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-function) |
-| sanitize-caja | sanitize html | 2016-04-13T17:27:35Z | JavaScript | [url](https://github.com/mapbox/sanitize-caja) |
-| minjur | Osmium-based converter of OSM data to GeoJSON | 2016-04-13T21:00:17Z | C++ | [url](https://github.com/mapbox/minjur) |
-| mapbox-upload | Node.js library for interfacing with the Mapbox upload API. | 2016-04-14T01:50:11Z | JavaScript | [url](https://github.com/mapbox/mapbox-upload) |
-| to-color | convert an arbitrary string into an identifying color | 2016-04-14T20:29:54Z | JavaScript | [url](https://github.com/mapbox/to-color) |
-| dawg-cache | A builder of compact partial directed acyclic word graphs (now in C++) | 2016-04-15T03:29:41Z | C++ | [url](https://github.com/mapbox/dawg-cache) |
-| mapbox-gl-whaam-style | Roy Lichtenstein inspired map style for Mapbox Studio (GL) | 2016-04-16T03:41:19Z | n/a | [url](https://github.com/mapbox/mapbox-gl-whaam-style) |
-| open-streets-style | A TileMill/Carto project for OpenStreetMap PostGIS databases | 2016-04-16T17:31:16Z | Python | [url](https://github.com/mapbox/open-streets-style) |
-| react-range | A react range slider component | 2016-04-16T19:12:05Z | JavaScript | [url](https://github.com/mapbox/react-range) |
-| SCSafariPageController | A page view controller component that reproduces Mobile Safari's tab switching behavior | 2016-04-17T21:08:40Z | Objective-C | [url](https://github.com/mapbox/SCSafariPageController) |
-| mapbox-ios-playground | watch Tom learn iOS | 2016-04-17T21:09:43Z | Objective-C | [url](https://github.com/mapbox/mapbox-ios-playground) |
-| mapbox-studio-osm-bright.tm2 | A full-featured template / example project for Mapbox Studio using Mapbox Streets vector tiles | 2016-04-18T03:07:48Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-osm-bright.tm2) |
-| node-tilejson | Tile source backend for online tile sources | 2016-04-18T04:23:05Z | JavaScript | [url](https://github.com/mapbox/node-tilejson) |
-| Swiftbox | Mapbox's Objective-C iOS SDK in a Swift app | 2016-04-18T06:26:39Z | Objective-C | [url](https://github.com/mapbox/Swiftbox) |
-| cligj | Click-based argument and option decorators for Python GIS command line programs | 2016-04-18T13:28:54Z | Python | [url](https://github.com/mapbox/cligj) |
-| geo-viewport | Turns bounding boxes / extents into centerpoint & zoom combos for static maps. | 2016-04-18T15:32:57Z | JavaScript | [url](https://github.com/mapbox/geo-viewport) |
-| mapbox-geocoder-android | DEPRECATED - Replaced with https://github.com/mapbox/mapbox-java | 2016-04-18T20:40:23Z | Java | [url](https://github.com/mapbox/mapbox-geocoder-android) |
-| mapbox-gl-compare | Swipe and sync between two maps | 2016-04-19T08:08:01Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-compare) |
-| spherical | Spherical world utilities | 2016-04-19T08:10:28Z | JavaScript | [url](https://github.com/mapbox/spherical) |
-| mapbox-gl-codeflow-example | example of a raw code editing environment with Mapbox GL | 2016-04-19T08:16:15Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-codeflow-example) |
-| mapbox-studio-default-fonts | n/a | 2016-04-19T08:16:19Z | n/a | [url](https://github.com/mapbox/mapbox-studio-default-fonts) |
-| mapbox-gl-supported | A library to determine if a browser supports Mapbox GL JS | 2016-04-19T19:12:47Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-supported) |
-| know-the-globe | n/a | 2016-04-20T13:31:27Z | JavaScript | [url](https://github.com/mapbox/know-the-globe) |
-| mapbox-match.js | A plugin to align geometries to streetmap data | 2016-04-20T15:05:57Z | HTML | [url](https://github.com/mapbox/mapbox-match.js) |
-| geojson-area | compute the area of a geojson polygon or multipolygon | 2016-04-20T16:20:42Z | JavaScript | [url](https://github.com/mapbox/geojson-area) |
-| mapbox-sdk-rb | A ruby interface to Mapbox APIs. | 2016-04-20T18:38:12Z | Ruby | [url](https://github.com/mapbox/mapbox-sdk-rb) |
-| geojsonvt.swift | Port of geojson-vt.js to Swift — slice vector features into tiles on the fly | 2016-04-21T12:23:50Z | Swift | [url](https://github.com/mapbox/geojsonvt.swift) |
-| mapbox-gl | Issue-only repository for discussion of Mapbox GL | 2016-04-21T13:40:28Z | n/a | [url](https://github.com/mapbox/mapbox-gl) |
-| linematch | A super-fast algorithm for comparing road networks. | 2016-04-22T16:00:34Z | JavaScript | [url](https://github.com/mapbox/linematch) |
-| vector-tile | A C++  header only library for decoding and encoding Mapbox Vector Tiles | 2016-04-22T20:11:18Z | CMake | [url](https://github.com/mapbox/vector-tile) |
-| wgs84 | constants of the reference ellipsoid | 2016-04-23T06:33:09Z | JavaScript | [url](https://github.com/mapbox/wgs84) |
-| sexagesimal | parse sexagesimal coordinates | 2016-04-23T13:39:15Z | JavaScript | [url](https://github.com/mapbox/sexagesimal) |
-| colorbrewer-carto | Colorbrewer colors for TileMill | 2016-04-24T12:19:47Z | n/a | [url](https://github.com/mapbox/colorbrewer-carto) |
-| maki-chef | Customize maki to suit your needs | 2016-04-25T16:19:33Z | JavaScript | [url](https://github.com/mapbox/maki-chef) |
-| mapbox-studio-emerald.tm2 | Emerald map style for Mapbox Studio | 2016-04-25T16:48:20Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-emerald.tm2) |
-| poi-by-radius-demo | [MOVED] https://github.com/mapbox/analysis-demos/tree/mb-pages/nyc-attractions/ | 2016-04-25T23:45:02Z | n/a | [url](https://github.com/mapbox/poi-by-radius-demo) |
-| mapbox-gl-js-mock | A maybe-some-day-fully-featured mock for mapbox-gl-js | 2016-04-26T08:06:06Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-js-mock) |
-| mapnik-swoop | Run tests of node-mapnik dependents against upcoming release | 2016-04-26T09:46:38Z | JavaScript | [url](https://github.com/mapbox/mapnik-swoop) |
-| tilelive-overlay | Render GeoJSON features with simplestyle styles in a tilelive pipeline | 2016-04-26T09:48:54Z | JavaScript | [url](https://github.com/mapbox/tilelive-overlay) |
-| vector-tiles | Documentation for Mapbox Vector Tiles | 2016-04-26T18:11:32Z | HTML | [url](https://github.com/mapbox/vector-tiles) |
-| sandy | visualizing hurricane sandy with NHC data  | 2016-04-27T05:45:48Z | JavaScript | [url](https://github.com/mapbox/sandy) |
-| mapbox-studio-winter-wonderland.tm2 | n/a | 2016-04-27T21:08:35Z | n/a | [url](https://github.com/mapbox/mapbox-studio-winter-wonderland.tm2) |
-| carmen | Mapnik vector tile-based geocoder with support for swappable data sources | 2016-04-28T05:14:43Z | JavaScript | [url](https://github.com/mapbox/carmen) |
-| mapbox-gl-swiss-ski-style | Swiss ski map style (GL) for Mapbox Studio | 2016-04-28T06:43:10Z | n/a | [url](https://github.com/mapbox/mapbox-gl-swiss-ski-style) |
-| leaflet-geodesy | a leaflet plugin for the earth | 2016-04-29T00:35:04Z | JavaScript | [url](https://github.com/mapbox/leaflet-geodesy) |
-| analysis-demos | n/a | 2016-04-29T01:34:24Z | JavaScript | [url](https://github.com/mapbox/analysis-demos) |
-| overpass-turbo | A web based data mining tool for OpenStreetMap using Overpass API. | 2016-04-29T06:58:18Z | JavaScript | [url](https://github.com/mapbox/overpass-turbo) |
-| mapbox-studio-pencil.tm2 | n/a | 2016-04-29T13:12:22Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-pencil.tm2) |
-| geo-pixel-stream | Streaming pixels with node-gdal | 2016-04-29T16:26:30Z | JavaScript | [url](https://github.com/mapbox/geo-pixel-stream) |
-| node-wmshp | Reproject shapefiles to EPSG:3857 using node-gdal | 2016-04-29T16:29:12Z | JavaScript | [url](https://github.com/mapbox/node-wmshp) |
-| react-keybinding | declarative and robust keybindings for react | 2016-04-30T12:45:37Z | JavaScript | [url](https://github.com/mapbox/react-keybinding) |
-| Simple-KML | Simple KML is a simple & lightweight parsing library for KML written in Objective-C for the iOS platform.  | 2016-05-01T01:12:59Z | Objective-C | [url](https://github.com/mapbox/Simple-KML) |
-| mapbox-directions-android | DEPRECATED - Replaced with https://github.com/mapbox/mapbox-java | 2016-05-02T00:37:38Z | Java | [url](https://github.com/mapbox/mapbox-directions-android) |
-| osm-boundaries | MapBox OSM boundary relation processing | 2016-05-02T06:38:46Z | Python | [url](https://github.com/mapbox/osm-boundaries) |
-| workshops | n/a | 2016-05-02T07:55:56Z | JavaScript | [url](https://github.com/mapbox/workshops) |
-| sample-sizer | Implements Student's T-Distribution to identify minimum sample sizes | 2016-05-02T14:32:33Z | JavaScript | [url](https://github.com/mapbox/sample-sizer) |
-| mapbox-directions.js | Leaflet plugin for the Mapbox Directions API | 2016-05-02T19:06:19Z | JavaScript | [url](https://github.com/mapbox/mapbox-directions.js) |
-| cfn-config | Quickly configure, start, and update AWS CloudFormation stacks. | 2016-05-02T19:06:19Z | JavaScript | [url](https://github.com/mapbox/cfn-config) |
-| cfn-stack-event-stream | A readable stream of CloudFormation stack events | 2016-05-02T19:06:20Z | JavaScript | [url](https://github.com/mapbox/cfn-stack-event-stream) |
-| mapbox-file-sniff | Detects type of spatial file | 2016-05-02T19:06:21Z | JavaScript | [url](https://github.com/mapbox/mapbox-file-sniff) |
-| jsskel | Skeleton of a JavaScript package | 2016-05-02T19:06:21Z | JavaScript | [url](https://github.com/mapbox/jsskel) |
-| tile-stat-stream | generate statistics from vector tile streams | 2016-05-02T19:06:23Z | JavaScript | [url](https://github.com/mapbox/tile-stat-stream) |
-| geojson-tidy | Filter out noisy points from an input geojson lineString | 2016-05-03T08:52:24Z | JavaScript | [url](https://github.com/mapbox/geojson-tidy) |
-| mapbox-cli-py | Command line interface to Mapbox Web Services | 2016-05-03T17:03:38Z | Python | [url](https://github.com/mapbox/mapbox-cli-py) |
-| natural-earth-tm2 | Example source & style for TM2 using Natural Earth vector data | 2016-05-03T20:10:22Z | Shell | [url](https://github.com/mapbox/natural-earth-tm2) |
-| pygeobuf | A Python playground for the revised Geobuf compact geospatial format | 2016-05-03T21:23:36Z | Python | [url](https://github.com/mapbox/pygeobuf) |
-| usgs | Client library for interfacing with USGS datasets | 2016-05-04T08:23:14Z | Python | [url](https://github.com/mapbox/usgs) |
-| grib-doctor | Utilities for handling quirks of weather data grib files. | 2016-05-04T18:43:07Z | Python | [url](https://github.com/mapbox/grib-doctor) |
-| webgl-help | provide useful help for webgl support, derived from get.webgl.org | 2016-05-04T21:28:03Z | JavaScript | [url](https://github.com/mapbox/webgl-help) |
-| modejs | node module and cli for interacting with the mode analytics api | 2016-05-04T23:15:38Z | JavaScript | [url](https://github.com/mapbox/modejs) |
-| mapbox-studio-dark.tm2 | n/a | 2016-05-05T18:01:45Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-dark.tm2) |
-| mapbox-studio-run-bike-and-hike.tm2 | n/a | 2016-05-05T18:31:01Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-run-bike-and-hike.tm2) |
-| mapbox-studio-streets.tm2 | n/a | 2016-05-05T18:46:57Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-streets.tm2) |
-| mapbox-studio-streets-overlay.tm2 | Labels-only style for overlaying on custom imagery | 2016-05-05T18:53:10Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-streets-overlay.tm2) |
-| mbxmapkit | DEPRECATED - Lightweight Mapbox integration with MapKit on iOS | 2016-05-06T03:31:14Z | Objective-C | [url](https://github.com/mapbox/mbxmapkit) |
-| s3touch | Trigger S3 event notifications for objects in an s3 bucket | 2016-05-06T07:14:23Z | JavaScript | [url](https://github.com/mapbox/s3touch) |
-| shelf-pack | A 2D rectangular bin packing data structure that uses the Shelf Best Height Fit heuristic | 2016-05-06T08:05:16Z | JavaScript | [url](https://github.com/mapbox/shelf-pack) |
-| geojson-mapnikify | Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles. | 2016-05-06T12:02:39Z | JavaScript | [url](https://github.com/mapbox/geojson-mapnikify) |
-| supercluster.hpp | A fast geospatial static point clustering library for C++14 | 2016-05-06T14:52:05Z | C++ | [url](https://github.com/mapbox/supercluster.hpp) |
-| strxml | Create xml with strings and concatenation. | 2016-05-06T18:12:07Z | JavaScript | [url](https://github.com/mapbox/strxml) |
-| variant | C++11/C++14 Variant | 2016-05-07T01:36:06Z | C++ | [url](https://github.com/mapbox/variant) |
-| hubdb | a github-powered database | 2016-05-07T05:02:32Z | JavaScript | [url](https://github.com/mapbox/hubdb) |
-| jni.hpp | A modern, type-safe, header-only, C++14 wrapper for JNI | 2016-05-08T09:01:06Z | C++ | [url](https://github.com/mapbox/jni.hpp) |
-| osm-tag-stats | filter OSM features, find stats and export GeoJSON using OSM QA Tiles | 2016-05-10T14:34:36Z | JavaScript | [url](https://github.com/mapbox/osm-tag-stats) |
-| geojson-cpp | A C++14 library for converting GeoJSON into geometry.hpp representation | 2016-05-10T16:08:19Z | C++ | [url](https://github.com/mapbox/geojson-cpp) |
-| gowhereisay | Voice Search for Directions Using Mapbox Directions API | 2016-05-10T18:24:35Z | Java | [url](https://github.com/mapbox/gowhereisay) |
-| geojson-fixtures | geojson fixtures for testing and such | 2016-05-10T21:37:05Z | JavaScript | [url](https://github.com/mapbox/geojson-fixtures) |
-| osm-tiler | experimental osm pbf tiler for efficiently breaking planet files into small chunks | 2016-05-11T01:03:31Z | C++ | [url](https://github.com/mapbox/osm-tiler) |
-| guidance-sim | Creates Mapbox Directions API guidance simulations using Mapbox GL JS | 2016-05-11T16:45:42Z | JavaScript | [url](https://github.com/mapbox/guidance-sim) |
-| geojson-merge | Merge multiple GeoJSON files into one FeatureCollection. | 2016-05-12T01:27:30Z | JavaScript | [url](https://github.com/mapbox/geojson-merge) |
-| mbtiles-extracts | Extract parts of MBTiles into separate files using a GeoJSON with polygons. | 2016-05-12T07:16:02Z | JavaScript | [url](https://github.com/mapbox/mbtiles-extracts) |
-| which-polygon | Index for matching points against a set of GeoJSON polygons | 2016-05-12T07:46:16Z | JavaScript | [url](https://github.com/mapbox/which-polygon) |
-| vtile-encode-example-cpp | Sample C++ code using protozero to create a Mapbox Vector Tile | 2016-05-12T08:54:04Z | C++ | [url](https://github.com/mapbox/vtile-encode-example-cpp) |
-| serialtiles-spec | streaming tile transfer protocol | 2016-05-12T09:19:07Z | JavaScript | [url](https://github.com/mapbox/serialtiles-spec) |
-| simplestyle-spec | A simple styling convention for GeoJSON data | 2016-05-12T09:35:27Z | n/a | [url](https://github.com/mapbox/simplestyle-spec) |
-| osrm-matching-inspection | Tool to inspect matching generated by the road-network matching plugin in OSRM | 2016-05-12T09:55:38Z | JavaScript | [url](https://github.com/mapbox/osrm-matching-inspection) |
-| vt2geojson | Dump vector tiles to GeoJSON | 2016-05-12T15:52:35Z | JavaScript | [url](https://github.com/mapbox/vt2geojson) |
-| simplespec-to-gl-style | Converts GeoJSON styled with simplestyle-spec to a GL Style | 2016-05-12T15:59:08Z | JavaScript | [url](https://github.com/mapbox/simplespec-to-gl-style) |
-| supermercado | Supercharger for mercantile. H/T @sgillies for the name | 2016-05-12T16:00:26Z | Python | [url](https://github.com/mapbox/supermercado) |
-| tilelive-file | tilelive.js adapter for reading from the filesystem | 2016-05-12T16:00:45Z | JavaScript | [url](https://github.com/mapbox/tilelive-file) |
-| protozero | Minimalist protocol buffer decoder and encoder in C++ | 2016-05-13T03:28:01Z | C++ | [url](https://github.com/mapbox/protozero) |
-| mapnik-omnivore | Node module that returns metadata about spatial files. | 2016-05-13T09:03:56Z | JavaScript | [url](https://github.com/mapbox/mapnik-omnivore) |
-| osm-sidewalker | Detecting untagged sidewalks in OSM | 2016-05-13T09:48:24Z | JavaScript | [url](https://github.com/mapbox/osm-sidewalker) |
-| osrm-isochrone | Generate drivetime isochrones from OpenStreetMap data using OSRM | 2016-05-15T15:33:36Z | JavaScript | [url](https://github.com/mapbox/osrm-isochrone) |
-| MapBoxBench | DEPRECATED MapBox iOS SDK benchmarking tool | 2016-05-15T22:38:25Z | Objective-C | [url](https://github.com/mapbox/MapBoxBench) |
-| tilebelt | simple tile utilities | 2016-05-15T22:47:39Z | JavaScript | [url](https://github.com/mapbox/tilebelt) |
-| node-sphericalmercator | Spherical Mercator math in Javascript | 2016-05-16T02:32:28Z | JavaScript | [url](https://github.com/mapbox/node-sphericalmercator) |
-| mapbox-gl-directions | Directions plugin for mapbox-gl-js using Mapbox Directions API. | 2016-05-16T08:45:13Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-directions) |
-| rio-mbtiles | A plugin command for the Rasterio CLI that exports a raster dataset to an MBTiles 1.1 SQLite file | 2016-05-16T17:52:41Z | Python | [url](https://github.com/mapbox/rio-mbtiles) |
-| vt-pbf | Serialize Mapbox Vector Tiles to binary protobufs in javascript. | 2016-05-16T19:55:01Z | JavaScript | [url](https://github.com/mapbox/vt-pbf) |
-| mbtiles-spec | specification documents for the MBTiles tileset format | 2016-05-16T20:25:22Z | n/a | [url](https://github.com/mapbox/mbtiles-spec) |
-| x-files | Explore the X-Files :alien: an interactive map built with Mapbox GL JS | 2016-05-16T21:20:45Z | JavaScript | [url](https://github.com/mapbox/x-files) |
-| tilelive-mapnik | mapnik renderer backend for tilelive | 2016-05-17T09:13:50Z | JavaScript | [url](https://github.com/mapbox/tilelive-mapnik) |
-| patrol-rules-aws | n/a | 2016-05-17T11:54:17Z | JavaScript | [url](https://github.com/mapbox/patrol-rules-aws) |
-| wagyu | A general purpose geometry clipping library | 2016-05-17T15:09:07Z | C++ | [url](https://github.com/mapbox/wagyu) |
-| leaflet-image | leaflet maps to images | 2016-05-17T16:27:34Z | JavaScript | [url](https://github.com/mapbox/leaflet-image) |
-| tcx | Convert TCX files to GeoJSON in JavaScript. | 2016-05-17T17:33:46Z | JavaScript | [url](https://github.com/mapbox/tcx) |
-| patrol | A general purpose serverless monitoring framework for keeping all of an organization's code secure and correct. | 2016-05-17T17:35:48Z | JavaScript | [url](https://github.com/mapbox/patrol) |
-| node-mbtiles | mbtiles renderer and storage backend for tilelive | 2016-05-17T20:05:41Z | JavaScript | [url](https://github.com/mapbox/node-mbtiles) |
-| tile-decorator | Modify vector tiles in JavaScript and reencode back | 2016-05-17T22:09:13Z | JavaScript | [url](https://github.com/mapbox/tile-decorator) |
-| mdast-react-component | Render Markdown in React, in a component. | 2016-05-17T22:10:20Z | JavaScript | [url](https://github.com/mapbox/mdast-react-component) |
-| tilelive-decorator | Load vector tiles from a tilelive source and decorate them with properties from redis. | 2016-05-17T22:11:11Z | JavaScript | [url](https://github.com/mapbox/tilelive-decorator) |
-| js-number-to-string | Convert doubles and integers to strings using V8's code | 2016-05-17T22:55:04Z | C++ | [url](https://github.com/mapbox/js-number-to-string) |
-| node-s2 | bindings for s2 in node | 2016-05-18T07:56:27Z | C++ | [url](https://github.com/mapbox/node-s2) |
-| crosstool-configs | n/a | 2016-05-18T08:02:16Z | Shell | [url](https://github.com/mapbox/crosstool-configs) |
-| spritezero-cli | A command-line interface to spritezero. | 2016-05-18T08:54:44Z | JavaScript | [url](https://github.com/mapbox/spritezero-cli) |
-| mapbox-sdk-py | Python SDK for Mapbox APIs | 2016-05-18T13:34:49Z | Python | [url](https://github.com/mapbox/mapbox-sdk-py) |
-| cefclient | Custom cef client for tilemill windows | 2016-05-18T14:20:39Z | C++ | [url](https://github.com/mapbox/cefclient) |
-| password-rules | enforce rules on passwords | 2016-05-18T17:35:09Z | JavaScript | [url](https://github.com/mapbox/password-rules) |
-| mercantile | Spherical mercator tile and coordinate utilities | 2016-05-18T18:09:35Z | Python | [url](https://github.com/mapbox/mercantile) |
-| mapbox-gl-vintage-style | Vintage map style for Mapbox Studio (GL) | 2016-05-18T20:37:07Z | n/a | [url](https://github.com/mapbox/mapbox-gl-vintage-style) |
-| route-annotator | Gets metadata about a route | 2016-05-18T20:50:26Z | C++ | [url](https://github.com/mapbox/route-annotator) |
-| node-srs | I parse your exotic projection representations and try to figure out WTF they are + magic detection of spherical mercator and wgs84 variants | 2016-05-18T21:00:58Z | JavaScript | [url](https://github.com/mapbox/node-srs) |
-| polyline | polyline encoding and decoding in javascript | 2016-05-18T23:36:42Z | JavaScript | [url](https://github.com/mapbox/polyline) |
-| mapnik-pool | manage a pool of mapnik map instances | 2016-05-19T00:21:56Z | JavaScript | [url](https://github.com/mapbox/mapnik-pool) |
-| mapbox-studio-woodcut.tm2 | A woodcut inspired map for city streets. | 2016-05-19T00:31:18Z | CartoCSS | [url](https://github.com/mapbox/mapbox-studio-woodcut.tm2) |
-| geometry.hpp | C++ geometry types | 2016-05-19T02:01:23Z | C++ | [url](https://github.com/mapbox/geometry.hpp) |
-| tilelive-bridge | Implements the tilelive API for generating mapnik vector tiles from traditional mapnik datasources. | 2016-05-19T03:24:22Z | JavaScript | [url](https://github.com/mapbox/tilelive-bridge) |
-| leaflet-omnivore | universal format parser for Leaflet & Mapbox.js | 2016-05-19T05:26:50Z | JavaScript | [url](https://github.com/mapbox/leaflet-omnivore) |
-| osm-building-shapes | Tile Reduce processor to find area, perimeter and score to define shapes of buildings in OSM using OSM QA Tiles | 2016-05-19T12:22:36Z | JavaScript | [url](https://github.com/mapbox/osm-building-shapes) |
-| mapbox-earth | MapBox Earth | 2016-05-19T17:19:46Z | Objective-C | [url](https://github.com/mapbox/mapbox-earth) |
-| tilejson-spec | JSON format for describing map tilesets. | 2016-05-19T18:38:54Z | n/a | [url](https://github.com/mapbox/tilejson-spec) |
-| react-click-to-select | react component that enables click-to-select interaction | 2016-05-19T20:25:00Z | JavaScript | [url](https://github.com/mapbox/react-click-to-select) |
-| osm-coverage | Compute Road Coverage in OpenStreetMap | 2016-05-20T05:41:22Z | JavaScript | [url](https://github.com/mapbox/osm-coverage) |
-| concaveman | A very fast 2D concave hull algorithm in JavaScript | 2016-05-20T18:59:24Z | JavaScript | [url](https://github.com/mapbox/concaveman) |
-| tilelive | fast interface to tiles with pluggable backends | 2016-05-20T20:32:04Z | JavaScript | [url](https://github.com/mapbox/tilelive) |
-| streambot | Robot-assisted deploys to Lambda | 2016-05-21T15:50:55Z | JavaScript | [url](https://github.com/mapbox/streambot) |
-| react-geocoder | A geocoder component using Mapbox. | 2016-05-21T23:10:38Z | JavaScript | [url](https://github.com/mapbox/react-geocoder) |
-| MapboxStatic.swift | Swift/Objective-C library for Mapbox’s classic Static API | 2016-05-22T04:38:17Z | Swift | [url](https://github.com/mapbox/MapboxStatic.swift) |
-| MapboxGeocoder.swift | Swift/Objective-C library for Mapbox’s Geocoding API | 2016-05-22T07:08:18Z | Swift | [url](https://github.com/mapbox/MapboxGeocoder.swift) |
-| fontmachine | Make GL-ready pbfs and metadata for usage in fontstack API. | 2016-05-22T07:11:13Z | JavaScript | [url](https://github.com/mapbox/fontmachine) |
-| spritezero | small opinionated sprites | 2016-05-22T07:11:23Z | JavaScript | [url](https://github.com/mapbox/spritezero) |
-| node-fontnik | Fonts ⇢ protobuf-encoded SDF glyphs | 2016-05-22T07:11:37Z | C++ | [url](https://github.com/mapbox/node-fontnik) |
-| node-pre-gyp | Node.js tool for easy binary deployment of C++ addons | 2016-05-22T11:33:17Z | JavaScript | [url](https://github.com/mapbox/node-pre-gyp) |
-| dynamodb-replicator | module for dynamodb multi-region replication  | 2016-05-22T15:26:50Z | JavaScript | [url](https://github.com/mapbox/dynamodb-replicator) |
-| vector-tile-spec | Mapbox Vector Tile specification | 2016-05-22T15:28:27Z | Protocol Buffer | [url](https://github.com/mapbox/vector-tile-spec) |
-| make-surface | Vector surfaces creation routines | 2016-05-22T16:46:39Z | Python | [url](https://github.com/mapbox/make-surface) |
-| geojsonio-cli | a cli for geojson.io | 2016-05-23T10:02:56Z | JavaScript | [url](https://github.com/mapbox/geojsonio-cli) |
-| cz-mapbox-changelog | Commitizen plugin and commit log parsing tools to make generating changelogs | 2016-05-23T11:25:10Z | JavaScript | [url](https://github.com/mapbox/cz-mapbox-changelog) |
-| mapbox-data-team | npm module that can be required to easily obtain a list of OSM usernames, IDs and mappings between usernames and IDs for the Mapbox Data Team | 2016-05-23T12:39:14Z | JavaScript | [url](https://github.com/mapbox/mapbox-data-team) |
-| mapbox-gl-draw | Draw tools for mapbox-gl-js | 2016-05-23T12:43:42Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-draw) |
-| mapbox-studio-picture-book.tm2 | Picture book style for mapbox studio. | 2016-05-23T14:40:02Z | XML | [url](https://github.com/mapbox/mapbox-studio-picture-book.tm2) |
-| maki | POI Icon Set | 2016-05-23T16:01:13Z | JavaScript | [url](https://github.com/mapbox/maki) |
-| cardboard | tile indexed geo database interface. | 2016-05-23T18:31:41Z | JavaScript | [url](https://github.com/mapbox/cardboard) |
-| guidance-geojson | generate guidance-specific labelling/route geojson from Mapbox Directions | 2016-05-23T18:40:56Z | JavaScript | [url](https://github.com/mapbox/guidance-geojson) |
-| abaculus | Library for creating static maps from tiles based on center or corner lng,lat coordinates. Uses node-blend. | 2016-05-23T18:41:37Z | JavaScript | [url](https://github.com/mapbox/abaculus) |
-| MapboxDirections.swift | Mapbox Directions for Swift | 2016-05-23T20:52:44Z | Swift | [url](https://github.com/mapbox/MapboxDirections.swift) |
-| lambda-cfn | Quickly define Lambda functions and supporting resources via a javascript CloudFormation template. | 2016-05-24T00:33:41Z | JavaScript | [url](https://github.com/mapbox/lambda-cfn) |
-| ecs-watchbot | Make robots do your work for you | 2016-05-24T00:48:03Z | JavaScript | [url](https://github.com/mapbox/ecs-watchbot) |
-| geo-googledocs | Tools to integrate MapBox with Google Docs | 2016-05-24T02:11:46Z | JavaScript | [url](https://github.com/mapbox/geo-googledocs) |
-| remark-react | Compile Markdown to React with remark | 2016-05-24T02:13:19Z | JavaScript | [url](https://github.com/mapbox/remark-react) |
-| mapbox-gl-geocoder | Geocoder control for mapbox-gl-js using Mapbox Geocoding API | 2016-05-24T03:00:12Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-geocoder) |
-| windows-builds | build scripts for mapnik dependencies, mapnik, node-mapnik, node, libosmiom, osmium-tool | 2016-05-24T07:23:04Z | Batchfile | [url](https://github.com/mapbox/windows-builds) |
-| pixelmatch-cpp | C++ port of https://github.com/mapbox/pixelmatch | 2016-05-24T08:52:56Z | C++ | [url](https://github.com/mapbox/pixelmatch-cpp) |
-| earcut.hpp | Fast, header-only polygon triangulation | 2016-05-24T10:07:31Z | C | [url](https://github.com/mapbox/earcut.hpp) |
-| leaflet-knn | k-next-nearest-neighbor searches for Leaflet | 2016-05-24T13:51:13Z | JavaScript | [url](https://github.com/mapbox/leaflet-knn) |
-| tilelive-omnivore | Implements the tilelive api for a variety of data sources | 2016-05-24T13:52:35Z | JavaScript | [url](https://github.com/mapbox/tilelive-omnivore) |
-| rio-color | Color correction plugin for rasterio | 2016-05-24T15:13:19Z | Python | [url](https://github.com/mapbox/rio-color) |
-| osm-bright | A Carto template for OpenStreetMap data | 2016-05-24T17:00:21Z | CartoCSS | [url](https://github.com/mapbox/osm-bright) |
-| the-alchemist | A 24k  csv-to-pbf converter | 2016-05-24T21:15:14Z | C++ | [url](https://github.com/mapbox/the-alchemist) |
-| team-directory | A rolodex for teams | 2016-05-24T22:23:23Z | JavaScript | [url](https://github.com/mapbox/team-directory) |
-| mapbox-gl-shaders | GLSL shaders shared between mapbox-gl-js and mapbox-gl-native | 2016-05-24T23:44:52Z | GLSL | [url](https://github.com/mapbox/mapbox-gl-shaders) |
-| npm-internal | helps you package internal npm modules and upload them to your own s3 bucket. | 2016-05-25T04:15:04Z | JavaScript | [url](https://github.com/mapbox/npm-internal) |
-| whoots-js | Request tiles from WMS servers that support EPSG:3857  | 2016-05-25T04:20:41Z | JavaScript | [url](https://github.com/mapbox/whoots-js) |
-| auto-tools | n/a | 2016-05-25T04:48:16Z | Java | [url](https://github.com/mapbox/auto-tools) |
-| node-zipfile | Inspect and uncompress zipfile archives in Node.js | 2016-05-25T05:32:16Z | C++ | [url](https://github.com/mapbox/node-zipfile) |
-| tilelive-vector | Implements the tilelive API for rendering mapnik vector tiles to raster images. | 2016-05-25T06:21:00Z | JavaScript | [url](https://github.com/mapbox/tilelive-vector) |
-| geojson-vt-cpp | Port to C++ of JS GeoJSON-VT for slicing GeoJSON into vector tiles on the fly | 2016-05-25T10:36:38Z | C++ | [url](https://github.com/mapbox/geojson-vt-cpp) |
-| mapbox-android-demo | Demo App for Mapbox Android SDK on Google Play | 2016-05-25T11:10:25Z | Java | [url](https://github.com/mapbox/mapbox-android-demo) |
-| mapbox-gl-styles | Prebuilt Mapbox GL styles for use in Mapbox GL JS or the Mapbox Mobile SDKs and as a starting point for custom maps built with Mapbox Studio | 2016-05-25T11:44:16Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-styles) |
-| shp-write | create and write to shapefiles in pure javascript | 2016-05-25T14:08:54Z | JavaScript | [url](https://github.com/mapbox/shp-write) |
-| geojsonhint | validate geojson objects against the specification | 2016-05-25T14:12:21Z | JavaScript | [url](https://github.com/mapbox/geojsonhint) |
-| react-colorpickr | A colorpicker for React | 2016-05-25T15:01:30Z | JavaScript | [url](https://github.com/mapbox/react-colorpickr) |
-| guidance-replay | Event source for visual guidance simulation that turns timestamped GeoJSON into mock location events | 2016-05-25T16:41:31Z | JavaScript | [url](https://github.com/mapbox/guidance-replay) |
-| rio-hist | Histogram matching plugin for rasterio | 2016-05-25T16:44:08Z | Python | [url](https://github.com/mapbox/rio-hist) |
-| cncc | Customizable Naming Convention Checker - uses Clang, developed with C++ in mind | 2016-05-25T17:15:07Z | Python | [url](https://github.com/mapbox/cncc) |
-| vector-tile-js | Parses vector tiles with JavaScript | 2016-05-25T18:00:14Z | JavaScript | [url](https://github.com/mapbox/vector-tile-js) |
-| mapbox-java | Mapbox Java and Android Services. | 2016-05-25T20:44:53Z | Java | [url](https://github.com/mapbox/mapbox-java) |
-| mapnik-vector-tile | Mapnik implemention of Mapbox Vector Tile specification | 2016-05-25T21:33:06Z | C++ | [url](https://github.com/mapbox/mapnik-vector-tile) |
-| mapbox.js | Mapbox JavaScript API, a Leaflet Plugin | 2016-05-25T21:34:57Z | HTML | [url](https://github.com/mapbox/mapbox.js) |
-| retext-mapbox-standard | Enforce Mapbox rules about language. | 2016-05-25T21:34:58Z | JavaScript | [url](https://github.com/mapbox/retext-mapbox-standard) |
-| landspeed.js | WMS server using node-mapnik | 2016-05-26T02:19:44Z | JavaScript | [url](https://github.com/mapbox/landspeed.js) |
-| pixelmatch | The smallest, simplest and fastest JavaScript pixel-level image comparison library | 2016-05-26T03:40:44Z | JavaScript | [url](https://github.com/mapbox/pixelmatch) |
-| mapbox-gl-leaflet | binding from Mapbox GL JS to the Leaflet API | 2016-05-26T10:33:40Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-leaflet) |
-| awesome-vector-tiles | awesome implementations of the Mapbox Vector Tile specification | 2016-05-26T12:13:41Z | n/a | [url](https://github.com/mapbox/awesome-vector-tiles) |
-| geojson-rewind | enforce polygon ring winding order for geojson | 2016-05-26T14:43:33Z | JavaScript | [url](https://github.com/mapbox/geojson-rewind) |
-| leaflet-pip | point in polygon intersections for leaflet | 2016-05-26T15:11:49Z | JavaScript | [url](https://github.com/mapbox/leaflet-pip) |
-| mapbox-gl-js | Render Mapbox styles in the browser using JavaScript and WebGL | 2016-05-26T15:23:09Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-js) |
-| rasterio | Rasterio reads and writes geospatial raster datasets | 2016-05-26T15:46:51Z | Python | [url](https://github.com/mapbox/rasterio) |
-| navigation.js | Utility for monitoring a user location in relation to a route | 2016-05-26T16:16:24Z | JavaScript | [url](https://github.com/mapbox/navigation.js) |
-| mapbox-gl-style-spec | Mapbox GL map style specification | 2016-05-26T18:11:03Z | JavaScript | [url](https://github.com/mapbox/mapbox-gl-style-spec) |
-| geojson-vt | Slice GeoJSON into vector tiles on the fly in the browser | 2016-05-26T18:13:38Z | JavaScript | [url](https://github.com/mapbox/geojson-vt) |
-| ecs-conex | ECS Container Express | 2016-05-26T19:58:06Z | Shell | [url](https://github.com/mapbox/ecs-conex) |
-| mbview | View mbtiles locally | 2016-05-26T20:22:03Z | JavaScript | [url](https://github.com/mapbox/mbview) |
-| road-diff | A Tile Reduce script for vector tiles road network comparison. | 2016-05-26T21:21:30Z | JavaScript | [url](https://github.com/mapbox/road-diff) |
-| pbf | A low-level, lightweight protocol buffers implementation in JavaScript. | 2016-05-26T23:02:41Z | JavaScript | [url](https://github.com/mapbox/pbf) |
-| geojson.io | fast, simple map creation | 2016-05-26T23:46:22Z | JavaScript | [url](https://github.com/mapbox/geojson.io) |
-| geobuf | A compact binary encoding for geographic data. | 2016-05-27T01:27:13Z | JavaScript | [url](https://github.com/mapbox/geobuf) |
-| mapbox-tile-copy | From geodata files to tiles on S3 | 2016-05-27T01:47:22Z | JavaScript | [url](https://github.com/mapbox/mapbox-tile-copy) |
-| untiler | Stitch image tiles into larger composite TIFs | 2016-05-27T01:56:01Z | Python | [url](https://github.com/mapbox/untiler) |
-| vector-tile-encoding-interactive | n/a | 2016-05-27T02:00:59Z | JavaScript | [url](https://github.com/mapbox/vector-tile-encoding-interactive) |
-| utfgrid-spec | Specification for UTFGrid, a format for rasterized interaction data | 2016-05-27T02:47:02Z | n/a | [url](https://github.com/mapbox/utfgrid-spec) |
-| mapping | OpenStreetMap contribution work | 2016-05-27T06:00:19Z | JavaScript | [url](https://github.com/mapbox/mapping) |
-| tippecanoe | Build vector tilesets from large collections of GeoJSON features. | 2016-05-27T08:09:35Z | C++ | [url](https://github.com/mapbox/tippecanoe) |
-| mason | Cross platform package manager for C/C++ apps | 2016-05-27T08:40:16Z | Shell | [url](https://github.com/mapbox/mason) |
-| feature-filter | Creates filtering function for vector tile features | 2016-05-27T08:50:18Z | JavaScript | [url](https://github.com/mapbox/feature-filter) |
-| csv2geojson | magically convert csv files to geojson files | 2016-05-27T09:55:29Z | JavaScript | [url](https://github.com/mapbox/csv2geojson) |
-| tile-reduce | mapreduce vector tile processing | 2016-05-27T09:56:11Z | JavaScript | [url](https://github.com/mapbox/tile-reduce) |
-| compare-geojson | Functions that identify what changed during a feature edit on OpenStreetMap. | 2016-05-27T09:57:31Z | JavaScript | [url](https://github.com/mapbox/compare-geojson) |
-| supercluster | A crazy fast geospatial point clustering library for browsers and Node. | 2016-05-27T10:08:19Z | JavaScript | [url](https://github.com/mapbox/supercluster) |
-| pyskel | Skeleton of a Python package | 2016-05-27T11:45:51Z | Python | [url](https://github.com/mapbox/pyskel) |
-| tile-cover | generate the minimum number of tiles to cover a geojson geometry | 2016-05-27T13:32:48Z | JavaScript | [url](https://github.com/mapbox/tile-cover) |
-| rio-mucho | Parallel processing wrapper for rasterio | 2016-05-27T13:38:13Z | Python | [url](https://github.com/mapbox/rio-mucho) |
-| wellknown | GeoJSON-emitting WKT parser for browsers and node | 2016-05-27T15:20:11Z | JavaScript | [url](https://github.com/mapbox/wellknown) |
-| carto | fast CSS-like map stylesheets | 2016-05-27T15:24:49Z | JavaScript | [url](https://github.com/mapbox/carto) |
-| tile-reduce-diff | Tile Reduce processor to find deleted features by diffing previous and latest OSM QA tiles. | 2016-05-27T15:55:08Z | JavaScript | [url](https://github.com/mapbox/tile-reduce-diff) |
-| mbutil | Importer and Exporter of MBTiles | 2016-05-27T18:40:33Z | Python | [url](https://github.com/mapbox/mbutil) |
-| meta-mapbox | Mapbox Yocto Layer | 2016-05-27T21:40:39Z | BitBake | [url](https://github.com/mapbox/meta-mapbox) |
-| mapbox-sdk-js | A node.js and browser JavaScript client to Mapbox services | 2016-05-27T21:59:18Z | JavaScript | [url](https://github.com/mapbox/mapbox-sdk-js) |
-| togeojson | convert KML and GPX to GeoJSON, without the fuss | 2016-05-27T22:00:17Z | JavaScript | [url](https://github.com/mapbox/togeojson) |
-| mapbox-studio-classic | n/a | 2016-05-28T07:15:04Z | JavaScript | [url](https://github.com/mapbox/mapbox-studio-classic) |
-| docbox | REST API documentation generator | 2016-05-28T08:40:19Z | CSS | [url](https://github.com/mapbox/docbox) |
-| cheap-ruler | Fast approximations for common geographic measurements | 2016-05-28T10:52:40Z | JavaScript | [url](https://github.com/mapbox/cheap-ruler) |
-| mapbox-gl-native | Render Mapbox styles in mobile, desktop, and node applications using C++ and OpenGL | 2016-05-28T10:56:15Z | C++ | [url](https://github.com/mapbox/mapbox-gl-native) |
-| react-native-mapbox-gl | A Mapbox GL react native module for creating custom maps | 2016-05-28T13:22:16Z | Objective-C | [url](https://github.com/mapbox/react-native-mapbox-gl) |
-| postgis-vt-util | postgres helper functions for making vector tiles | 2016-05-28T14:11:45Z | PLpgSQL | [url](https://github.com/mapbox/postgis-vt-util) |
-| node-sqlite3 | Asynchronous, non-blocking SQLite3 bindings for Node.js | 2016-05-28T20:13:17Z | PLpgSQL | [url](https://github.com/mapbox/node-sqlite3) |
-| tilemill | A modern map design studio. | 2016-05-28T20:16:27Z | JavaScript | [url](https://github.com/mapbox/tilemill) |
-| Fingertips | Touch indicators on external displays for iOS applications. | 2016-05-28T21:59:21Z | Objective-C | [url](https://github.com/mapbox/Fingertips) |
-| earcut | The fastest and smallest JavaScript polygon triangulation library for your WebGL apps | 2016-05-28T23:24:49Z | JavaScript | [url](https://github.com/mapbox/earcut) |
+| Name | Description | Updated at | Language |
+| ---- | ----------- | ---------- | -------- |
+| [advancecomp](https://github.com/mapbox/advancecomp) | Fork of the AdvanceCOMP re-compression utilities | 2013-05-15 | C++ |
+| [nyc-evacuations](https://github.com/mapbox/nyc-evacuations) | tilemill project and associated files  | 2013-07-15 | n/a |
+| [qs-hash](https://github.com/mapbox/qs-hash) | encode and decode querystrings | 2013-10-03 | JavaScript |
+| [tilemill-autopilot](https://github.com/mapbox/tilemill-autopilot) | dev autopilot plugin for tilemill pluggable | 2013-10-04 | JavaScript |
+| [ec2mux](https://github.com/mapbox/ec2mux) | Light wrapper around swarm to allow connecting to multiple EC2s in tmux. | 2013-10-17 | Shell |
+| [osm-jalisco](https://github.com/mapbox/osm-jalisco) | Public geo data for Jalisco, ready for contribution to OSM, instructions in README. | 2013-11-18 | Python |
+| [hiera-s3](https://github.com/mapbox/hiera-s3) | S3 back end for Hiera | 2013-11-22 | Ruby |
+| [takeout](https://github.com/mapbox/takeout) | A simple geojson.io upload app | 2013-12-12 | Objective-C |
+| [carmen-qs-adm1](https://github.com/mapbox/carmen-qs-adm1) | quattroshapes admin1 data for use with carmen | 2013-12-20 | Shell |
+| [tilestream-pkg](https://github.com/mapbox/tilestream-pkg) | TileStream packages for Ubuntu/Debian | 2014-01-05 | Shell |
+| [2013-oklahoma-tornado](https://github.com/mapbox/2013-oklahoma-tornado) | n/a | 2014-01-29 | n/a |
+| [foss4g-benchmark-style](https://github.com/mapbox/foss4g-benchmark-style) | TileMill style for imposm imported OSM data for FOSS4G 2011 benchmark | 2014-01-29 | Python |
+| [geojsonio-extension](https://github.com/mapbox/geojsonio-extension) | chrome extension for editing github files in geojson.io | 2014-01-29 | JavaScript |
+| [js-yaml](https://github.com/mapbox/js-yaml) | JavaScript YAML parser and dumper. Very fast. | 2014-01-29 | JavaScript |
+| [notes](https://github.com/mapbox/notes) | A simple reader for text gists | 2014-01-29 | CSS |
+| [static-map-preview](https://github.com/mapbox/static-map-preview) | a simple static + canvas map preview | 2014-01-29 | JavaScript |
+| [demo](https://github.com/mapbox/demo) | lightweight demos | 2014-01-29 | JavaScript |
+| [tigeralignment](https://github.com/mapbox/tigeralignment) | OSM vs TIGER 12 comparison. Goal: show where OSM data needs better geographic alignment. | 2014-01-29 | JavaScript |
+| [jekyll](https://github.com/mapbox/jekyll) | Jekyll is a blog-aware, static site generator in Ruby | 2014-02-04 | Ruby |
+| [carmen-qs-adm0](https://github.com/mapbox/carmen-qs-adm0) | quattroshapes countries for carmen | 2014-02-07 | Shell |
+| [changewithin](https://github.com/mapbox/changewithin) | first you must change within | 2014-02-20 | Python |
+| [node-client-sessions](https://github.com/mapbox/node-client-sessions) | secure sessions stored in cookies | 2014-03-19 | JavaScript |
+| [tilemill-win-launcher](https://github.com/mapbox/tilemill-win-launcher) | Windows C++ exe designed to launch a TileMill node process | 2014-04-03 | Python |
+| [node-morton](https://github.com/mapbox/node-morton) | Calculates morton numbers for spatial indexing | 2014-05-01 | JavaScript |
+| [cfn-stack-alarm-stream](https://github.com/mapbox/cfn-stack-alarm-stream) | Stream of CloudWatch alarms that are associated with a CloudFormation stack | 2014-05-05 | JavaScript |
+| [connect-s3store](https://github.com/mapbox/connect-s3store) | n/a | 2014-05-12 | JavaScript |
+| [GeoIP](https://github.com/mapbox/GeoIP) | libgeoip binding for nodejs | 2014-05-15 | JavaScript |
+| [pre-gyp-versioning](https://github.com/mapbox/pre-gyp-versioning) | Versioning logic for node-pre-gyp packaged Node.js native modules | 2014-05-16 | JavaScript |
+| [codemirror-palettehints](https://github.com/mapbox/codemirror-palettehints) | Create color palette hints to your stylesheets in CodeMirror. | 2014-05-27 | JavaScript |
+| [log-reader](https://github.com/mapbox/log-reader) | simply read text-based log files in node and emit streams of data | 2014-06-10 | JavaScript |
+| [Sparkle](https://github.com/mapbox/Sparkle) | A software update framework for the Mac | 2014-06-28 | Objective-C |
+| [geojson2dsv](https://github.com/mapbox/geojson2dsv) | shuttle GeoJSON points into DSV encoding. | 2014-07-03 | JavaScript |
+| [weekend-picks-template](https://github.com/mapbox/weekend-picks-template) | A template for browsing layers of TileMill maps. Part of the Map Sites templates from MapBox. | 2014-07-07 | CSS |
+| [distiller](https://github.com/mapbox/distiller) | normalize and simplify geospatial formats | 2014-07-10 | JavaScript |
+| [opentype.js](https://github.com/mapbox/opentype.js) | A JavaScript parser for TrueType and OpenType fonts. | 2014-07-22 | n/a |
+| [mapbox-studio-default-source](https://github.com/mapbox/mapbox-studio-default-source) | Default source used by new source projects in Mapbox Studio. | 2014-08-04 | n/a |
+| [bbox-intersect](https://github.com/mapbox/bbox-intersect) | n/a | 2014-08-11 | n/a |
+| [foursquare-checkins](https://github.com/mapbox/foursquare-checkins) | n/a | 2014-08-15 | CSS |
+| [miniutf](https://github.com/mapbox/miniutf) | A C++ library for basic Unicode manipulation. | 2014-08-21 | n/a |
+| [geokit](https://github.com/mapbox/geokit) | Official Geokit Gem. Geokit gem provides geocoding and distance/heading calculations. Pair with the geokit-rails plugin for full-fledged location-based app functionality. | 2014-08-21 | Ruby |
+| [lab-interp](https://github.com/mapbox/lab-interp) | n/a | 2014-08-28 | JavaScript |
+| [static-map-string-format](https://github.com/mapbox/static-map-string-format) | parse and generate geojson from static map urls | 2014-09-08 | JavaScript |
+| [mapbox-studio-14th-street.tm2](https://github.com/mapbox/mapbox-studio-14th-street.tm2) | Custom Mapbox Studio map  | 2014-09-17 | n/a |
+| [leaflet-stats](https://github.com/mapbox/leaflet-stats) | Post-load stats tracking for Leaflet and MapBox.js maps. | 2014-09-18 | JavaScript |
+| [protocol-buffers](https://github.com/mapbox/protocol-buffers) | Protocol Buffers for Node.js | 2014-09-18 | n/a |
+| [cover-bench](https://github.com/mapbox/cover-bench) | benchmarks for geo covers | 2014-09-26 | JavaScript |
+| [setup-statsd](https://github.com/mapbox/setup-statsd) | bootstrap and run statsd as part of a cloudformation stack | 2014-09-26 | Shell |
+| [frameup](https://github.com/mapbox/frameup) | n/a | 2014-10-09 | n/a |
+| [homebrew-custom](https://github.com/mapbox/homebrew-custom) | Custom Homebrew recipes | 2014-10-10 | Ruby |
+| [node-webworker-threads](https://github.com/mapbox/node-webworker-threads) | Lightweight Web Worker API implementation with native threads | 2014-10-17 | C++ |
+| [couchdb2s3](https://github.com/mapbox/couchdb2s3) | Export CouchDB databases to line oriented json files on s3 | 2014-10-20 | JavaScript |
+| [travis-coredump](https://github.com/mapbox/travis-coredump) | Sample repo showing how to enable and view C/C++ crash backtraces on travis | 2014-10-23 | Shell |
+| [cfn-ci](https://github.com/mapbox/cfn-ci) | CF template for an EC2 that reports back to GitHub statuses API | 2014-10-28 | n/a |
+| [libuv](https://github.com/mapbox/libuv) | Cross-platform asynchronous I/O | 2014-11-03 | n/a |
+| [node](https://github.com/mapbox/node) | evented I/O for v8 javascript | 2014-11-03 | n/a |
+| [mapbox-gl-filter-simplify](https://github.com/mapbox/mapbox-gl-filter-simplify) | Simplifies and complexifies filters in Mapbox GL Styles to make them easier to work with in code. | 2014-11-05 | JavaScript |
+| [pagerduty-incidents](https://github.com/mapbox/pagerduty-incidents) | Readable stream of PagerDuty incidents | 2014-11-07 | JavaScript |
+| [osb14](https://github.com/mapbox/osb14) | Exercises for Open Source Bridge '14 OpenStreetMap workshop | 2014-11-07 | n/a |
+| [windowsign](https://github.com/mapbox/windowsign) | Sign a windows binary on linux | 2014-11-10 | Shell |
+| [node-gyp](https://github.com/mapbox/node-gyp) | Node.js native addon build tool | 2014-11-11 | n/a |
+| [nano](https://github.com/mapbox/nano) | Nano is a minimalistic client for CouchDB | 2014-11-20 | JavaScript |
+| [s3head](https://github.com/mapbox/s3head) | HEAD an S3 object to stdout | 2014-11-21 | JavaScript |
+| [gist-map-browser](https://github.com/mapbox/gist-map-browser) | another humble part of geojson.io | 2014-12-17 | JavaScript |
+| [mapbox-studio-space-station.tm2](https://github.com/mapbox/mapbox-studio-space-station.tm2) | Space Station style for Mapbox Studio | 2015-01-05 | n/a |
+| [show-me-the-way](https://github.com/mapbox/show-me-the-way) | See OSM edits happen in real time. | 2015-01-09 | JavaScript |
+| [millstone](https://github.com/mapbox/millstone) | middleware for map styles and datasources | 2015-01-14 | JavaScript |
+| [bundle-node-app](https://github.com/mapbox/bundle-node-app) | Bundle up a node app for npm-free install | 2015-01-15 | Shell |
+| [vtfx](https://github.com/mapbox/vtfx) | sketch of vt processors (vtfx) | 2015-01-22 | JavaScript |
+| [safer-stringify](https://github.com/mapbox/safer-stringify) | A stringify template helper for outputting JSON with escaped forward slashes and line terminators. | 2015-01-22 | JavaScript |
+| [geojson-segment](https://github.com/mapbox/geojson-segment) | n/a | 2015-01-24 | JavaScript |
+| [tilelive-noop](https://github.com/mapbox/tilelive-noop) | no-op tilelive source | 2015-01-30 | n/a |
+| [serial-zilla](https://github.com/mapbox/serial-zilla) | eat geojson get serialtiles. pairs nicely with https://github.com/mapbox/trizilla | 2015-02-11 | n/a |
+| [nodejs-kinesis-client-library](https://github.com/mapbox/nodejs-kinesis-client-library) | Node.js implementation of Amazon's Kinesis Client Library. | 2015-02-18 | JavaScript |
+| [OkGL](https://github.com/mapbox/OkGL) | Proof Of Concept Build Out For Android GL FileSource Networking Tech Stack | 2015-02-19 | Java |
+| [jsonlint-check](https://github.com/mapbox/jsonlint-check) | Check JSON for linted-ness. | 2015-02-23 | JavaScript |
+| [s3urls](https://github.com/mapbox/s3urls) | From bucket/key to URL and the other way around | 2015-02-24 | JavaScript |
+| [mapbox-studio-satellite-afternoon.tm2](https://github.com/mapbox/mapbox-studio-satellite-afternoon.tm2) | n/a | 2015-02-24 | CartoCSS |
+| [MBDesignView](https://github.com/mapbox/MBDesignView) | MBDesignView | 2015-02-25 | Objective-C |
+| [mapbox-studio-default-style](https://github.com/mapbox/mapbox-studio-default-style) | Default style used by new style projects in Mapbox Studio. | 2015-02-25 | CartoCSS |
+| [gridmonger](https://github.com/mapbox/gridmonger) | Convert UTF8 grids to geojson | 2015-02-26 | JavaScript |
+| [mapbox-surface.js](https://github.com/mapbox/mapbox-surface.js) | mapbox.js plugin for the Mapbox Surface API | 2015-02-27 | JavaScript |
+| [webhook-demux](https://github.com/mapbox/webhook-demux) | Routes a single webhook endpoint to multiple webhook endpoints depending on content of the JSON request body. | 2015-03-01 | JavaScript |
+| [mapbox-events](https://github.com/mapbox/mapbox-events) | Send events from the browser to the Mapbox events API. | 2015-03-03 | JavaScript |
+| [bboxify-labels](https://github.com/mapbox/bboxify-labels) | Represent labels on a polyline with bounding boxes | 2015-03-05 | JavaScript |
+| [tornado-analysis](https://github.com/mapbox/tornado-analysis) | tornado analysis template | 2015-03-05 | JavaScript |
+| [henry](https://github.com/mapbox/henry) | Agent for updating temporary credentials using AWS Security Token Service. | 2015-03-09 | JavaScript |
+| [mapbox-studio-light.tm2](https://github.com/mapbox/mapbox-studio-light.tm2) | Mapbox Studio style designed to work with data overlays | 2015-03-09 | CartoCSS |
+| [cloudwatch-agent](https://github.com/mapbox/cloudwatch-agent) | A simple daemon which submits AWS CloudWatch metrics | 2015-03-13 | JavaScript |
+| [trizilla](https://github.com/mapbox/trizilla) | Consumes data values from a latticegrid, then aggregates and inflates triangular geometries. | 2015-03-14 | JavaScript |
+| [commonsec](https://github.com/mapbox/commonsec) | Batten down hatches on default Ubuntu SSH and firewall configuration | 2015-03-17 | Shell |
+| [mapbox-events-ios](https://github.com/mapbox/mapbox-events-ios) | Send events from iOS / OS X  to the Mapbox events API. | 2015-03-20 | Objective-C |
+| [AndroidGLMap](https://github.com/mapbox/AndroidGLMap) | Android Studio GL NDK Gradle experiments | 2015-04-06 | Java |
+| [retire.js](https://github.com/mapbox/retire.js) | scanner detecting the use of JavaScript libraries with known vulnerabilities | 2015-04-08 | Groff |
+| [mapbox-studio-streets-basic.tm2](https://github.com/mapbox/mapbox-studio-streets-basic.tm2) | n/a | 2015-04-13 | CartoCSS |
+| [s3print](https://github.com/mapbox/s3print) | Print the content of a file on S3 to stdout | 2015-04-14 | JavaScript |
+| [canvas-colorchart](https://github.com/mapbox/canvas-colorchart) | n/a | 2015-04-15 | JavaScript |
+| [canvas-linearlinechart](https://github.com/mapbox/canvas-linearlinechart) | n/a | 2015-04-15 | JavaScript |
+| [luabind](https://github.com/mapbox/luabind) | Create Lua bindings for your C++ code easily - my improvements | 2015-04-16 | C++ |
+| [update-amis](https://github.com/mapbox/update-amis) | Find updated image ids for ubuntu AMIs | 2015-04-20 | JavaScript |
+| [A-binary-parser-generator](https://github.com/mapbox/A-binary-parser-generator) | This project aims to create a tool that can turn a spec file into a parser skeleton for binary data files such as OpenType fonts, PNG images, etc. | 2015-05-06 | JavaScript |
+| [makestore](https://github.com/mapbox/makestore) | A Flux store helper | 2015-05-08 | JavaScript |
+| [nyc-sandy](https://github.com/mapbox/nyc-sandy) | Mirror for http://gis.nyc.gov/oem/he/map.htm | 2015-05-18 | JavaScript |
+| [extent](https://github.com/mapbox/extent) | geographical extent | 2015-05-27 | JavaScript |
+| [travis-ios-test](https://github.com/mapbox/travis-ios-test) | n/a | 2015-05-29 | Objective-C |
+| [SwiftyJSON](https://github.com/mapbox/SwiftyJSON) | The better way to deal with JSON data in Swift | 2015-06-13 | Swift |
+| [cloudwatch-librato](https://github.com/mapbox/cloudwatch-librato) | Fetch AWS CloudWatch metrics and submit to Librato Metrics | 2015-06-18 | JavaScript |
+| [headless-gl](https://github.com/mapbox/headless-gl) | Creates WebGL contexts without making windows | 2015-06-24 | HTML |
+| [homebrew](https://github.com/mapbox/homebrew) | :beer: The missing package manager for OS X. | 2015-06-28 | Ruby |
+| [satqa](https://github.com/mapbox/satqa) | n/a | 2015-06-30 | n/a |
+| [fuzzy](https://github.com/mapbox/fuzzy) | Filters a list based on a fuzzy string search | 2015-07-05 | HTML |
+| [ami-bundle](https://github.com/mapbox/ami-bundle) | Wrapper script to bundle an instance-backed Amazon Machine Image | 2015-07-07 | Shell |
+| [tile-stat-backfill](https://github.com/mapbox/tile-stat-backfill) | n/a | 2015-07-16 | JavaScript |
+| [graphite-statsd-cf](https://github.com/mapbox/graphite-statsd-cf) | n/a | 2015-07-16 | n/a |
+| [mock-aws-s3](https://github.com/mapbox/mock-aws-s3) | Library to mock the AWS SDK for Node.js | 2015-07-20 | JavaScript |
+| [gazetteer](https://github.com/mapbox/gazetteer) | Place bookmarks for styling maps | 2015-07-21 | JavaScript |
+| [super-mario-world.tm2](https://github.com/mapbox/super-mario-world.tm2) | an mario-inspired Mapbox Studio map | 2015-07-25 | CartoCSS |
+| [OfflineCalc](https://github.com/mapbox/OfflineCalc) | Small utility app to calculate the tile counts needed to go offline. | 2015-07-29 | Objective-C |
+| [rio-interpolate](https://github.com/mapbox/rio-interpolate) | Interpolate raster values from GeoJSON geometry | 2015-07-30 | Python |
+| [dynamodb-down](https://github.com/mapbox/dynamodb-down) | an abstract-leveldown backend in dynamodb | 2015-07-30 | JavaScript |
+| [react-tangle-compat](https://github.com/mapbox/react-tangle-compat) | A compatibility layer for tangletext on numeric inputs | 2015-07-31 | JavaScript |
+| [unitbezier](https://github.com/mapbox/unitbezier) | Unit bezier interpolation | 2015-07-31 | JavaScript |
+| [segmentio-insert](https://github.com/mapbox/segmentio-insert) | insert segment.io tracking code on a page | 2015-08-03 | JavaScript |
+| [osm-place-ranks](https://github.com/mapbox/osm-place-ranks) | n/a | 2015-08-11 | Python |
+| [google-client-wrapper](https://github.com/mapbox/google-client-wrapper) | High level wrapper around Google Client API | 2015-08-11 | JavaScript |
+| [sqscmd](https://github.com/mapbox/sqscmd) | Helper for using SQS simply in bash scripting. | 2015-08-19 | JavaScript |
+| [download-osm-data](https://github.com/mapbox/download-osm-data) | GUI for downloading OSM data | 2015-08-26 | n/a |
+| [tile-blobber](https://github.com/mapbox/tile-blobber) | Transform a list of tile coordinates into covering polygons | 2015-08-27 | JavaScript |
+| [mapbox-studio-pirates.tm2](https://github.com/mapbox/mapbox-studio-pirates.tm2) | Mapbox Studio default style. | 2015-09-02 | CartoCSS |
+| [ec2ppuku](https://github.com/mapbox/ec2ppuku) | Upstart service to self-destruct EC2s when disks fill up | 2015-09-03 | Shell |
+| [dynamodb-throughput](https://github.com/mapbox/dynamodb-throughput) | Set and reset provisioned DynamoDB throughput | 2015-09-03 | JavaScript |
+| [osm-query](https://github.com/mapbox/osm-query) | Planets, stars, nodes and ways | 2015-09-09 | JavaScript |
+| [mapbox-studio-looseleaf.tm2](https://github.com/mapbox/mapbox-studio-looseleaf.tm2) | Looseleaf style for Mapbox Studio | 2015-09-16 | JavaScript |
+| [get-control-points](https://github.com/mapbox/get-control-points) | Barebones method for deriving control points given start, end, and base. | 2015-09-23 | JavaScript |
+| [s3mpu-cleanup](https://github.com/mapbox/s3mpu-cleanup) | Cleanup stale multipart uploads from an S3 bucket | 2015-09-24 | JavaScript |
+| [detect-json-indent](https://github.com/mapbox/detect-json-indent) | detect json indent levels | 2015-10-02 | JavaScript |
+| [mapbox-studio-mars-satellite.tm2](https://github.com/mapbox/mapbox-studio-mars-satellite.tm2) | Mars Satellite + labels | 2015-10-09 | CartoCSS |
+| [fischer-color](https://github.com/mapbox/fischer-color) | a javascript implementation of eric fischer's perceptually-friendly color system | 2015-10-12 | JavaScript |
+| [MacMapKit](https://github.com/mapbox/MacMapKit) | MapKit Framework for the Mac | 2015-10-13 | Objective-C |
+| [mapbox-studio-mars-terrain.tm2](https://github.com/mapbox/mapbox-studio-mars-terrain.tm2) | Vector terrain style or Mars | 2015-10-14 | CartoCSS |
+| [github-file-browser](https://github.com/mapbox/github-file-browser) | browse through github geojson files in repositories and gist | 2015-10-16 | JavaScript |
+| [osrm-frontend-v2](https://github.com/mapbox/osrm-frontend-v2) | Modular rewrite of the OSRM frontend using LRM | 2015-10-16 | JavaScript |
+| [elasticache-auto-discovery](https://github.com/mapbox/elasticache-auto-discovery) | Elasticache Auto Discovery Client | 2015-10-17 | JavaScript |
+| [satellite-change-detect](https://github.com/mapbox/satellite-change-detect) | n/a | 2015-10-22 | Python |
+| [slippy-colors](https://github.com/mapbox/slippy-colors) | A D3 color picker component. It's a color picker...and a slippy map. | 2015-10-23 | JavaScript |
+| [travel-to-calendar](https://github.com/mapbox/travel-to-calendar) | A Chrome extension that adds travel tickets to Google Calendar from GitHub. | 2015-10-26 | JavaScript |
+| [mapbox-studio-high-contrast.tm2](https://github.com/mapbox/mapbox-studio-high-contrast.tm2) | High Contrast map style for Mapbox Studio Classic | 2015-10-26 | CartoCSS |
+| [compare](https://github.com/mapbox/compare) | Compare OSM to Google maps | 2015-10-28 | JavaScript |
+| [fs-sharded-cache](https://github.com/mapbox/fs-sharded-cache) | Generic fs-aware sharded cache | 2015-10-29 | JavaScript |
+| [rio-random](https://github.com/mapbox/rio-random) | generate random rasters | 2015-10-30 | n/a |
+| [station-finder-ios](https://github.com/mapbox/station-finder-ios) | DC Metro station finder iOS SDK example | 2015-11-01 | Objective-C |
+| [MapDBImporter](https://github.com/mapbox/MapDBImporter) | A tool to import a folder of MapBox tiles into a single SQLite file. | 2015-11-01 | Objective-C |
+| [tilemill-reference-layer](https://github.com/mapbox/tilemill-reference-layer) | TileMill Plugin that allows adding a tiled layer from tiles.mapbox.com | 2015-11-06 | JavaScript |
+| [mapbox-studio-comic.tm2](https://github.com/mapbox/mapbox-studio-comic.tm2) | n/a | 2015-11-06 | CartoCSS |
+| [simple-linear-scale](https://github.com/mapbox/simple-linear-scale) | Bare-bones equivalent for the functionality of d3.scale.linear | 2015-11-07 | JavaScript |
+| [geojson-coordinate-properties](https://github.com/mapbox/geojson-coordinate-properties) | a draft extension to GeoJSON defining the encoding of arbitrary properties along LineString geometries | 2015-11-07 | n/a |
+| [mapbox-data-cli](https://github.com/mapbox/mapbox-data-cli) | CLI utilties for Mapbox Data API | 2015-11-07 | JavaScript |
+| [font-scope](https://github.com/mapbox/font-scope) | Reformats node-fontnik's font-inspect output to be human-readable and summarized. | 2015-11-07 | JavaScript |
+| [color-ops](https://github.com/mapbox/color-ops) | Color operations. Extracted from less.js, via CartoCSS. | 2015-11-07 | JavaScript |
+| [swot-simple](https://github.com/mapbox/swot-simple) | identify education email addresses worldwide: a simple, fast implementation of Swot in JavaScript | 2015-11-07 | JavaScript |
+| [basic-queue](https://github.com/mapbox/basic-queue) | a basic queue with concurrency | 2015-11-11 | JavaScript |
+| [s3hatchet](https://github.com/mapbox/s3hatchet) | Split + summarize big s3 ls logs | 2015-11-16 | Python |
+| [mapbox-studio-wheatpaste.tm2](https://github.com/mapbox/mapbox-studio-wheatpaste.tm2) | Wheatpaste style for Mapbox Studio | 2015-11-23 | CartoCSS |
+| [mdast-cross-reference](https://github.com/mapbox/mdast-cross-reference) | cross-referencing system in markdown | 2015-11-29 | JavaScript |
+| [detect-geocsv](https://github.com/mapbox/detect-geocsv) | Detect if a buffer has geocsv headers | 2015-12-04 | JavaScript |
+| [JOSM-configuration](https://github.com/mapbox/JOSM-configuration) | A JOSM plugin which loads task components | 2015-12-09 | Java |
+| [tilelive-cardboard](https://github.com/mapbox/tilelive-cardboard) | Renders vector tiles from a cardboard dataset | 2015-12-13 | JavaScript |
+| [MapboxTableViewDemo](https://github.com/mapbox/MapboxTableViewDemo) | Reference implementation of reuse of UITableViewCell objects containing Mapbox GL-based Mapbox iOS SDK maps. | 2015-12-15 | Swift |
+| [rio-block-features](https://github.com/mapbox/rio-block-features) | geojson features from raster's internal tile blocks | 2015-12-15 | Python |
+| [node-eio](https://github.com/mapbox/node-eio) | Control libeio from JavaScript | 2015-12-20 | C++ |
+| [elastisnap](https://github.com/mapbox/elastisnap) | Amazon Elastic Block Store (EBS) rotating snapshots in node.js | 2015-12-23 | JavaScript |
+| [tile-reduce-vandalism](https://github.com/mapbox/tile-reduce-vandalism) | n/a | 2015-12-26 | JavaScript |
+| [tile-generator](https://github.com/mapbox/tile-generator) | Generate a stream of tiles in a bbox | 2015-12-26 | JavaScript |
+| [diversify](https://github.com/mapbox/diversify) | Script for quickly creating varying sizes of app icons for iOS project asset catalogs. | 2015-12-29 | Shell |
+| [pre-gyp-find](https://github.com/mapbox/pre-gyp-find) | Helper module for loading a node-pre-gyp packaged Node.js native module | 2016-01-03 | JavaScript |
+| [osm-mend](https://github.com/mapbox/osm-mend) | Mend referential integrity in OpenStreetMap data files | 2016-01-04 | JavaScript |
+| [mbtiler](https://github.com/mapbox/mbtiler) | C++ MBTile example | 2016-01-09 | C++ |
+| [owlviewer](https://github.com/mapbox/owlviewer) | A changeset browser for https://github.com/ppawel/openstreetmap-watch-list | 2016-01-09 | JavaScript |
+| [tilemill-browser-preview](https://github.com/mapbox/tilemill-browser-preview) | A tiny plugin that adds a button to open the map in your default browser. | 2016-01-09 | n/a |
+| [tilemill-lots](https://github.com/mapbox/tilemill-lots) | Dev lots plugin for use with pluggable tilemill branch | 2016-01-09 | JavaScript |
+| [tilemill-builder-osx](https://github.com/mapbox/tilemill-builder-osx) | Build script for portable, complete Mac version of TileMill | 2016-01-09 | Shell |
+| [directions-instructions](https://github.com/mapbox/directions-instructions) | translate and transform driving directions between languages | 2016-01-09 | JavaScript |
+| [execcommand-copy](https://github.com/mapbox/execcommand-copy) | Copy text to a user's clipboard using the modern execCommand interface | 2016-01-09 | JavaScript |
+| [point-geometry](https://github.com/mapbox/point-geometry) | A standalone point geometry primitive. | 2016-01-11 | JavaScript |
+| [osm-comments-parser](https://github.com/mapbox/osm-comments-parser) | Parsers to read Notes and Changeset XML files and save them in a Postgres DB | 2016-01-11 | JavaScript |
+| [aws-sdk-js](https://github.com/mapbox/aws-sdk-js) | AWS SDK for JavaScript in the browser and Node.js | 2016-01-11 | JavaScript |
+| [mapbox.js-bower](https://github.com/mapbox/mapbox.js-bower) | bower releases of mapbox.js | 2016-01-12 | JavaScript |
+| [assert-http](https://github.com/mapbox/assert-http) | Test helpers for testing a HTTP interface | 2016-01-13 | JavaScript |
+| [osm-meta-util](https://github.com/mapbox/osm-meta-util) | Utility for downloading and processing OSM metadata | 2016-01-13 | JavaScript |
+| [node-happytiff](https://github.com/mapbox/node-happytiff) | Util to detect/verify happytiffs | 2016-01-13 | JavaScript |
+| [mapbox-gl-test-suite](https://github.com/mapbox/mapbox-gl-test-suite) | Rendering tests for Mapbox GL | 2016-01-14 | JavaScript |
+| [mapbox-upload-validate](https://github.com/mapbox/mapbox-upload-validate) | Validate that files can be uploaded to mapbox.com | 2016-01-14 | JavaScript |
+| [carmen-cache](https://github.com/mapbox/carmen-cache) | C++ protobuf cache used by carmen | 2016-01-14 | C++ |
+| [mapbox-gl-plugins](https://github.com/mapbox/mapbox-gl-plugins) | Hosted plugins for mapbox-gl-js | 2016-01-15 | CSS |
+| [dynamodb-touch](https://github.com/mapbox/dynamodb-touch) | Mock change events from a DynamoDB table | 2016-01-15 | JavaScript |
+| [shapefile-fairy](https://github.com/mapbox/shapefile-fairy) | I put a zipfile under my pillow and the fairy brought me shapefiles | 2016-01-15 | JavaScript |
+| [foursquare-store-locator](https://github.com/mapbox/foursquare-store-locator) | DEPRECATED: A template for building a store locator with the foursquare API. Part of the Map Sites templates from MapBox. See https://www.mapbox.com/guides/building-a-store-locator/ | 2016-01-16 | JavaScript |
+| [gyp](https://github.com/mapbox/gyp) | Daily synced github mirror of gyp svn repository at http://gyp.googlecode.com/svn/trunk/. | 2016-01-18 | Python |
+| [geojson-cover](https://github.com/mapbox/geojson-cover) | generates an s2 cover from geojson | 2016-01-18 | JavaScript |
+| [polyclip](https://github.com/mapbox/polyclip) | Martinez polygon boolean operations (a work in progress) | 2016-01-18 | HTML |
+| [mapbox-studio-outdoors.tm2](https://github.com/mapbox/mapbox-studio-outdoors.tm2) | Mapbox Studio style designed for outdoor adventures | 2016-01-19 | CartoCSS |
+| [cpp-bootstrap](https://github.com/mapbox/cpp-bootstrap) | Bare-bones C++14 & CMake 3 template | 2016-01-19 | CMake |
+| [osm-comments](https://github.com/mapbox/osm-comments) | Frontend application to query osm-comments-api | 2016-01-20 | JavaScript |
+| [gender-map](https://github.com/mapbox/gender-map) | Open repository to try and retrieve gender from street names. | 2016-01-21 | JavaScript |
+| [s3scan](https://github.com/mapbox/s3scan) | S3 can! | 2016-01-21 | JavaScript |
+| [raster-tile-query](https://github.com/mapbox/raster-tile-query) | raster-tile-query allows you to query raster tiles and return pixel values at specific lng, lats | 2016-01-21 | JavaScript |
+| [mapbox.js-plugins](https://github.com/mapbox/mapbox.js-plugins) | Hosted plugins for Leaflet & Mapbox.js | 2016-01-22 | JavaScript |
+| [node-wmtiff](https://github.com/mapbox/node-wmtiff) | Utilililility to reproject tiff images to web mercator | 2016-01-23 | JavaScript |
+| [node-bytetiff](https://github.com/mapbox/node-bytetiff) | Utilility to scale 16 bit tiffs to 8 bits | 2016-01-23 | JavaScript |
+| [thumbnail-stream](https://github.com/mapbox/thumbnail-stream) | generate thumbnails from a stream of png buffers | 2016-01-23 | JavaScript |
+| [dynamodb-migrator](https://github.com/mapbox/dynamodb-migrator) | For migration and cleanup operations on your DynamoDB table | 2016-01-23 | JavaScript |
+| [sample-apps-ios-swift](https://github.com/mapbox/sample-apps-ios-swift) | Bitrise iOS Sample App | 2016-01-23 | Swift |
+| [canvas-dial](https://github.com/mapbox/canvas-dial) | a canvas dial | 2016-01-24 | JavaScript |
+| [mapbox-upload-limits](https://github.com/mapbox/mapbox-upload-limits) | Constant values of the limits of Mapbox upload services. | 2016-01-25 | JavaScript |
+| [react-submittable](https://github.com/mapbox/react-submittable) | Stop using preventDefault to get form behavior in React. | 2016-01-25 | JavaScript |
+| [osm-comments-api](https://github.com/mapbox/osm-comments-api) | Expose a RESTful API for OSM Notes and Changeset Comments | 2016-01-26 | JavaScript |
+| [gdal-polygonize-test](https://github.com/mapbox/gdal-polygonize-test) | test case for speeding up gdal_polygonize.py | 2016-01-26 | Shell |
+| [mapnik-test-data](https://github.com/mapbox/mapnik-test-data) | Data available for testing Mapnik sources | 2016-01-28 | HTML |
+| [geojson-stream](https://github.com/mapbox/geojson-stream) | Stream features into and out of GeoJSON objects and Feature Collections. | 2016-01-28 | JavaScript |
+| [node-get](https://github.com/mapbox/node-get) | DEPRECATED: use request instead | 2016-01-29 | JavaScript |
+| [preprocessorcerer](https://github.com/mapbox/preprocessorcerer) | Perform preprocessorcery and pick parts on particularly persnickity uploads | 2016-01-30 | JavaScript |
+| [intro-to-mapbox](https://github.com/mapbox/intro-to-mapbox) | n/a | 2016-02-01 | HTML |
+| [install-node](https://github.com/mapbox/install-node) | Bash script to install a version/platform of Node.js | 2016-02-02 | Shell |
+| [ec2mnt](https://github.com/mapbox/ec2mnt) | Combine + mount EC2 instance store volumes | 2016-02-03 | Shell |
+| [node-mapnik-bench](https://github.com/mapbox/node-mapnik-bench) | Testcases for exploring multithreaded tile rendering performance across mapnik versions | 2016-02-04 | JavaScript |
+| [tmpfs-mmap-zero-copy](https://github.com/mapbox/tmpfs-mmap-zero-copy) | testing tmpfs+mmap with various flags and hints for zero copy access | 2016-02-04 | C++ |
+| [ambient-light](https://github.com/mapbox/ambient-light) | Ambient light map styling for Mapbox GL for iOS | 2016-02-07 | Objective-C |
+| [tilelive-multicache](https://github.com/mapbox/tilelive-multicache) | n/a | 2016-02-08 | JavaScript |
+| [geojson-quirks](https://github.com/mapbox/geojson-quirks) | Tweak your data to interoperate with quirky GeoJSON readers | 2016-02-08 | Python |
+| [aws-cfn-signalresource](https://github.com/mapbox/aws-cfn-signalresource) | wraps `aws cloudformation signal-resource` to handle errors & retries | 2016-02-09 | Shell |
+| [node-locking](https://github.com/mapbox/node-locking) | Read I/O locking using LRU cache | 2016-02-09 | JavaScript |
+| [superenv](https://github.com/mapbox/superenv) | pull configuration variables from JSON and ini configuration files and environment variables | 2016-02-09 | JavaScript |
+| [geojson-normalize](https://github.com/mapbox/geojson-normalize) | Normalize any GeoJSON object into a GeoJSON FeatureCollection. | 2016-02-09 | JavaScript |
+| [mapbox-error](https://github.com/mapbox/mapbox-error) | generic error routes for mapbox express apps | 2016-02-09 | JavaScript |
+| [vector-tile-py](https://github.com/mapbox/vector-tile-py) | Parses vector tiles with Python | 2016-02-14 | Python |
+| [model-un](https://github.com/mapbox/model-un) | A library that provides IETF language tags with English names, and official/common languages/language codes for countries and sovereign states. | 2016-02-15 | JavaScript |
+| [osmcha](https://github.com/mapbox/osmcha) | Python package to detect suspicious OSM changesets | 2016-02-16 | Python |
+| [SMCalloutView](https://github.com/mapbox/SMCalloutView) | A lightweight callout view class for iOS mimicking UICalloutView. | 2016-02-17 | Objective-C |
+| [magic-tape](https://github.com/mapbox/magic-tape) | tape plus some goodies | 2016-02-19 | JavaScript |
+| [mapbox-grid-copy](https://github.com/mapbox/mapbox-grid-copy) | Copy UTFGrids from mbtiles files to S3 | 2016-02-19 | JavaScript |
+| [colonel-mercator](https://github.com/mapbox/colonel-mercator) | Generate raster pixel resolutions that are snapped to mercator tile resolutions | 2016-02-21 | JavaScript |
+| [tilelive-s3](https://github.com/mapbox/tilelive-s3) | Extends TileJSON for S3-specific tasks | 2016-02-22 | JavaScript |
+| [geojson-coords](https://github.com/mapbox/geojson-coords) | Extract coordinates from GeoJSON. | 2016-02-22 | JavaScript |
+| [kine](https://github.com/mapbox/kine) | n/a | 2016-02-23 | JavaScript |
+| [homebrew-cli](https://github.com/mapbox/homebrew-cli) | Homebrew tap for Mapbox command line tools | 2016-02-23 | Ruby |
+| [corslite](https://github.com/mapbox/corslite) | an ajax library for everyone and domains | 2016-02-24 | JavaScript |
+| [iconoblast](https://github.com/mapbox/iconoblast) | App icon dev info burning for iOS and Android.  | 2016-02-24 | Shell |
+| [cloudfront-log-reader](https://github.com/mapbox/cloudfront-log-reader) | Read CloudFront logs files stored in AWS S3 | 2016-02-26 | JavaScript |
+| [uv_zip](https://github.com/mapbox/uv_zip) | libzip bindings for libuv | 2016-02-26 | C++ |
+| [makizushi](https://github.com/mapbox/makizushi) | Professional Maki chef: creates custom markers with Maki icons. | 2016-02-27 | JavaScript |
+| [fontnik](https://github.com/mapbox/fontnik) | Generates Signed Distance Field glyphsets from OpenType fonts | 2016-02-27 | JavaScript |
+| [octokit.swift](https://github.com/mapbox/octokit.swift) | A Swift API Client for GitHub and GitHub Enterprise | 2016-02-29 | Swift |
+| [s3prefixed](https://github.com/mapbox/s3prefixed) | S3 reading operations in prefixed buckets | 2016-02-29 | JavaScript |
+| [dbf](https://github.com/mapbox/dbf) | dbf writer | 2016-03-02 | JavaScript |
+| [ec2bt](https://github.com/mapbox/ec2bt) | `upstart` service for EC2 instances that logs backtraces from coredumps | 2016-03-03 | Shell |
+| [github-status-everywhere](https://github.com/mapbox/github-status-everywhere) | Chrome extension to display commit status of github SHAs | 2016-03-04 | JavaScript |
+| [ten-years-openstreetmap](https://github.com/mapbox/ten-years-openstreetmap) | n/a | 2016-03-05 | JavaScript |
+| [github-org-browser](https://github.com/mapbox/github-org-browser) | List public repos of a GitHub organization, with sorting and search | 2016-03-06 | JavaScript |
+| [dyno](https://github.com/mapbox/dyno) | simple dynamodb client | 2016-03-08 | JavaScript |
+| [rio-merge-rgba](https://github.com/mapbox/rio-merge-rgba) | rio merge alternative optimized for large RGBA rasters | 2016-03-08 | Python |
+| [geojson-flatten](https://github.com/mapbox/geojson-flatten) | flatten multipart geometries and geometrycollections in geojson | 2016-03-08 | JavaScript |
+| [geojson-extent](https://github.com/mapbox/geojson-extent) | Compute an extent given a GeoJSON object. | 2016-03-10 | JavaScript |
+| [node-lru-pool](https://github.com/mapbox/node-lru-pool) | A keyed pool that recycles the least-recently-used objects. | 2016-03-10 | JavaScript |
+| [ibooks-author-example](https://github.com/mapbox/ibooks-author-example) | Files for iBooks Author sample widget for MapBox integration | 2016-03-10 | n/a |
+| [node-unidecode-cxx](https://github.com/mapbox/node-unidecode-cxx) | Experimental port of node-unidecode to C++ | 2016-03-11 | C++ |
+| [osm-fetch](https://github.com/mapbox/osm-fetch) | Fetch XML for a specific version of an OpenStreetMap feature | 2016-03-11 | JavaScript |
+| [osm-edit-report](https://github.com/mapbox/osm-edit-report) | Report editing activity on OpenStreetMap | 2016-03-12 | JavaScript |
+| [geojson-summary](https://github.com/mapbox/geojson-summary) | Generate a plain-english summary of what is in a GeoJSON file. | 2016-03-12 | JavaScript |
+| [dynalite](https://github.com/mapbox/dynalite) | A mock implementation of Amazon's DynamoDB built on LevelDB | 2016-03-14 | JavaScript |
+| [mapbox-press-assets](https://github.com/mapbox/mapbox-press-assets) | n/a | 2016-03-15 | n/a |
+| [lineclip](https://github.com/mapbox/lineclip) | A very fast JavaScript polyline and polygon clipping library | 2016-03-15 | JavaScript |
+| [cwput](https://github.com/mapbox/cwput) | Send custom metrics to AWS CloudWatch | 2016-03-15 | Shell |
+| [earcut-reduce](https://github.com/mapbox/earcut-reduce) | A tile-reduce script to check polygons in vector tiles against Earcut | 2016-03-16 | JavaScript |
+| [cooltip](https://github.com/mapbox/cooltip) | a react tooltip component | 2016-03-17 | JavaScript |
+| [docshot](https://github.com/mapbox/docshot) | Chrome extension for creating simple screenshots for docs. | 2016-03-17 | CSS |
+| [tiletype](https://github.com/mapbox/tiletype) | detect common map tile formats from a buffer | 2016-03-18 | JavaScript |
+| [leaflet-terminator](https://github.com/mapbox/leaflet-terminator) | Displays a solar terminator on a Leaflet map. | 2016-03-18 | JavaScript |
+| [geojson-random](https://github.com/mapbox/geojson-random) | Generate random GeoJSON features. | 2016-03-19 | JavaScript |
+| [s3life](https://github.com/mapbox/s3life) | Helper for managing S3 lifecycle policies. | 2016-03-19 | JavaScript |
+| [probematch](https://github.com/mapbox/probematch) | A small module for matching probes to road networks | 2016-03-20 | JavaScript |
+| [pointcloud](https://github.com/mapbox/pointcloud) | Point cloud visualization | 2016-03-21 | JavaScript |
+| [dynamosm-importer](https://github.com/mapbox/dynamosm-importer) | import a file of line-delimited geojsons to a postgres database | 2016-03-22 | JavaScript |
+| [glyph-pbf-composite](https://github.com/mapbox/glyph-pbf-composite) | Composite glyph PBFs on the fly. | 2016-03-22 | JavaScript |
+| [vector-tile-query](https://github.com/mapbox/vector-tile-query) | vector-tile-query allows you to query vector tiles and return data values from these tiles. | 2016-03-22 | JavaScript |
+| [tilelive-redis](https://github.com/mapbox/tilelive-redis) | Redis wrapping source for tilelive | 2016-03-23 | JavaScript |
+| [tilelive-memcached](https://github.com/mapbox/tilelive-memcached) | memcached wrapping source for tilelive | 2016-03-23 | JavaScript |
+| [snuggs](https://github.com/mapbox/snuggs) | Snuggs are s-expressions for Numpy | 2016-03-23 | Python |
+| [eslint-add](https://github.com/mapbox/eslint-add) | add eslint to codebases really fast | 2016-03-23 | JavaScript |
+| [eslint-config-unstyled](https://github.com/mapbox/eslint-config-unstyled) | an eslint configuration with no style rules | 2016-03-23 | JavaScript |
+| [drone-feedback](https://github.com/mapbox/drone-feedback) | User feedback from https://www.mapbox.com/drone/no-fly/ | 2016-03-23 | n/a |
+| [s3pay](https://github.com/mapbox/s3pay) | s3 cp and ls commands for requester-pays buckets | 2016-03-24 | JavaScript |
+| [tokml](https://github.com/mapbox/tokml) | Convert GeoJSON to KML. | 2016-03-25 | JavaScript |
+| [grid-index](https://github.com/mapbox/grid-index) | A 2D spatial index for axis-aligned boxes | 2016-03-25 | JavaScript |
+| [mapbox-studio-satellite-outdoors.tm2](https://github.com/mapbox/mapbox-studio-satellite-outdoors.tm2) | Vector contours + street labels for Mapbox Satellite | 2016-03-25 | CartoCSS |
+| [landsat8-qa](https://github.com/mapbox/landsat8-qa) | Landsat 8 QA band CLI tool and python lib | 2016-03-26 | Python |
+| [geocoding-example](https://github.com/mapbox/geocoding-example) | Examples of how to use the Mapbox geocoder. | 2016-03-28 | PHP |
+| [turf-server-example](https://github.com/mapbox/turf-server-example) | an example of using turf on a server with node.js | 2016-03-28 | JavaScript |
+| [d3-bucket-ui](https://github.com/mapbox/d3-bucket-ui) | a drag and drop bucket ui for d3 | 2016-03-29 | CSS |
+| [d3-metatable](https://github.com/mapbox/d3-metatable) | a table view for heterogeneous objects | 2016-03-29 | CSS |
+| [node-cpp11](https://github.com/mapbox/node-cpp11) | cpp11-enabled node builds (windows vs2014) | 2016-03-29 | Shell |
+| [locator](https://github.com/mapbox/locator) | A quick and easy way to build maps with markers | 2016-03-30 | JavaScript |
+| [shelf-pack-cpp](https://github.com/mapbox/shelf-pack-cpp) | C++ port of https://github.com/mapbox/shelf-pack | 2016-04-01 | C++ |
+| [decode-webp](https://github.com/mapbox/decode-webp) | JavaScript WebM & WebP decoder (in progress) | 2016-04-03 | JavaScript |
+| [atom-shell](https://github.com/mapbox/atom-shell) | Cross-platform desktop application shell | 2016-04-04 | n/a |
+| [bundle-fairy](https://github.com/mapbox/bundle-fairy) | check if zip file is a bundle, e.g. bunch of several GeoJSONs | 2016-04-04 | JavaScript |
+| [node-require-once](https://github.com/mapbox/node-require-once) | Change require behavior to ensure a single instance of a given module | 2016-04-06 | JavaScript |
+| [s3signed](https://github.com/mapbox/s3signed) | Generate a signed URL for a private S3 object | 2016-04-06 | JavaScript |
+| [geocode-many](https://github.com/mapbox/geocode-many) | given an array of objects and a transform into a geocodable string, geocode them if possible | 2016-04-06 | JavaScript |
+| [running-map-example](https://github.com/mapbox/running-map-example) | An example of how to make a running map with open source components. | 2016-04-06 | JavaScript |
+| [fuzzer](https://github.com/mapbox/fuzzer) | a mutating fuzzer for testing | 2016-04-06 | JavaScript |
+| [versioning-node-cpp](https://github.com/mapbox/versioning-node-cpp) | Convention for publishing node/C++ modules and their dependents | 2016-04-08 | n/a |
+| [patrol-rules-github](https://github.com/mapbox/patrol-rules-github) | GitHub Patrol rules | 2016-04-08 | JavaScript |
+| [homebrew-ios-sim-3](https://github.com/mapbox/homebrew-ios-sim-3) | Homebrew tap for ios-sim 3.x | 2016-04-10 | Ruby |
+| [MBDrawingView.swift](https://github.com/mapbox/MBDrawingView.swift) | Gesture-based drawing overlay view | 2016-04-10 | Swift |
+| [node-blend](https://github.com/mapbox/node-blend) | High speed image encoding, stiching, and compositing | 2016-04-12 | JavaScript |
+| [generate-geo-testing-data](https://github.com/mapbox/generate-geo-testing-data) | use a geonames extract to generate testing geocodes, tiles, and bounding boxes | 2016-04-12 | JavaScript |
+| [mapbox-gl-function](https://github.com/mapbox/mapbox-gl-function) | Evaluate a Mapbox GL style function | 2016-04-12 | JavaScript |
+| [sanitize-caja](https://github.com/mapbox/sanitize-caja) | sanitize html | 2016-04-13 | JavaScript |
+| [minjur](https://github.com/mapbox/minjur) | Osmium-based converter of OSM data to GeoJSON | 2016-04-13 | C++ |
+| [mapbox-upload](https://github.com/mapbox/mapbox-upload) | Node.js library for interfacing with the Mapbox upload API. | 2016-04-14 | JavaScript |
+| [to-color](https://github.com/mapbox/to-color) | convert an arbitrary string into an identifying color | 2016-04-14 | JavaScript |
+| [dawg-cache](https://github.com/mapbox/dawg-cache) | A builder of compact partial directed acyclic word graphs (now in C++) | 2016-04-15 | C++ |
+| [mapbox-gl-whaam-style](https://github.com/mapbox/mapbox-gl-whaam-style) | Roy Lichtenstein inspired map style for Mapbox Studio (GL) | 2016-04-16 | n/a |
+| [open-streets-style](https://github.com/mapbox/open-streets-style) | A TileMill/Carto project for OpenStreetMap PostGIS databases | 2016-04-16 | Python |
+| [react-range](https://github.com/mapbox/react-range) | A react range slider component | 2016-04-16 | JavaScript |
+| [SCSafariPageController](https://github.com/mapbox/SCSafariPageController) | A page view controller component that reproduces Mobile Safari's tab switching behavior | 2016-04-17 | Objective-C |
+| [mapbox-ios-playground](https://github.com/mapbox/mapbox-ios-playground) | watch Tom learn iOS | 2016-04-17 | Objective-C |
+| [mapbox-studio-osm-bright.tm2](https://github.com/mapbox/mapbox-studio-osm-bright.tm2) | A full-featured template / example project for Mapbox Studio using Mapbox Streets vector tiles | 2016-04-18 | CartoCSS |
+| [node-tilejson](https://github.com/mapbox/node-tilejson) | Tile source backend for online tile sources | 2016-04-18 | JavaScript |
+| [Swiftbox](https://github.com/mapbox/Swiftbox) | Mapbox's Objective-C iOS SDK in a Swift app | 2016-04-18 | Objective-C |
+| [cligj](https://github.com/mapbox/cligj) | Click-based argument and option decorators for Python GIS command line programs | 2016-04-18 | Python |
+| [geo-viewport](https://github.com/mapbox/geo-viewport) | Turns bounding boxes / extents into centerpoint & zoom combos for static maps. | 2016-04-18 | JavaScript |
+| [mapbox-geocoder-android](https://github.com/mapbox/mapbox-geocoder-android) | DEPRECATED - Replaced with https://github.com/mapbox/mapbox-java | 2016-04-18 | Java |
+| [mapbox-gl-compare](https://github.com/mapbox/mapbox-gl-compare) | Swipe and sync between two maps | 2016-04-19 | JavaScript |
+| [spherical](https://github.com/mapbox/spherical) | Spherical world utilities | 2016-04-19 | JavaScript |
+| [mapbox-gl-codeflow-example](https://github.com/mapbox/mapbox-gl-codeflow-example) | example of a raw code editing environment with Mapbox GL | 2016-04-19 | JavaScript |
+| [mapbox-studio-default-fonts](https://github.com/mapbox/mapbox-studio-default-fonts) | n/a | 2016-04-19 | n/a |
+| [mapbox-gl-supported](https://github.com/mapbox/mapbox-gl-supported) | A library to determine if a browser supports Mapbox GL JS | 2016-04-19 | JavaScript |
+| [know-the-globe](https://github.com/mapbox/know-the-globe) | n/a | 2016-04-20 | JavaScript |
+| [mapbox-match.js](https://github.com/mapbox/mapbox-match.js) | A plugin to align geometries to streetmap data | 2016-04-20 | HTML |
+| [geojson-area](https://github.com/mapbox/geojson-area) | compute the area of a geojson polygon or multipolygon | 2016-04-20 | JavaScript |
+| [mapbox-sdk-rb](https://github.com/mapbox/mapbox-sdk-rb) | A ruby interface to Mapbox APIs. | 2016-04-20 | Ruby |
+| [geojsonvt.swift](https://github.com/mapbox/geojsonvt.swift) | Port of geojson-vt.js to Swift — slice vector features into tiles on the fly | 2016-04-21 | Swift |
+| [mapbox-gl](https://github.com/mapbox/mapbox-gl) | Issue-only repository for discussion of Mapbox GL | 2016-04-21 | n/a |
+| [linematch](https://github.com/mapbox/linematch) | A super-fast algorithm for comparing road networks. | 2016-04-22 | JavaScript |
+| [vector-tile](https://github.com/mapbox/vector-tile) | A C++  header only library for decoding and encoding Mapbox Vector Tiles | 2016-04-22 | CMake |
+| [wgs84](https://github.com/mapbox/wgs84) | constants of the reference ellipsoid | 2016-04-23 | JavaScript |
+| [sexagesimal](https://github.com/mapbox/sexagesimal) | parse sexagesimal coordinates | 2016-04-23 | JavaScript |
+| [colorbrewer-carto](https://github.com/mapbox/colorbrewer-carto) | Colorbrewer colors for TileMill | 2016-04-24 | n/a |
+| [maki-chef](https://github.com/mapbox/maki-chef) | Customize maki to suit your needs | 2016-04-25 | JavaScript |
+| [mapbox-studio-emerald.tm2](https://github.com/mapbox/mapbox-studio-emerald.tm2) | Emerald map style for Mapbox Studio | 2016-04-25 | CartoCSS |
+| [poi-by-radius-demo](https://github.com/mapbox/poi-by-radius-demo) | [MOVED] https://github.com/mapbox/analysis-demos/tree/mb-pages/nyc-attractions/ | 2016-04-25 | n/a |
+| [mapbox-gl-js-mock](https://github.com/mapbox/mapbox-gl-js-mock) | A maybe-some-day-fully-featured mock for mapbox-gl-js | 2016-04-26 | JavaScript |
+| [mapnik-swoop](https://github.com/mapbox/mapnik-swoop) | Run tests of node-mapnik dependents against upcoming release | 2016-04-26 | JavaScript |
+| [tilelive-overlay](https://github.com/mapbox/tilelive-overlay) | Render GeoJSON features with simplestyle styles in a tilelive pipeline | 2016-04-26 | JavaScript |
+| [vector-tiles](https://github.com/mapbox/vector-tiles) | Documentation for Mapbox Vector Tiles | 2016-04-26 | HTML |
+| [sandy](https://github.com/mapbox/sandy) | visualizing hurricane sandy with NHC data  | 2016-04-27 | JavaScript |
+| [mapbox-studio-winter-wonderland.tm2](https://github.com/mapbox/mapbox-studio-winter-wonderland.tm2) | n/a | 2016-04-27 | n/a |
+| [carmen](https://github.com/mapbox/carmen) | Mapnik vector tile-based geocoder with support for swappable data sources | 2016-04-28 | JavaScript |
+| [mapbox-gl-swiss-ski-style](https://github.com/mapbox/mapbox-gl-swiss-ski-style) | Swiss ski map style (GL) for Mapbox Studio | 2016-04-28 | n/a |
+| [leaflet-geodesy](https://github.com/mapbox/leaflet-geodesy) | a leaflet plugin for the earth | 2016-04-29 | JavaScript |
+| [analysis-demos](https://github.com/mapbox/analysis-demos) | n/a | 2016-04-29 | JavaScript |
+| [overpass-turbo](https://github.com/mapbox/overpass-turbo) | A web based data mining tool for OpenStreetMap using Overpass API. | 2016-04-29 | JavaScript |
+| [mapbox-studio-pencil.tm2](https://github.com/mapbox/mapbox-studio-pencil.tm2) | n/a | 2016-04-29 | CartoCSS |
+| [geo-pixel-stream](https://github.com/mapbox/geo-pixel-stream) | Streaming pixels with node-gdal | 2016-04-29 | JavaScript |
+| [node-wmshp](https://github.com/mapbox/node-wmshp) | Reproject shapefiles to EPSG:3857 using node-gdal | 2016-04-29 | JavaScript |
+| [react-keybinding](https://github.com/mapbox/react-keybinding) | declarative and robust keybindings for react | 2016-04-30 | JavaScript |
+| [Simple-KML](https://github.com/mapbox/Simple-KML) | Simple KML is a simple & lightweight parsing library for KML written in Objective-C for the iOS platform.  | 2016-05-01 | Objective-C |
+| [mapbox-directions-android](https://github.com/mapbox/mapbox-directions-android) | DEPRECATED - Replaced with https://github.com/mapbox/mapbox-java | 2016-05-02 | Java |
+| [osm-boundaries](https://github.com/mapbox/osm-boundaries) | MapBox OSM boundary relation processing | 2016-05-02 | Python |
+| [workshops](https://github.com/mapbox/workshops) | n/a | 2016-05-02 | JavaScript |
+| [sample-sizer](https://github.com/mapbox/sample-sizer) | Implements Student's T-Distribution to identify minimum sample sizes | 2016-05-02 | JavaScript |
+| [mapbox-directions.js](https://github.com/mapbox/mapbox-directions.js) | Leaflet plugin for the Mapbox Directions API | 2016-05-02 | JavaScript |
+| [cfn-config](https://github.com/mapbox/cfn-config) | Quickly configure, start, and update AWS CloudFormation stacks. | 2016-05-02 | JavaScript |
+| [cfn-stack-event-stream](https://github.com/mapbox/cfn-stack-event-stream) | A readable stream of CloudFormation stack events | 2016-05-02 | JavaScript |
+| [mapbox-file-sniff](https://github.com/mapbox/mapbox-file-sniff) | Detects type of spatial file | 2016-05-02 | JavaScript |
+| [jsskel](https://github.com/mapbox/jsskel) | Skeleton of a JavaScript package | 2016-05-02 | JavaScript |
+| [tile-stat-stream](https://github.com/mapbox/tile-stat-stream) | generate statistics from vector tile streams | 2016-05-02 | JavaScript |
+| [geojson-tidy](https://github.com/mapbox/geojson-tidy) | Filter out noisy points from an input geojson lineString | 2016-05-03 | JavaScript |
+| [mapbox-cli-py](https://github.com/mapbox/mapbox-cli-py) | Command line interface to Mapbox Web Services | 2016-05-03 | Python |
+| [natural-earth-tm2](https://github.com/mapbox/natural-earth-tm2) | Example source & style for TM2 using Natural Earth vector data | 2016-05-03 | Shell |
+| [pygeobuf](https://github.com/mapbox/pygeobuf) | A Python playground for the revised Geobuf compact geospatial format | 2016-05-03 | Python |
+| [usgs](https://github.com/mapbox/usgs) | Client library for interfacing with USGS datasets | 2016-05-04 | Python |
+| [grib-doctor](https://github.com/mapbox/grib-doctor) | Utilities for handling quirks of weather data grib files. | 2016-05-04 | Python |
+| [webgl-help](https://github.com/mapbox/webgl-help) | provide useful help for webgl support, derived from get.webgl.org | 2016-05-04 | JavaScript |
+| [modejs](https://github.com/mapbox/modejs) | node module and cli for interacting with the mode analytics api | 2016-05-04 | JavaScript |
+| [mapbox-studio-dark.tm2](https://github.com/mapbox/mapbox-studio-dark.tm2) | n/a | 2016-05-05 | CartoCSS |
+| [mapbox-studio-run-bike-and-hike.tm2](https://github.com/mapbox/mapbox-studio-run-bike-and-hike.tm2) | n/a | 2016-05-05 | CartoCSS |
+| [mapbox-studio-streets.tm2](https://github.com/mapbox/mapbox-studio-streets.tm2) | n/a | 2016-05-05 | CartoCSS |
+| [mapbox-studio-streets-overlay.tm2](https://github.com/mapbox/mapbox-studio-streets-overlay.tm2) | Labels-only style for overlaying on custom imagery | 2016-05-05 | CartoCSS |
+| [mbxmapkit](https://github.com/mapbox/mbxmapkit) | DEPRECATED - Lightweight Mapbox integration with MapKit on iOS | 2016-05-06 | Objective-C |
+| [s3touch](https://github.com/mapbox/s3touch) | Trigger S3 event notifications for objects in an s3 bucket | 2016-05-06 | JavaScript |
+| [shelf-pack](https://github.com/mapbox/shelf-pack) | A 2D rectangular bin packing data structure that uses the Shelf Best Height Fit heuristic | 2016-05-06 | JavaScript |
+| [geojson-mapnikify](https://github.com/mapbox/geojson-mapnikify) | Transform GeoJSON objects into Mapnik XML stylesheets with embedded GeoJSON data and simplestyle-spec-derived styles. | 2016-05-06 | JavaScript |
+| [supercluster.hpp](https://github.com/mapbox/supercluster.hpp) | A fast geospatial static point clustering library for C++14 | 2016-05-06 | C++ |
+| [strxml](https://github.com/mapbox/strxml) | Create xml with strings and concatenation. | 2016-05-06 | JavaScript |
+| [variant](https://github.com/mapbox/variant) | C++11/C++14 Variant | 2016-05-07 | C++ |
+| [hubdb](https://github.com/mapbox/hubdb) | a github-powered database | 2016-05-07 | JavaScript |
+| [jni.hpp](https://github.com/mapbox/jni.hpp) | A modern, type-safe, header-only, C++14 wrapper for JNI | 2016-05-08 | C++ |
+| [osm-tag-stats](https://github.com/mapbox/osm-tag-stats) | filter OSM features, find stats and export GeoJSON using OSM QA Tiles | 2016-05-10 | JavaScript |
+| [geojson-cpp](https://github.com/mapbox/geojson-cpp) | A C++14 library for converting GeoJSON into geometry.hpp representation | 2016-05-10 | C++ |
+| [gowhereisay](https://github.com/mapbox/gowhereisay) | Voice Search for Directions Using Mapbox Directions API | 2016-05-10 | Java |
+| [geojson-fixtures](https://github.com/mapbox/geojson-fixtures) | geojson fixtures for testing and such | 2016-05-10 | JavaScript |
+| [osm-tiler](https://github.com/mapbox/osm-tiler) | experimental osm pbf tiler for efficiently breaking planet files into small chunks | 2016-05-11 | C++ |
+| [guidance-sim](https://github.com/mapbox/guidance-sim) | Creates Mapbox Directions API guidance simulations using Mapbox GL JS | 2016-05-11 | JavaScript |
+| [geojson-merge](https://github.com/mapbox/geojson-merge) | Merge multiple GeoJSON files into one FeatureCollection. | 2016-05-12 | JavaScript |
+| [mbtiles-extracts](https://github.com/mapbox/mbtiles-extracts) | Extract parts of MBTiles into separate files using a GeoJSON with polygons. | 2016-05-12 | JavaScript |
+| [which-polygon](https://github.com/mapbox/which-polygon) | Index for matching points against a set of GeoJSON polygons | 2016-05-12 | JavaScript |
+| [vtile-encode-example-cpp](https://github.com/mapbox/vtile-encode-example-cpp) | Sample C++ code using protozero to create a Mapbox Vector Tile | 2016-05-12 | C++ |
+| [serialtiles-spec](https://github.com/mapbox/serialtiles-spec) | streaming tile transfer protocol | 2016-05-12 | JavaScript |
+| [simplestyle-spec](https://github.com/mapbox/simplestyle-spec) | A simple styling convention for GeoJSON data | 2016-05-12 | n/a |
+| [osrm-matching-inspection](https://github.com/mapbox/osrm-matching-inspection) | Tool to inspect matching generated by the road-network matching plugin in OSRM | 2016-05-12 | JavaScript |
+| [vt2geojson](https://github.com/mapbox/vt2geojson) | Dump vector tiles to GeoJSON | 2016-05-12 | JavaScript |
+| [simplespec-to-gl-style](https://github.com/mapbox/simplespec-to-gl-style) | Converts GeoJSON styled with simplestyle-spec to a GL Style | 2016-05-12 | JavaScript |
+| [supermercado](https://github.com/mapbox/supermercado) | Supercharger for mercantile. H/T @sgillies for the name | 2016-05-12 | Python |
+| [tilelive-file](https://github.com/mapbox/tilelive-file) | tilelive.js adapter for reading from the filesystem | 2016-05-12 | JavaScript |
+| [protozero](https://github.com/mapbox/protozero) | Minimalist protocol buffer decoder and encoder in C++ | 2016-05-13 | C++ |
+| [mapnik-omnivore](https://github.com/mapbox/mapnik-omnivore) | Node module that returns metadata about spatial files. | 2016-05-13 | JavaScript |
+| [osm-sidewalker](https://github.com/mapbox/osm-sidewalker) | Detecting untagged sidewalks in OSM | 2016-05-13 | JavaScript |
+| [osrm-isochrone](https://github.com/mapbox/osrm-isochrone) | Generate drivetime isochrones from OpenStreetMap data using OSRM | 2016-05-15 | JavaScript |
+| [MapBoxBench](https://github.com/mapbox/MapBoxBench) | DEPRECATED MapBox iOS SDK benchmarking tool | 2016-05-15 | Objective-C |
+| [tilebelt](https://github.com/mapbox/tilebelt) | simple tile utilities | 2016-05-15 | JavaScript |
+| [node-sphericalmercator](https://github.com/mapbox/node-sphericalmercator) | Spherical Mercator math in Javascript | 2016-05-16 | JavaScript |
+| [mapbox-gl-directions](https://github.com/mapbox/mapbox-gl-directions) | Directions plugin for mapbox-gl-js using Mapbox Directions API. | 2016-05-16 | JavaScript |
+| [rio-mbtiles](https://github.com/mapbox/rio-mbtiles) | A plugin command for the Rasterio CLI that exports a raster dataset to an MBTiles 1.1 SQLite file | 2016-05-16 | Python |
+| [vt-pbf](https://github.com/mapbox/vt-pbf) | Serialize Mapbox Vector Tiles to binary protobufs in javascript. | 2016-05-16 | JavaScript |
+| [mbtiles-spec](https://github.com/mapbox/mbtiles-spec) | specification documents for the MBTiles tileset format | 2016-05-16 | n/a |
+| [x-files](https://github.com/mapbox/x-files) | Explore the X-Files :alien: an interactive map built with Mapbox GL JS | 2016-05-16 | JavaScript |
+| [tilelive-mapnik](https://github.com/mapbox/tilelive-mapnik) | mapnik renderer backend for tilelive | 2016-05-17 | JavaScript |
+| [patrol-rules-aws](https://github.com/mapbox/patrol-rules-aws) | n/a | 2016-05-17 | JavaScript |
+| [wagyu](https://github.com/mapbox/wagyu) | A general purpose geometry clipping library | 2016-05-17 | C++ |
+| [leaflet-image](https://github.com/mapbox/leaflet-image) | leaflet maps to images | 2016-05-17 | JavaScript |
+| [tcx](https://github.com/mapbox/tcx) | Convert TCX files to GeoJSON in JavaScript. | 2016-05-17 | JavaScript |
+| [patrol](https://github.com/mapbox/patrol) | A general purpose serverless monitoring framework for keeping all of an organization's code secure and correct. | 2016-05-17 | JavaScript |
+| [node-mbtiles](https://github.com/mapbox/node-mbtiles) | mbtiles renderer and storage backend for tilelive | 2016-05-17 | JavaScript |
+| [tile-decorator](https://github.com/mapbox/tile-decorator) | Modify vector tiles in JavaScript and reencode back | 2016-05-17 | JavaScript |
+| [mdast-react-component](https://github.com/mapbox/mdast-react-component) | Render Markdown in React, in a component. | 2016-05-17 | JavaScript |
+| [tilelive-decorator](https://github.com/mapbox/tilelive-decorator) | Load vector tiles from a tilelive source and decorate them with properties from redis. | 2016-05-17 | JavaScript |
+| [js-number-to-string](https://github.com/mapbox/js-number-to-string) | Convert doubles and integers to strings using V8's code | 2016-05-17 | C++ |
+| [node-s2](https://github.com/mapbox/node-s2) | bindings for s2 in node | 2016-05-18 | C++ |
+| [crosstool-configs](https://github.com/mapbox/crosstool-configs) | n/a | 2016-05-18 | Shell |
+| [spritezero-cli](https://github.com/mapbox/spritezero-cli) | A command-line interface to spritezero. | 2016-05-18 | JavaScript |
+| [mapbox-sdk-py](https://github.com/mapbox/mapbox-sdk-py) | Python SDK for Mapbox APIs | 2016-05-18 | Python |
+| [cefclient](https://github.com/mapbox/cefclient) | Custom cef client for tilemill windows | 2016-05-18 | C++ |
+| [password-rules](https://github.com/mapbox/password-rules) | enforce rules on passwords | 2016-05-18 | JavaScript |
+| [mercantile](https://github.com/mapbox/mercantile) | Spherical mercator tile and coordinate utilities | 2016-05-18 | Python |
+| [mapbox-gl-vintage-style](https://github.com/mapbox/mapbox-gl-vintage-style) | Vintage map style for Mapbox Studio (GL) | 2016-05-18 | n/a |
+| [route-annotator](https://github.com/mapbox/route-annotator) | Gets metadata about a route | 2016-05-18 | C++ |
+| [node-srs](https://github.com/mapbox/node-srs) | I parse your exotic projection representations and try to figure out WTF they are + magic detection of spherical mercator and wgs84 variants | 2016-05-18 | JavaScript |
+| [polyline](https://github.com/mapbox/polyline) | polyline encoding and decoding in javascript | 2016-05-18 | JavaScript |
+| [mapnik-pool](https://github.com/mapbox/mapnik-pool) | manage a pool of mapnik map instances | 2016-05-19 | JavaScript |
+| [mapbox-studio-woodcut.tm2](https://github.com/mapbox/mapbox-studio-woodcut.tm2) | A woodcut inspired map for city streets. | 2016-05-19 | CartoCSS |
+| [geometry.hpp](https://github.com/mapbox/geometry.hpp) | C++ geometry types | 2016-05-19 | C++ |
+| [tilelive-bridge](https://github.com/mapbox/tilelive-bridge) | Implements the tilelive API for generating mapnik vector tiles from traditional mapnik datasources. | 2016-05-19 | JavaScript |
+| [leaflet-omnivore](https://github.com/mapbox/leaflet-omnivore) | universal format parser for Leaflet & Mapbox.js | 2016-05-19 | JavaScript |
+| [osm-building-shapes](https://github.com/mapbox/osm-building-shapes) | Tile Reduce processor to find area, perimeter and score to define shapes of buildings in OSM using OSM QA Tiles | 2016-05-19 | JavaScript |
+| [mapbox-earth](https://github.com/mapbox/mapbox-earth) | MapBox Earth | 2016-05-19 | Objective-C |
+| [tilejson-spec](https://github.com/mapbox/tilejson-spec) | JSON format for describing map tilesets. | 2016-05-19 | n/a |
+| [react-click-to-select](https://github.com/mapbox/react-click-to-select) | react component that enables click-to-select interaction | 2016-05-19 | JavaScript |
+| [osm-coverage](https://github.com/mapbox/osm-coverage) | Compute Road Coverage in OpenStreetMap | 2016-05-20 | JavaScript |
+| [concaveman](https://github.com/mapbox/concaveman) | A very fast 2D concave hull algorithm in JavaScript | 2016-05-20 | JavaScript |
+| [tilelive](https://github.com/mapbox/tilelive) | fast interface to tiles with pluggable backends | 2016-05-20 | JavaScript |
+| [streambot](https://github.com/mapbox/streambot) | Robot-assisted deploys to Lambda | 2016-05-21 | JavaScript |
+| [react-geocoder](https://github.com/mapbox/react-geocoder) | A geocoder component using Mapbox. | 2016-05-21 | JavaScript |
+| [MapboxStatic.swift](https://github.com/mapbox/MapboxStatic.swift) | Swift/Objective-C library for Mapbox’s classic Static API | 2016-05-22 | Swift |
+| [MapboxGeocoder.swift](https://github.com/mapbox/MapboxGeocoder.swift) | Swift/Objective-C library for Mapbox’s Geocoding API | 2016-05-22 | Swift |
+| [fontmachine](https://github.com/mapbox/fontmachine) | Make GL-ready pbfs and metadata for usage in fontstack API. | 2016-05-22 | JavaScript |
+| [spritezero](https://github.com/mapbox/spritezero) | small opinionated sprites | 2016-05-22 | JavaScript |
+| [node-fontnik](https://github.com/mapbox/node-fontnik) | Fonts ⇢ protobuf-encoded SDF glyphs | 2016-05-22 | C++ |
+| [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) | Node.js tool for easy binary deployment of C++ addons | 2016-05-22 | JavaScript |
+| [dynamodb-replicator](https://github.com/mapbox/dynamodb-replicator) | module for dynamodb multi-region replication  | 2016-05-22 | JavaScript |
+| [vector-tile-spec](https://github.com/mapbox/vector-tile-spec) | Mapbox Vector Tile specification | 2016-05-22 | Protocol Buffer |
+| [make-surface](https://github.com/mapbox/make-surface) | Vector surfaces creation routines | 2016-05-22 | Python |
+| [geojsonio-cli](https://github.com/mapbox/geojsonio-cli) | a cli for geojson.io | 2016-05-23 | JavaScript |
+| [cz-mapbox-changelog](https://github.com/mapbox/cz-mapbox-changelog) | Commitizen plugin and commit log parsing tools to make generating changelogs | 2016-05-23 | JavaScript |
+| [mapbox-data-team](https://github.com/mapbox/mapbox-data-team) | npm module that can be required to easily obtain a list of OSM usernames, IDs and mappings between usernames and IDs for the Mapbox Data Team | 2016-05-23 | JavaScript |
+| [mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) | Draw tools for mapbox-gl-js | 2016-05-23 | JavaScript |
+| [mapbox-studio-picture-book.tm2](https://github.com/mapbox/mapbox-studio-picture-book.tm2) | Picture book style for mapbox studio. | 2016-05-23 | XML |
+| [maki](https://github.com/mapbox/maki) | POI Icon Set | 2016-05-23 | JavaScript |
+| [cardboard](https://github.com/mapbox/cardboard) | tile indexed geo database interface. | 2016-05-23 | JavaScript |
+| [guidance-geojson](https://github.com/mapbox/guidance-geojson) | generate guidance-specific labelling/route geojson from Mapbox Directions | 2016-05-23 | JavaScript |
+| [abaculus](https://github.com/mapbox/abaculus) | Library for creating static maps from tiles based on center or corner lng,lat coordinates. Uses node-blend. | 2016-05-23 | JavaScript |
+| [MapboxDirections.swift](https://github.com/mapbox/MapboxDirections.swift) | Mapbox Directions for Swift | 2016-05-23 | Swift |
+| [lambda-cfn](https://github.com/mapbox/lambda-cfn) | Quickly define Lambda functions and supporting resources via a javascript CloudFormation template. | 2016-05-24 | JavaScript |
+| [ecs-watchbot](https://github.com/mapbox/ecs-watchbot) | Make robots do your work for you | 2016-05-24 | JavaScript |
+| [geo-googledocs](https://github.com/mapbox/geo-googledocs) | Tools to integrate MapBox with Google Docs | 2016-05-24 | JavaScript |
+| [remark-react](https://github.com/mapbox/remark-react) | Compile Markdown to React with remark | 2016-05-24 | JavaScript |
+| [mapbox-gl-geocoder](https://github.com/mapbox/mapbox-gl-geocoder) | Geocoder control for mapbox-gl-js using Mapbox Geocoding API | 2016-05-24 | JavaScript |
+| [windows-builds](https://github.com/mapbox/windows-builds) | build scripts for mapnik dependencies, mapnik, node-mapnik, node, libosmiom, osmium-tool | 2016-05-24 | Batchfile |
+| [pixelmatch-cpp](https://github.com/mapbox/pixelmatch-cpp) | C++ port of https://github.com/mapbox/pixelmatch | 2016-05-24 | C++ |
+| [earcut.hpp](https://github.com/mapbox/earcut.hpp) | Fast, header-only polygon triangulation | 2016-05-24 | C |
+| [leaflet-knn](https://github.com/mapbox/leaflet-knn) | k-next-nearest-neighbor searches for Leaflet | 2016-05-24 | JavaScript |
+| [tilelive-omnivore](https://github.com/mapbox/tilelive-omnivore) | Implements the tilelive api for a variety of data sources | 2016-05-24 | JavaScript |
+| [rio-color](https://github.com/mapbox/rio-color) | Color correction plugin for rasterio | 2016-05-24 | Python |
+| [osm-bright](https://github.com/mapbox/osm-bright) | A Carto template for OpenStreetMap data | 2016-05-24 | CartoCSS |
+| [the-alchemist](https://github.com/mapbox/the-alchemist) | A 24k  csv-to-pbf converter | 2016-05-24 | C++ |
+| [team-directory](https://github.com/mapbox/team-directory) | A rolodex for teams | 2016-05-24 | JavaScript |
+| [mapbox-gl-shaders](https://github.com/mapbox/mapbox-gl-shaders) | GLSL shaders shared between mapbox-gl-js and mapbox-gl-native | 2016-05-24 | GLSL |
+| [npm-internal](https://github.com/mapbox/npm-internal) | helps you package internal npm modules and upload them to your own s3 bucket. | 2016-05-25 | JavaScript |
+| [whoots-js](https://github.com/mapbox/whoots-js) | Request tiles from WMS servers that support EPSG:3857  | 2016-05-25 | JavaScript |
+| [auto-tools](https://github.com/mapbox/auto-tools) | n/a | 2016-05-25 | Java |
+| [node-zipfile](https://github.com/mapbox/node-zipfile) | Inspect and uncompress zipfile archives in Node.js | 2016-05-25 | C++ |
+| [tilelive-vector](https://github.com/mapbox/tilelive-vector) | Implements the tilelive API for rendering mapnik vector tiles to raster images. | 2016-05-25 | JavaScript |
+| [geojson-vt-cpp](https://github.com/mapbox/geojson-vt-cpp) | Port to C++ of JS GeoJSON-VT for slicing GeoJSON into vector tiles on the fly | 2016-05-25 | C++ |
+| [mapbox-android-demo](https://github.com/mapbox/mapbox-android-demo) | Demo App for Mapbox Android SDK on Google Play | 2016-05-25 | Java |
+| [mapbox-gl-styles](https://github.com/mapbox/mapbox-gl-styles) | Prebuilt Mapbox GL styles for use in Mapbox GL JS or the Mapbox Mobile SDKs and as a starting point for custom maps built with Mapbox Studio | 2016-05-25 | JavaScript |
+| [shp-write](https://github.com/mapbox/shp-write) | create and write to shapefiles in pure javascript | 2016-05-25 | JavaScript |
+| [geojsonhint](https://github.com/mapbox/geojsonhint) | validate geojson objects against the specification | 2016-05-25 | JavaScript |
+| [react-colorpickr](https://github.com/mapbox/react-colorpickr) | A colorpicker for React | 2016-05-25 | JavaScript |
+| [guidance-replay](https://github.com/mapbox/guidance-replay) | Event source for visual guidance simulation that turns timestamped GeoJSON into mock location events | 2016-05-25 | JavaScript |
+| [rio-hist](https://github.com/mapbox/rio-hist) | Histogram matching plugin for rasterio | 2016-05-25 | Python |
+| [cncc](https://github.com/mapbox/cncc) | Customizable Naming Convention Checker - uses Clang, developed with C++ in mind | 2016-05-25 | Python |
+| [vector-tile-js](https://github.com/mapbox/vector-tile-js) | Parses vector tiles with JavaScript | 2016-05-25 | JavaScript |
+| [mapbox-java](https://github.com/mapbox/mapbox-java) | Mapbox Java and Android Services. | 2016-05-25 | Java |
+| [mapnik-vector-tile](https://github.com/mapbox/mapnik-vector-tile) | Mapnik implemention of Mapbox Vector Tile specification | 2016-05-25 | C++ |
+| [mapbox.js](https://github.com/mapbox/mapbox.js) | Mapbox JavaScript API, a Leaflet Plugin | 2016-05-25 | HTML |
+| [retext-mapbox-standard](https://github.com/mapbox/retext-mapbox-standard) | Enforce Mapbox rules about language. | 2016-05-25 | JavaScript |
+| [landspeed.js](https://github.com/mapbox/landspeed.js) | WMS server using node-mapnik | 2016-05-26 | JavaScript |
+| [pixelmatch](https://github.com/mapbox/pixelmatch) | The smallest, simplest and fastest JavaScript pixel-level image comparison library | 2016-05-26 | JavaScript |
+| [mapbox-gl-leaflet](https://github.com/mapbox/mapbox-gl-leaflet) | binding from Mapbox GL JS to the Leaflet API | 2016-05-26 | JavaScript |
+| [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) | awesome implementations of the Mapbox Vector Tile specification | 2016-05-26 | n/a |
+| [geojson-rewind](https://github.com/mapbox/geojson-rewind) | enforce polygon ring winding order for geojson | 2016-05-26 | JavaScript |
+| [leaflet-pip](https://github.com/mapbox/leaflet-pip) | point in polygon intersections for leaflet | 2016-05-26 | JavaScript |
+| [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) | Render Mapbox styles in the browser using JavaScript and WebGL | 2016-05-26 | JavaScript |
+| [rasterio](https://github.com/mapbox/rasterio) | Rasterio reads and writes geospatial raster datasets | 2016-05-26 | Python |
+| [navigation.js](https://github.com/mapbox/navigation.js) | Utility for monitoring a user location in relation to a route | 2016-05-26 | JavaScript |
+| [mapbox-gl-style-spec](https://github.com/mapbox/mapbox-gl-style-spec) | Mapbox GL map style specification | 2016-05-26 | JavaScript |
+| [geojson-vt](https://github.com/mapbox/geojson-vt) | Slice GeoJSON into vector tiles on the fly in the browser | 2016-05-26 | JavaScript |
+| [ecs-conex](https://github.com/mapbox/ecs-conex) | ECS Container Express | 2016-05-26 | Shell |
+| [mbview](https://github.com/mapbox/mbview) | View mbtiles locally | 2016-05-26 | JavaScript |
+| [road-diff](https://github.com/mapbox/road-diff) | A Tile Reduce script for vector tiles road network comparison. | 2016-05-26 | JavaScript |
+| [pbf](https://github.com/mapbox/pbf) | A low-level, lightweight protocol buffers implementation in JavaScript. | 2016-05-26 | JavaScript |
+| [geojson.io](https://github.com/mapbox/geojson.io) | fast, simple map creation | 2016-05-26 | JavaScript |
+| [geobuf](https://github.com/mapbox/geobuf) | A compact binary encoding for geographic data. | 2016-05-27 | JavaScript |
+| [mapbox-tile-copy](https://github.com/mapbox/mapbox-tile-copy) | From geodata files to tiles on S3 | 2016-05-27 | JavaScript |
+| [untiler](https://github.com/mapbox/untiler) | Stitch image tiles into larger composite TIFs | 2016-05-27 | Python |
+| [vector-tile-encoding-interactive](https://github.com/mapbox/vector-tile-encoding-interactive) | n/a | 2016-05-27 | JavaScript |
+| [utfgrid-spec](https://github.com/mapbox/utfgrid-spec) | Specification for UTFGrid, a format for rasterized interaction data | 2016-05-27 | n/a |
+| [mapping](https://github.com/mapbox/mapping) | OpenStreetMap contribution work | 2016-05-27 | JavaScript |
+| [tippecanoe](https://github.com/mapbox/tippecanoe) | Build vector tilesets from large collections of GeoJSON features. | 2016-05-27 | C++ |
+| [mason](https://github.com/mapbox/mason) | Cross platform package manager for C/C++ apps | 2016-05-27 | Shell |
+| [feature-filter](https://github.com/mapbox/feature-filter) | Creates filtering function for vector tile features | 2016-05-27 | JavaScript |
+| [csv2geojson](https://github.com/mapbox/csv2geojson) | magically convert csv files to geojson files | 2016-05-27 | JavaScript |
+| [tile-reduce](https://github.com/mapbox/tile-reduce) | mapreduce vector tile processing | 2016-05-27 | JavaScript |
+| [compare-geojson](https://github.com/mapbox/compare-geojson) | Functions that identify what changed during a feature edit on OpenStreetMap. | 2016-05-27 | JavaScript |
+| [supercluster](https://github.com/mapbox/supercluster) | A crazy fast geospatial point clustering library for browsers and Node. | 2016-05-27 | JavaScript |
+| [pyskel](https://github.com/mapbox/pyskel) | Skeleton of a Python package | 2016-05-27 | Python |
+| [tile-cover](https://github.com/mapbox/tile-cover) | generate the minimum number of tiles to cover a geojson geometry | 2016-05-27 | JavaScript |
+| [rio-mucho](https://github.com/mapbox/rio-mucho) | Parallel processing wrapper for rasterio | 2016-05-27 | Python |
+| [wellknown](https://github.com/mapbox/wellknown) | GeoJSON-emitting WKT parser for browsers and node | 2016-05-27 | JavaScript |
+| [carto](https://github.com/mapbox/carto) | fast CSS-like map stylesheets | 2016-05-27 | JavaScript |
+| [tile-reduce-diff](https://github.com/mapbox/tile-reduce-diff) | Tile Reduce processor to find deleted features by diffing previous and latest OSM QA tiles. | 2016-05-27 | JavaScript |
+| [mbutil](https://github.com/mapbox/mbutil) | Importer and Exporter of MBTiles | 2016-05-27 | Python |
+| [meta-mapbox](https://github.com/mapbox/meta-mapbox) | Mapbox Yocto Layer | 2016-05-27 | BitBake |
+| [mapbox-sdk-js](https://github.com/mapbox/mapbox-sdk-js) | A node.js and browser JavaScript client to Mapbox services | 2016-05-27 | JavaScript |
+| [togeojson](https://github.com/mapbox/togeojson) | convert KML and GPX to GeoJSON, without the fuss | 2016-05-27 | JavaScript |
+| [mapbox-studio-classic](https://github.com/mapbox/mapbox-studio-classic) | n/a | 2016-05-28 | JavaScript |
+| [docbox](https://github.com/mapbox/docbox) | REST API documentation generator | 2016-05-28 | CSS |
+| [cheap-ruler](https://github.com/mapbox/cheap-ruler) | Fast approximations for common geographic measurements | 2016-05-28 | JavaScript |
+| [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) | Render Mapbox styles in mobile, desktop, and node applications using C++ and OpenGL | 2016-05-28 | C++ |
+| [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) | A Mapbox GL react native module for creating custom maps | 2016-05-28 | Objective-C |
+| [postgis-vt-util](https://github.com/mapbox/postgis-vt-util) | postgres helper functions for making vector tiles | 2016-05-28 | PLpgSQL |
+| [node-sqlite3](https://github.com/mapbox/node-sqlite3) | Asynchronous, non-blocking SQLite3 bindings for Node.js | 2016-05-28 | PLpgSQL |
+| [tilemill](https://github.com/mapbox/tilemill) | A modern map design studio. | 2016-05-28 | JavaScript |
+| [Fingertips](https://github.com/mapbox/Fingertips) | Touch indicators on external displays for iOS applications. | 2016-05-28 | Objective-C |
+| [earcut](https://github.com/mapbox/earcut) | The fastest and smallest JavaScript polygon triangulation library for your WebGL apps | 2016-05-28 | JavaScript |
