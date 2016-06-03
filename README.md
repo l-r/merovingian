@@ -1,6 +1,6 @@
 # The merovingian
 
-![merovingian](http://vignette3.wikia.nocookie.net/matrix/images/d/d0/Merovingian.jpg/revision/latest?cb=20080913033701)
+![merovingian](https://i.ytimg.com/vi/3td5UpAXeJ4/maxresdefault.jpg)
 
 ```
 The Merovingian (sometimes called The Frenchman) is an old, 
@@ -9,7 +9,7 @@ as a "trafficker of information," the Merovingian behaves much
 as a leader of a powerful organized crime syndicate.
 ```
 
-## Mapbox repositories
+## Public Mapbox repositories
 
 [by name](md/name.md)
 
@@ -33,3 +33,7 @@ node lib/clean.js  # keep only the fields we need to write md files. Creates dat
 ```bash
 node lib/generate.js  # generate markdown files. Creates description.md, language.md, name.md, updated_at.md
 ```
+
+## Warnings & gotchas
+
+This code uses ES6!
