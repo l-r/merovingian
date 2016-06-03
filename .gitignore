@@ -3,3 +3,4 @@
 *.json
 venv
 .idea/*
+node_modules/*
