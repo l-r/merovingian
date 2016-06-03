@@ -11,13 +11,10 @@ as a leader of a powerful organized crime syndicate.
 
 ## Public Mapbox repositories
 
-[by name](md/name.md)
-
-[by language](md/language.md)
-
-[by updated](md/updated_at.md)
-
-[by description](md/description.md)
+- [By name](md/name.md)
+- [By language](md/language.md)
+- [By updated](md/updated_at.md)
+- [By description](md/description.md)
 
 
 ## Scripts
@@ -28,7 +25,7 @@ as a leader of a powerful organized crime syndicate.
 node lib/download.js
 ```
 
-- Creates data/rawRepoData.json
+- Creates `data/rawRepoData.json`
 - Should output similar to:
 
 ```bash
@@ -56,7 +53,7 @@ node lib/clean.js
 ```
 
 - Keep only the fields we need to write md files. 
-- Creates data/cleanRepoData.json
+- Creates `data/cleanRepoData.json`
 
 
 #### Generate markdown files
