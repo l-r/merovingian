@@ -3,9 +3,9 @@
 ![The Merovingian](https://i.ytimg.com/vi/3td5UpAXeJ4/maxresdefault.jpg)
 
 ```
-The Merovingian (sometimes called The Frenchman) is an old, powerful program that
-resides within the Matrix. Self-described as a "trafficker of information," the 
-Merovingian behaves much as a leader of a powerful organized crime syndicate.
+The Merovingian (sometimes called The Frenchman) is an old, powerful program that resides within
+the Matrix. Self-described as a "trafficker of information," the Merovingian behaves much as a 
+leader of a powerful organized crime syndicate.
 ```
 
 ## Public Mapbox repositories
