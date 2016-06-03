@@ -36,4 +36,5 @@ node lib/generate.js  # generate markdown files. Creates description.md, languag
 
 ## Warnings & gotchas
 
-This code uses ES6!
+- This code uses ES6!
+- the `download` script uses the public github api, which is very tightly rate-limited for unauthenticated requests (which it does). You can only run it a few times before hitting a 403.
