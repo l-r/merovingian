@@ -22,17 +22,54 @@ as a leader of a powerful organized crime syndicate.
 
 ## Scripts
 
-```bash
-node lib/download.js  # get all public repo information. Creates data/rawRepoData.json
-```
+#### Download raw public repo data
 
 ```bash
-node lib/clean.js  # keep only the fields we need to write md files. Creates data/cleanRepoData.json
+node lib/download.js
 ```
 
+- Creates data/rawRepoData.json
+- Should output similar to:
+
 ```bash
-node lib/generate.js  # generate markdown files. Creates description.md, language.md, name.md, updated_at.md
+Found  100  items
+Total items: 100
+Found  100  items
+Total items: 200
+Found  100  items
+Total items: 300
+Found  100  items
+Total items: 400
+Found  100  items
+Total items: 500
+Found  100  items
+Total items: 600
+Found  66  items
+Total items: 666
+Empty response, stop here.
 ```
+
+#### Clean data
+
+```bash
+node lib/clean.js
+```
+
+- Keep only the fields we need to write md files. 
+- Creates data/cleanRepoData.json
+
+
+#### Generate markdown files
+
+```bash
+node lib/generate.js
+```
+
+- Creates 
+  - `md/description.md`
+  - `md/language.md`
+  - `md/name.md`
+  - `md/updated_at.md`
 
 ## Warnings & gotchas
 
