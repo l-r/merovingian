@@ -11,10 +11,25 @@ as a leader of a powerful organized crime syndicate.
 
 ## Mapbox repositories
 
-[by name](name.md)
+[by name](md/name.md)
 
-[by language](language.md)
+[by language](md/language.md)
 
-[by updated](updated_at.md)
+[by updated](md/updated_at.md)
 
-[by description](description.md)
+[by description](md/description.md)
+
+
+## Scripts
+
+```bash
+node lib/download.js  # get all public repo information. Creates data/rawRepoData.json
+```
+
+```bash
+node lib/clean.js  # keep only the fields we need to write md files. Creates data/cleanRepoData.json
+```
+
+```bash
+node lib/generate.js  # generate markdown files. Creates description.md, language.md, name.md, updated_at.md
+```
